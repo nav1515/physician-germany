@@ -352,4 +352,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Credentials file
+notebooks/credentials.json
+
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,windows,linux,dotenv,pycharm,visualstudiocode
