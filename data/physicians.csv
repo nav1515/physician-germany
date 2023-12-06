@@ -1,0 +1,1621 @@
+,name,expertise,distance,street_and_house_no,zipcode_and_city,telephone
+0,Frau Dr. med. Christa Hutterer,"Fachärztin für Diagnostische Radiologie, Fachärztin für Allgemeinmedizin",0.1 km,Kaufingerstraße 15,80331 München-Altstadt-Lehel,089 / 2 00 01 43 - 50
+1,Herr Dr. med. Josef J. Dohrenbusch,Facharzt für Allgemeinmedizin,0.1 km,Kaufingerstraße 12,80331 München,089 / 24 20 93 98
+2,Frau Dr. med. Heidi Herrmann,Fachärztin für Innere Medizin,0.1 km,Altheimer Eck 2,80331 München,089 / 45 22 81 81
+3,Herr Dr. med. (univ.) Thomas Wendel,Praktischer Arzt,0.1 km,Altheimer Eck 10,80331 München,089 / 89 67 40 20
+4,Frau Dr. med. Sabine Konz,Praktische Ärztin,0.2 km,Eisenmannstraße 4,80331 München,089 / 37 02 97 67
+5,Herr Dr. med. (univ.) Martin Ehrlinger,Facharzt für Psychiatrie,0.2 km,Eisenmannstraße 4,80331 München,089 / 23 25 99 90
+6,Frau Dr. med. Ping He,Ärztin,0.2 km,Rosenstraße 6,80331 München,089 / 93 09 42 72
+7,Frau Dr. (IMF Bukarest) Adina Jansen,Fachärztin für Allgemeinmedizin,0.2 km,Weinstraße 11,80333 München,089 / 29 23 00
+8,Frau Dr. med. Rosemarie Klotz,Fachärztin für Allgemeinmedizin,0.2 km,Hackenstraße 2,80331 München-Altstadt,089 / 67 40 28
+9,Frau Dr. med. Stephanie Schiele,Fachärztin für Allgemeinmedizin,0.2 km,Maffeistraße 3,80333 München,089 / 2 17 77 70
+10,Frau  Aleksandra Nikolic,Fachärztin für Allgemeinmedizin,0.2 km,Sendlinger Straße 14,80331 München,089 / 5 50 50 90
+11,Frau Dr. med. Imogen Lenhart,Praktische Ärztin,0.2 km,Windenmacherstraße 2,80333 München,089 / 50 80 60 60
+12,Frau  Camelia Badulescu,Fachärztin für Allgemeinmedizin,0.2 km,Weinstraße 11,80333 München,089 / 29 23 00
+13,Avi Medical Hausarztpraxis München Hofstatt,Medizinisches Versorgungszentrum,0.2 km,Hackenstraße 2,80331 München,089 / 1 25 01 45 40
+14,Herr  Gerhard Antrup,Praktischer Arzt,0.2 km,Weinstraße 11,80333 München,089 / 66 09 01 49
+15,Frau Dr. med. Renate Späth,Fachärztin für Allgemeinmedizin,0.3 km,Sendlinger Straße 20,80331 München,089 / 9 82 98 53
+16,Frau  Bettina Ehrt,Praktische Ärztin,0.3 km,Hackenstraße 1,80331 München,089 / 69 79 79 12
+17,Frau Dr. med. Sandra Widmann,Ärztin,0.3 km,Theatinerstraße 1,80333 München,089 / 18 90 82 90
+18,Frau Dr. med. Erika Goldhammer,Praktische Ärztin,0.4 km,Herzog-Wilhelm-Straße 17,80331 München,089 / 26 02 31 60
+19,Herr Dr. med. Martin Johannes Baur,Facharzt für Allgemeinmedizin,0.4 km,Josephspitalstraße 9,80331 München,089 / 26 94 99 66
+20,Frau Dr. med. (IMF Temeschburg) Diana Karnath,"FÄ für Allgemeinmedizin, FÄ für Innere Medizin und Endokrinologie und Diabetologie",0.4 km,Residenzstraße 3,80333 München-Altstadt-Lehel,089 / 4 13 00 80
+21,Frau Dr. Leila Ketabchi,Fachärztin für Allgemeinmedizin,0.4 km,Sendlinger Straße 37,80331 München,089 / 59 48 02
+22,Frau Dr. med. Paula Bürkle-Grasse,Fachärztin für Allgemeinmedizin,0.4 km,Herzog-Wilhelm-Straße 17,80331 München,089 / 54 50 64 46
+23,Herr Dr. med. Christoph Pooth,Facharzt für Allgemeinmedizin,0.4 km,Burgstraße 7,80331 München,089 / 22 91 85
+24,Frau Dr. med. Isabel Zimmermann,Fachärztin für Allgemeinmedizin,0.4 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+25,Frau Dr. med. Cornelia Bernutz,Ärztin,0.4 km,Viktualienmarkt 8,80331 München,089 / 2 42 91 20
+26,Frau Dr. med. Kathrin Senckenberg,Fachärztin für Allgemeinmedizin,0.4 km,Theatinerstraße 14,80333 München,089 / 24 21 76 66
+27,Frau Dr. med. Dagmar Dreher-Spika,Fachärztin für Allgemeinmedizin,0.4 km,Sendlinger Straße 37,80331 München,089 / 59 48 02
+28,Frau Dr. med. (univ.) Barbara Berling,Praktische Ärztin,0.4 km,Burgstraße 7,80331 München,089 / 64 91 59 64
+29,Frau Dr. med. Isabel Pinol,Fachärztin für Allgemeinmedizin,0.4 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+30,Frau Dr. med. Khalid Wassif,Fachärztin für Allgemeinmedizin,0.4 km,Sendlinger Straße 37,80331 München,089 / 59 49 11
+31,Herr Dr. med. Karl Mehnert,Praktischer Arzt,0.4 km,Sendlinger Straße 37,80331 München,089 / 6 93 19 20
+32,Herr Dr. med. Necdet Bulut,Facharzt für Allgemeinmedizin,0.4 km,Sendlinger Straße 37,80331 München-Altstadt-Lehel,089 / 59 48 02
+33,Herr Dr. med. Bernhard Ahlborn,Facharzt für Allgemeinmedizin,0.5 km,Maximiliansplatz 12 a,80333 München,089 / 22 73 44
+34,Herr Dr. med. Jürgen Malaka,Arzt - Master of Public Health (MPH),0.5 km,Sonnenstraße 2,80331 München,089 / 62 89 98 34
+35,Herr Dr. med. Bernd Walther,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.5 km,Tal 6,80331 München-Altstadt-Lehel,089 / 22 07 63
+36,Herr Dr. med. Martin Landenberger,Facharzt für Allgemeinmedizin,0.5 km,Barer Straße 1 a,80333 München,089 / 51 40 37 40
+37,Herr Dr. med. Thomas Rieger,Facharzt für Allgemeinmedizin,0.5 km,Ledererstraße 4,80331 München,089 / 22 28 87
+38,Herr Dr. med. Christoph Fürbeth,Arzt,0.5 km,Tal 10,80331 München,089 / 29 16 07 78
+39,Herr Dr. med. Michael Krieger,Facharzt für Allgemeinmedizin,0.5 km,Karlsplatz 4,80335 München,089 / 55 02 88 77
+40,Frau Dr. med. Layla Beicht,Praktische Ärztin,0.5 km,Residenzstraße 19,80333 München,089 / 54 50 72 16
+41,Herr Prof. Dr. Dr. Thomas Möller M.A.,Facharzt für Allgemeinmedizin,0.5 km,Theatinerstraße 31,80333 München,089 / 29 30 24
+42,Frau  Mina Ostrovskaja,Fachärztin für Allgemeinmedizin,0.5 km,Sonnenstraße 3,80331 München,089 / 2 60 34 79
+43,Herr Dr. med. Tino Müller,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin",0.5 km,Theatinerstraße 12,80333 München,089 / 22 16 09
+44,Frau  Tatiana Levitin,Fachärztin für Allgemeinmedizin,0.5 km,Ledererstraße 4,80331 München,089 / 22 07 73
+45,Herr Dr. med. Dr. med. dent. Robert F. Berger,Zahnarzt,0.5 km,Lenbachplatz 2a,80333 München,089 / 51 56 79 63
+46,Herr  Alexander Philippi,Facharzt für Allgemeinmedizin,0.5 km,Blumenstraße 1,80331 München,089 / 26 37 55
+47,Medizinisches Versorgungszentrum Karlsplatz,,0.5 km,Karlsplatz 8,80335 München,089 / 5 58 70 30
+48,Frau Dr. med. Ute Walk,Fachärztin für Allgemeinmedizin,0.5 km,Reichenbachstraße 3 a,80469 München,089 / 24 21 49 40
+49,Herr Dr. med. Sven Illig,Praktischer Arzt,0.5 km,Ledererstraße 4,80331 München,089 / 20 33 59 99
+50,Frau Dr. med. (univ.) Patricia Singer,"Fachärztin für Allgemeinmedizin, Fachärztin für Orthopädie und Unfallchirurgie",0.5 km,Karlsplatz 4,80335 München,089 / 35 89 83 85
+51,Frau Dr. med. Kathrin Bretthauer,Ärztin,0.5 km,Reichenbachstraße 3a,80469 München,089 / 32 80 13 12
+52,Frau Dr. med. Agnes Lobensteiner,Praktische Ärztin,0.5 km,Reichenbachstraße 3 a,80469 München,089 / 90 41 48 21
+53,Frau Dr. med. Doris Mägdefrau-Roth,Ärztin,0.5 km,Tal 13,80331 München,089 / 36 00 63 99
+54,Herr Dr. med. Johannes Rosenberger,Praktischer Arzt,0.5 km,Maximilianstraße 2,80539 München,089 / 20 50 08 56 10
+55,Herr Dr. med. (Univ. Agram) Danko Cerovecki,Facharzt für Allgemeinmedizin,0.6 km,Schwanthalerstraße 3,80336 München,089 / 55 50 70
+56,Frau  Gabriele Jahns,Ärztin,0.6 km,Platzl 3,80331 München-Altstadt-Lehel,089 / 29 81 91
+57,Frau Dr. med. Cordula Gepp-Gröger,Fachärztin für Allgemeinmedizin,0.6 km,Tal 15,80331 München,089 / 29 16 27 03
+58,Frau Dr. med. Monika Grau,Fachärztin für Allgemeinmedizin,0.6 km,Tal 21,80331 München,089 / 29 16 81 60
+59,Frau Dr. med. Elena Pfister,Fachärztin für Allgemeinmedizin,0.6 km,Bayerstraße 3,80335 München,089 / 20 60 99 60
+60,Frau Dr. med. Sabine Brommer,Praktische Ärztin,0.6 km,Brienner Straße 11,80333 München,089 / 29 89 42
+61,Frau Dr. med. Valerie Malouvier,Ärztin,0.6 km,Ottostraße 11,80333 München,089 / 59 98 88 - 0
+62,Isar MVZ GmbH,,0.6 km,Sonnenstraße 24 - 26,80331 München-Ludwigsvorstadt-Isarvorstadt,089 / 14 99 03 - 0
+63,Frau Dr. med. Barbara Irmler,Praktische Ärztin,0.6 km,Hochbrückenstraße 3,80331 München-Altstadt-Lehel,089 / 29 16 51 43
+64,Frau  Afssaneh Hachemi,Fachärztin für Allgemeinmedizin,0.6 km,An der Hauptfeuerwache 4,80331 München,089 / 2 60 41 21
+65,Frau Dr. med. Theresa Apelmann,Ärztin in Weiterbildung,0.6 km,Brienner Straße 11,80333 München,089 / 22 35 23
+66,Herr  Haidong Wu,Praktischer Arzt,0.6 km,Sonnenstraße 4,80331 München,089 / 5 52 25 50
+67,Herr Dr. med. Stephan Guggenbichler,Facharzt für Allgemeinmedizin,0.6 km,Frauenstraße 17,80469 München,089 / 29 99 52
+68,Frau Dr. med. Viola Eising,Fachärztin für Allgemeinmedizin,0.6 km,Sonnenstraße 6,80331 München,089 / 55 08 94 00
+69,Frau Dr. med. Silke Dankesreiter-Ruml,Fachärztin für Allgemeinmedizin,0.6 km,Sonnenstraße 24 - 26,80331 München,089 / 44 37 43 88
+70,Herr Dr. med. Ulrich Bauhofer,Arzt,0.6 km,Falkenturmstraße 12,80331 München-Altstadt-Lehel,089 / 21 04 36 95
+71,Frau Dr. (IMF Neumarkt) Monica Tzelepides,Fachärztin für Allgemeinmedizin,0.6 km,Sonnenstraße 10,80331 München,089 / 26 62 58
+72,Herr Dr. med. Adrian Schmidt,Facharzt für Allgemeinmedizin,0.6 km,Hochbrückenstraße 3,80331 München,089 / 26 02 65 01
+73,Frau Dr. med. Carola Riedner,Fachärztin für Allgemeinmedizin,0.6 km,Bayerstraße 3 - 5,80335 München,089 / 3 09 08 86 - 516
+74,Herr Dr. med. Werner Grauberger,Praktischer Arzt,0.6 km,Arcostraße 5,80333 München,089 / 22 24 00
+75,Herr  Dominik Völk,Facharzt für Innere Medizin,0.6 km,Sonnenstraße 29,80331 München,089 / 4 42 38 34 00
+76,Herr Dr. med. (univ.) Felix Becker,Facharzt für Allgemeinmedizin,0.6 km,Sonnenstraße 24-26,80331 München,089 / 14 99 03 12 08
+77,Frau Dr. Mirela Iconaru,Fachärztin für Allgemeinmedizin,0.6 km,Sonnenstraße 29,80331 München,089 / 4 52 05 90 75
+78,Frau Dr. Anke Löffler,Fachärztin für Allgemeinmedizin,0.6 km,Sonnenstraße 24-26,80331 München,089 / 14 99 03 74 40
+79,Frau  Ilona Tishina,Fachärztin für Allgemeinmedizin,0.6 km,Sonnenstraße 29,80331 München,089 / 4 52 05 90 75
+80,Praxis für Psychiatrie,,0.6 km,Brienner Straße 3,80333 München,089 / 24 29 03 09
+81,Frau Dr. med. Ruxandra Iliescu-Steiner,Fachärztin für Allgemeinmedizin,0.7 km,Tal 48,80331 München,089 / 29 43 91
+82,Herr Dr. med. Otto Bertermann,Praktischer Arzt,0.7 km,Gärtnerplatz 5,80469 München,089 / 26 76 36
+83,Frau Dr. med. Patricia März,Fachärztin für Allgemeinmedizin,0.7 km,Schützenstraße 5,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 55 71 71
+84,Herr Dr. med. Dr. med. univ. Thomas Beck,Praktischer Arzt,0.7 km,Schützenstraße 3,80335 München,089 / 59 35 93
+85,Herr Dr. med. Goran Stojmenovic,Facharzt für Allgemeinmedizin,0.7 km,Landwehrstraße 7,80336 München,089 / 54 88 77 87
+86,Herr Dr. med. Jan Geißler,Arzt,0.7 km,Pettenkoferstraße 1,80336 München,089 / 5 52 59 90
+87,Herr Dr. med. (univ.) Serbaz Inal,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.7 km,Bayerstraße 15,80335 München,089 / 5 20 33 90
+88,Kirinus Praxis GmbH,Medizinisches Versorgungszentrum Sendlinger Tor,0.7 km,Sendlinger-Tor-Platz 7,80336 München,089 / 37 50 89 86 - 0
+89,Herr Dr. med. Nils Postel,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.7 km,Sendlinger-Tor-Platz 8,80336 München,089 / 5 48 84 37 80
+90,Frau Dr. med. Janina Supova,Ärztin,0.7 km,Mathildenstraße 1 a,80336 München,089 / 59 45 88
+91,Frau Dr. med. Nataliya Vorobyova,Fachärztin für Allgemeinmedizin,0.7 km,Sendlinger-Tor-Platz 7,80336 München,089 / 59 52 44
+92,Herr Dr. med. Rudolf Fischl,Facharzt für Allgemeinmedizin,0.7 km,Sendlinger-Tor-Platz 7,80336 München,089 / 59 49 28
+93,Frau Dr. med. Carola Riedner,Fachärztin für Allgemeinmedizin,0.7 km,Pettenkoferstraße 8 a,80336 München,089 / 4 40 05 22 38
+94,Herr Dr. med. Adrian Schmidt,Facharzt für Allgemeinmedizin,0.7 km,Sendlinger-Tor-Platz 7,80336 München,089 / 45 01 94 76
+95,Frau  Jutta Söllner,Fachärztin für Allgemeinmedizin,0.7 km,Corneliusstraße 14,80469 München,089 / 26 63 61
+96,Frau Dr. med. Susanna M. Wasner,Praktische Ärztin,0.7 km,Pettenkoferstraße 1,80336 München,089 / 5 52 59 90
+97,Herr B.Sc.(Jiamusi Medical College) Xuming Li,Praktischer Arzt,0.7 km,Sendlinger-Tor-Platz 7,80336 München,089 / 23 71 23 61
+98,Frau Dr. med. Irmela Dialer,Fachärztin für Allgemeinmedizin,0.7 km,Tal 38,80331 München,089 / 22 61 81
+99,KVB-Bereitschaftspraxis Elisenhof,,0.8 km,Prielmayerstraße 3,80335 München-Maxvorstadt,11 61 17
+100,Frau Dr. med. (univ.) Beatrix Jakubicka-Fruehwald,Praktische Ärztin,0.8 km,Aventinstraße 12,80469 München,089 / 29 26 50
+101,Herr Dr. med. Manfred Strecker,Facharzt für Allgemeinmedizin,0.8 km,Stollbergstraße 11,80539 München,089 / 22 07 21
+102,Herr Dr. med. Reinhold Reischl,Praktischer Arzt,0.8 km,Fraunhoferstraße 12,80469 München,089 / 26 02 62 60
+103,Herr Dr. med. Yasir Al Diek,Arzt,0.8 km,Schillerstraße 7,80336 München,089 / 5 43 85 52
+104,Frau  Sigrid Zühlke,Praktische Ärztin,0.8 km,Baaderstraße 12,80469 München,089 / 21 93 95 10
+105,Frau Dr. med. Karin Lebentrau,Praktische Ärztin,0.8 km,Schwanthalerstraße 17,80336 München,089 / 2 90 94 50
+106,Frau Dr. med. Gabriele Diller,Fachärztin für Allgemeinmedizin,0.8 km,Schwanthalerstraße 16,80336 München,089 / 59 49 11
+107,Frau  Stefanie Regensburger,Fachärztin für Allgemeinmedizin,0.8 km,Fraunhoferstraße 6,80469 München,089 / 2 60 32 02
+108,Frau Dr. med. Renate Gschwendtner,Fachärztin für Allgemeinmedizin,0.8 km,Bayerstraße 21,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 54 45 98 98
+109,Herr Dr. med. Christian Grießhammer,Praktischer Arzt,0.8 km,Nußbaumstraße 14,80336 München,0 94 02 / 92 85
+110,Herr  Philipp Heiler,Praktischer Arzt,0.8 km,Augsburger Straße 4,80337 München,089 / 21 54 36 16
+111,Herr Dr. med. Markus Steinebrunner,Facharzt für Allgemeinmedizin,0.8 km,Augsburgerstraße 4,80337 München,089 / 26 02 53 57
+112,Herr Dr. med. Ralf Höling,Praktischer Arzt,0.8 km,Nußbaumstraße 10,80336 München,089 / 85 63 90 15
+113,Frau Dr. med. Julia Nothhaft,Fachärztin für Allgemeinmedizin,0.8 km,Aventinstraße 7,80469 München,089 / 22 04 11
+114,Herr Dr. med. Christoph Hedtkamp,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.9 km,Hans-Sachs-Straße 5,80469 München,089 / 26 68 05
+115,Herr Dr. med. Vinko Moro,Facharzt für Allgemeinmedizin,0.9 km,Schwanthalerstraße 34,80336 München,089 / 54 50 59 59
+116,Herr Dr. Michael Pritsch,Facharzt für Allgemeinmedizin,0.9 km,Zweibrückenstraße 2,80331 München,089 / 22 90 09
+117,Frau Dr. med. (univ.) Barbara Dorigoni,Fachärztin für Allgemeinmedizin,0.9 km,Bayerstraße 27,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 1 63 99 04 - 0
+118,Frau Dr. med. Ramona Pauli,Fachärztin für Allgemeinmedizin,0.9 km,Isartorplatz 6,80331 München,089 / 22 92 16
+119,Frau Dr. med. Uta Simons,Fachärztin für Allgemeinmedizin,0.9 km,Elisenstraße 5,80335 München,089 / 59 73 43
+120,Medizinisches Versorgungszentrum Onkologie im Elisenhof,,0.9 km,Prielmayerstraße 1,80335 München-Maxvorstadt,089 / 45 22 56 - 0
+121,Frau  Silvia Sandow,Fachärztin für Allgemeinmedizin,0.9 km,Schwanthalerstraße 32,80336 München,089 / 54 84 31 10
+122,Frau  Christine Egger,Fachärztin für Allgemeinmedizin,0.9 km,Zweibrückenstraße 2,80331 München,089 / 22 30 87
+123,Avi Medical Hausarztpraxis München Sendlinger Tor,Medizinisches Versorgungszentrum,1 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+124,Herr Dr. med. Axel Rubach,Facharzt für Allgemeinmedizin,1 km,Holzstraße 22,80469 München,089 / 26 58 42
+125,Herr Dr. med. Haile Araia,Praktischer Arzt,1 km,Schwanthalerstraße 41,80336 München,089 / 59 21 39
+126,Frau Dr. med. Christl Köstler,Fachärztin für Allgemeinmedizin,1 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+127,Frau  Barbara Schmer,Praktische Ärztin,1 km,Zweibrückenstraße 15,80331 München,089 / 23 23 93 99
+128,Frau Dr. med. Sabine Schmidt,Fachärztin für Allgemeinmedizin,1 km,Kanalstraße 13,80538 München,01 51 / 15 13 64 15
+129,Frau  Rocio Gil Ruiz,Fachärztin für Allgemeinmedizin,1 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+130,Herr Dr. med. Simon Senner,Praktischer Arzt,1 km,Holzstraße 30,80469 München,01 73 / 6 69 12 31
+131,Herr Prof. Dr. Antonius Schneider,Facharzt für Allgemeinmedizin,1 km,Holzstraße 22,80469 München,089 / 26 58 42
+132,Frau Dr. med. Mona Scholz,Fachärztin für Allgemeinmedizin,1 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+133,Frau Dr. med. Valerie Malouvier,Ärztin,0.5 km,Ottostraße 11,80333 München,089 / 59 98 88 - 0
+134,Algesiologikum MVZ München,Zentrum für Schmerzmedizin und psychische Gesundheit,0.5 km,Heßstraße 22,80799 München-Maxvorstadt,089 / 45 24 45 - 10
+135,Frau Dr. med. Isabel Perianez,Ärztin,0.5 km,Gabelsberger Straße 75 a,80333 München,089 / 52 05 53 00
+136,Frau Dr. Yvonne Strauch,Fachärztin für Allgemeinmedizin,0.5 km,Heßstraße 22,80799 München,089 / 21 22 - 821
+137,Herr Dr. med. Malte Folkerts,Facharzt für Allgemeinmedizin,0.5 km,Augustenstraße 64,80333 München,089 / 52 46 52
+138,Herr Dr. med. Robert Mutschler,Facharzt für Allgemeinmedizin,0.5 km,Heßstraße 8,80799 München,089 / 2 72 22 48
+139,Frau Dr. med. Adelaide Herrmann,Praktische Ärztin,0.6 km,Theresienstraße 27,80333 München,089 / 26 92 56
+140,Herr Dr. med. Bernhard Ahlborn,Facharzt für Allgemeinmedizin,0.6 km,Maximiliansplatz 12 a,80333 München,089 / 22 73 44
+141,Frau Dr. med. Christine Reif,Fachärztin für Allgemeinmedizin,0.6 km,Theresienstraße 27,80333 München,089 / 28 58 14
+142,Herr Dr. med. Michael Jung,Facharzt für Allgemeinmedizin,0.6 km,Barer Straße 39,80799 München,089 / 28 19 73
+143,Herr Dr. med. Martin Landenberger,Facharzt für Allgemeinmedizin,0.6 km,Barer Straße 1 a,80333 München,089 / 51 40 37 40
+144,Frau Dr. med. Anneliese Klaus,Fachärztin für Allgemeinmedizin,0.6 km,Schellingstraße 48,80799 München-Maxvorstadt,089 / 2 72 58 30
+145,Frau Dr. (IMF Temeschburg) Liana Ackermann,Fachärztin für Allgemeinmedizin,0.6 km,Brienner Straße 54 a,80333 München,089 / 55 75 33
+146,Frau Dr. med. Eleni Kavelara Lodge,Fachärztin für Allgemeinmedizin,0.6 km,Theresienstraße 27,80333 München-Maxvorstadt,089 / 28 80 98 33
+147,Frau Dr. med. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,0.6 km,Schraudolphstraße 14,80799 München,089 / 2 72 22 48
+148,Herr  Kurt Geitz,Facharzt für Allgemeinmedizin,0.7 km,Dachauer Straße 11,80335 München,089 / 55 02 91 64
+149,Frau Dr. med. Nicola Gundling,Fachärztin für Allgemeinmedizin,0.7 km,Stiglmaierplatz 2,80333 München,089 / 52 42 52
+150,Frau Dr. med. Sabine Brommer,Praktische Ärztin,0.7 km,Brienner Straße 11,80333 München,089 / 29 89 42
+151,Herr Dr. med. Dr. med. dent. Robert F. Berger,Zahnarzt,0.7 km,Lenbachplatz 2a,80333 München,089 / 51 56 79 63
+152,Frau Dr. med. Theresa Apelmann,Ärztin in Weiterbildung,0.7 km,Brienner Straße 11,80333 München,089 / 22 35 23
+153,Frau Dr. med. Frauke Otto,Fachärztin für Allgemeinmedizin,0.7 km,Karlstraße 55,80333 München,089 / 1 24 70 51 40
+154,Frau  Felicitas Mrochen,Praktische Ärztin,0.7 km,Gabelsbergerstraße 89,80333 München,01 72 / 5 78 93 52
+155,Frau Dr. Jelena Jankovic,Praktische Ärztin,0.8 km,Dachauer Straße 9,80335 München,089 / 51 61 89 10
+156,Herr Dr. med. Michael Krieger,Facharzt für Allgemeinmedizin,0.8 km,Karlsplatz 4,80335 München,089 / 55 02 88 77
+157,Herr Dr. med. Tino Müller,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin",0.8 km,Theatinerstraße 12,80333 München,089 / 22 16 09
+158,Frau Dr. med. Uta Simons,Fachärztin für Allgemeinmedizin,0.8 km,Elisenstraße 5,80335 München,089 / 59 73 43
+159,Medizinisches Versorgungszentrum Onkologie im Elisenhof,,0.8 km,Prielmayerstraße 1,80335 München-Maxvorstadt,089 / 45 22 56 - 0
+160,Herr  Georg Kiechle,Facharzt für Allgemeinmedizin,0.8 km,Heßstraße 72,80798 München,089 / 52 31 41 02
+161,Herr Dr. med. Dr. med. vet. Karl Josef Kleinhans,"Facharzt für Physikalische und Rehabilitative Medizin, Facharzt für Allgemeinmedizin",0.8 km,Nymphenburger Straße 1,80335 München,089 / 54 88 57 31
+162,Frau Dr. med. (univ.) Patricia Singer,"Fachärztin für Allgemeinmedizin, Fachärztin für Orthopädie und Unfallchirurgie",0.8 km,Karlsplatz 4,80335 München,089 / 35 89 83 85
+163,Herr Dr. med. Jonas Bauer,Praktischer Arzt,0.8 km,Nymphenburger Straße 1,80335 München,089 / 52 13 10
+164,Praxis für Psychiatrie,,0.8 km,Brienner Straße 3,80333 München,089 / 24 29 03 09
+165,Herr Dr. med. Ulrich Burkhardt,Praktischer Arzt,0.9 km,Adalbertstraße 104,80798 München,089 / 2 72 45 25
+166,Frau Dr. med. Patricia März,Fachärztin für Allgemeinmedizin,0.9 km,Schützenstraße 5,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 55 71 71
+167,Herr Prof. Dr. Dr. Thomas Möller M.A.,Facharzt für Allgemeinmedizin,0.9 km,Theatinerstraße 31,80333 München,089 / 29 30 24
+168,Herr Dr. med. Dr. med. univ. Thomas Beck,Praktischer Arzt,0.9 km,Schützenstraße 3,80335 München,089 / 59 35 93
+169,Frau Dr. med. Elena Pfister,Fachärztin für Allgemeinmedizin,0.9 km,Bayerstraße 3,80335 München,089 / 20 60 99 60
+170,Herr  Oliver Ramrath,Facharzt für Allgemeinmedizin,0.9 km,Neureutherstraße 17,80799 München,089 / 27 37 06 24
+171,Medizinisches Versorgungszentrum Karlsplatz,,0.9 km,Karlsplatz 8,80335 München,089 / 5 58 70 30
+172,Frau Dr. med. Imogen Lenhart,Praktische Ärztin,0.9 km,Windenmacherstraße 2,80333 München,089 / 50 80 60 60
+173,Frau Dr. med. Kathrin Senckenberg,Fachärztin für Allgemeinmedizin,0.9 km,Theatinerstraße 14,80333 München,089 / 24 21 76 66
+174,Frau Dr. med. Carola Riedner,Fachärztin für Allgemeinmedizin,0.9 km,Bayerstraße 3 - 5,80335 München,089 / 3 09 08 86 - 516
+175,Frau Dr. med. Sabine Konz,Praktische Ärztin,1 km,Eisenmannstraße 4,80331 München,089 / 37 02 97 67
+176,Herr Dr. med. Jürgen Malaka,Arzt - Master of Public Health (MPH),1 km,Sonnenstraße 2,80331 München,089 / 62 89 98 34
+177,Herr Dr. med. (univ.) Martin Ehrlinger,Facharzt für Psychiatrie,1 km,Eisenmannstraße 4,80331 München,089 / 23 25 99 90
+178,Frau Dr. med. Layla Beicht,Praktische Ärztin,1 km,Residenzstraße 19,80333 München,089 / 54 50 72 16
+179,Frau Dr. (IMF Bukarest) Adina Jansen,Fachärztin für Allgemeinmedizin,1 km,Weinstraße 11,80333 München,089 / 29 23 00
+180,Frau  Mina Ostrovskaja,Fachärztin für Allgemeinmedizin,1 km,Sonnenstraße 3,80331 München,089 / 2 60 34 79
+181,Frau Dr. med. (univ.) Barbara Dorigoni,Fachärztin für Allgemeinmedizin,1 km,Bayerstraße 27,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 1 63 99 04 - 0
+182,Frau Dr. med. Stephanie Schiele,Fachärztin für Allgemeinmedizin,1 km,Maffeistraße 3,80333 München,089 / 2 17 77 70
+183,Frau Dr. med. Christa Hutterer,"Fachärztin für Diagnostische Radiologie, Fachärztin für Allgemeinmedizin",1 km,Kaufingerstraße 15,80331 München-Altstadt-Lehel,089 / 2 00 01 43 - 50
+184,Herr Dr. med. (univ.) Serbaz Inal,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",1 km,Bayerstraße 15,80335 München,089 / 5 20 33 90
+185,Frau Dr. med. Isabel Zimmermann,Fachärztin für Allgemeinmedizin,1 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+186,Frau Dr. med. Renate Gschwendtner,Fachärztin für Allgemeinmedizin,1 km,Bayerstraße 21,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 54 45 98 98
+187,Herr  Haidong Wu,Praktischer Arzt,1 km,Sonnenstraße 4,80331 München,089 / 5 52 25 50
+188,Frau Dr. med. Viola Eising,Fachärztin für Allgemeinmedizin,1 km,Sonnenstraße 6,80331 München,089 / 55 08 94 00
+189,Frau Dr. med. Britta Knoll,Fachärztin für Allgemeinmedizin,1 km,Amalienstraße 91,80799 München,089 / 4 48 59 40
+190,Frau Dr. med. Sandra Widmann,Ärztin,1 km,Theatinerstraße 1,80333 München,089 / 18 90 82 90
+191,Frau  Camelia Badulescu,Fachärztin für Allgemeinmedizin,1 km,Weinstraße 11,80333 München,089 / 29 23 00
+192,Herr Dr. med. (univ.) Alexander Radinger,Facharzt für Allgemeinmedizin,1 km,Arcisstraße 55,80799 München,089 / 3 13 60 11
+193,Frau Dr. med. Isabel Pinol,Fachärztin für Allgemeinmedizin,1 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+194,Herr Dr. med. (univ.) Thomas Wendel,Praktischer Arzt,1 km,Altheimer Eck 10,80331 München,089 / 89 67 40 20
+195,Herr  Gerhard Antrup,Praktischer Arzt,1 km,Weinstraße 11,80333 München,089 / 66 09 01 49
+196,Herr Dr. med. Bernhard Jell,Facharzt für Allgemeinmedizin,1.1 km,Daimlerstraße 9,80798 München-Maxvorstadt,089 / 2 71 59 55
+197,Herr Dr. med. Yasir Al Diek,Arzt,1.1 km,Schillerstraße 7,80336 München,089 / 5 43 85 52
+198,Herr Dr. med. (Univ. Agram) Danko Cerovecki,Facharzt für Allgemeinmedizin,1.1 km,Schwanthalerstraße 3,80336 München,089 / 55 50 70
+199,Frau Dr. med. Marlies Lincke,Praktische Ärztin,1.1 km,Georgenstraße 43,80799 München,089 / 2 71 07 78
+200,Frau Dr. med. Annkathrin Machanek,Fachärztin für Allgemeinmedizin,1.1 km,Georgenstraße 39,80799 München,089 / 2 72 01 72
+201,Frau Dr. med. Gabriele Diller,Fachärztin für Allgemeinmedizin,1.1 km,Schwanthalerstraße 16,80336 München,089 / 59 49 11
+202,Frau Dr. med. (IMF Temeschburg) Diana Karnath,"FÄ für Allgemeinmedizin, FÄ für Innere Medizin und Endokrinologie und Diabetologie",1.1 km,Residenzstraße 3,80333 München-Altstadt-Lehel,089 / 4 13 00 80
+203,Frau Dr. (IMF Neumarkt) Monica Tzelepides,Fachärztin für Allgemeinmedizin,1.1 km,Sonnenstraße 10,80331 München,089 / 26 62 58
+204,Herr Dr. med. Josef J. Dohrenbusch,Facharzt für Allgemeinmedizin,1.1 km,Kaufingerstraße 12,80331 München,089 / 24 20 93 98
+205,Frau Dr. med. Margit Süßmann,Fachärztin für Allgemeinmedizin,1.1 km,Georgenstraße 116,80798 München,089 / 27 37 50 - 18
+206,Herr Dr. med. Gerhard Stritzl,Facharzt für Allgemeinmedizin,1.1 km,Zentnerstraße 19,80798 München,089 / 18 15 48
+207,Herr Dr. med. Johannes Rosenberger,Praktischer Arzt,1.1 km,Maximilianstraße 2,80539 München,089 / 20 50 08 56 10
+208,Frau Dr. med. Heidi Herrmann,Fachärztin für Innere Medizin,1.1 km,Altheimer Eck 2,80331 München,089 / 45 22 81 81
+209,Frau  Leila Hasahanova,Fachärztin für Augenheilkunde,0.2 km,Nymphenburger Straße 43,80335 München,089 / 47 44 38
+210,Frau  Glaucia Bastos-Dathe,Praktische Ärztin,0.3 km,Nymphenburger Straße 47,80335 München,01 77 / 2 75 67 54
+211,Frau  Cornelia Groos-März,Fachärztin für Allgemeinmedizin,0.4 km,Nymphenburger Straße 62,80335 München,089 / 1 29 73 32
+212,Frau Dr. med. Isabel Baenisch,Fachärztin für Allgemeinmedizin,0.4 km,Nymphenburger Straße 62,80335 München,089 / 1 29 73 32
+213,Herr Dr. med. Dr. med. vet. Karl Josef Kleinhans,"Facharzt für Physikalische und Rehabilitative Medizin, Facharzt für Allgemeinmedizin",0.5 km,Nymphenburger Straße 1,80335 München,089 / 54 88 57 31
+214,Frau Dr. med. (univ.) Nadia El-Giamal,Praktische Ärztin,0.5 km,Maillingerstraße 7,80636 München,089 / 64 95 43 90
+215,Frau Dr. med. Frauke Otto,Fachärztin für Allgemeinmedizin,0.5 km,Karlstraße 55,80333 München,089 / 1 24 70 51 40
+216,Herr Dr. med. Jonas Bauer,Praktischer Arzt,0.5 km,Nymphenburger Straße 1,80335 München,089 / 52 13 10
+217,Frau Dr. med. Tilke Johanna Nonnenkamp,Praktische Ärztin,0.6 km,Nymphenburger Straße 81,80636 München,089 / 12 71 77 57
+218,Frau Dr. med. Nicola Gundling,Fachärztin für Allgemeinmedizin,0.6 km,Stiglmaierplatz 2,80333 München,089 / 52 42 52
+219,Frau Dr. med. Andrea Sika,Fachärztin für Allgemeinmedizin,0.6 km,Blutenburgstraße 52,80636 München,089 / 1 26 60 80
+220,Frau Dr. Jelena Jankovic,Praktische Ärztin,0.7 km,Dachauer Straße 9,80335 München,089 / 51 61 89 10
+221,Herr Dr. med. Florian Kiskalt,Facharzt für Allgemeinmedizin,0.7 km,Nymphenburger Straße 87,80636 München,089 / 1 29 60 22
+222,Frau Prof. Dr. med. Antje Habicht,Fachärztin für Allgemeinmedizin,0.8 km,Nymphenburger Straße 110,80636 München,089 / 1 29 20 94
+223,Frau Dr. med. Isabel Perianez,Ärztin,0.8 km,Gabelsberger Straße 75 a,80333 München,089 / 52 05 53 00
+224,open.med München,Medizinische Hilfe für Migranten und Menschen ohne Krankenversicherung,0.8 km,Dachauer Straße 161,80636 München,089 / 45 20 76 58
+225,Herr  Johann Günter Huber,Praktischer Arzt,0.9 km,Birkerstraße 20,80636 München-Neuhausen-Nymphenburg,089 / 18 19 98
+226,Frau Dr. med. Farah Sokollu,Fachärztin für Allgemeinmedizin,0.9 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+227,Herr Dr. med. Malte Folkerts,Facharzt für Allgemeinmedizin,0.9 km,Augustenstraße 64,80333 München,089 / 52 46 52
+228,Herr Dr. med. Harun Sokollu,Praktischer Arzt,0.9 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+229,KVB-Bereitschaftspraxis Elisenhof,,1 km,Prielmayerstraße 3,80335 München-Maxvorstadt,11 61 17
+230,Medizinisches Versorgungszentrum Onkologie im Elisenhof,,1 km,Prielmayerstraße 1,80335 München-Maxvorstadt,089 / 45 22 56 - 0
+231,Herr  Georg Kiechle,Facharzt für Allgemeinmedizin,1 km,Heßstraße 72,80798 München,089 / 52 31 41 02
+232,Frau Dr. med. Alexandra Braune,Fachärztin für Allgemeinmedizin,1.1 km,Nymphenburger Straße 132,80636 München,089 / 21 52 69 69
+233,Frau Dr. med. Christl Köstler,Fachärztin für Allgemeinmedizin,1.1 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+234,Herr Dr. med. (univ.) Hermann Dorigoni,"Facharzt für Allgemeinmedizin, Facharzt für Augenheilkunde",1.1 km,Bayerstraße 27,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 1 63 99 04 - 0
+235,Frau Dr. med. Renate Gschwendtner,Fachärztin für Allgemeinmedizin,1.1 km,Bayerstraße 21,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 54 45 98 98
+236,Frau Dr. med. Sabine Willi,Fachärztin für Allgemeinmedizin,1.1 km,Jutastraße 14,80636 München,089 / 55 26 90 70
+237,Frau Dr. med. Mona Scholz,Fachärztin für Allgemeinmedizin,1.1 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+238,Frau Dr. med. Patricia März,Fachärztin für Allgemeinmedizin,1.2 km,Schützenstraße 5,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 55 71 71
+239,Herr Dr. med. Haile Araia,Praktischer Arzt,1.2 km,Schwanthalerstraße 41,80336 München,089 / 59 21 39
+240,Herr Dr. med. Yasir Al Diek,Arzt,1.2 km,Schillerstraße 7,80336 München,089 / 5 43 85 52
+241,Herr Dr. med. Vinko Moro,Facharzt für Allgemeinmedizin,1.2 km,Schwanthalerstraße 34,80336 München,089 / 54 50 59 59
+242,Herr Dr. med. Dr. med. univ. Thomas Beck,Praktischer Arzt,1.2 km,Schützenstraße 3,80335 München,089 / 59 35 93
+243,Herr Dr. med. Achim Schmidt,Arzt,1.2 km,St.-Pauls-Platz 6,80336 München,089 / 5 43 85 45
+244,Herr Dr. med. (univ.) Serbaz Inal,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",1.2 km,Bayerstraße 15,80335 München,089 / 5 20 33 90
+245,Frau  Silvia Sandow,Fachärztin für Allgemeinmedizin,1.2 km,Schwanthalerstraße 32,80336 München,089 / 54 84 31 10
+246,Herr Dr. med. Werner Grauberger,Praktischer Arzt,1.2 km,Arcostraße 5,80333 München,089 / 22 24 00
+247,Frau Dr. med. Manuela Thinesse-Mallwitz,Praktische Ärztin,1.3 km,Fäustlestraße 8,80339 München,089 / 5 02 88 33
+248,Herr Dr. med. Martin Landenberger,Facharzt für Allgemeinmedizin,1.3 km,Barer Straße 1 a,80333 München,089 / 51 40 37 40
+249,Frau Dr. med. Karin Lebentrau,Praktische Ärztin,1.3 km,Schwanthalerstraße 17,80336 München,089 / 2 90 94 50
+250,Frau Dr. med. Gabriele Diller,Fachärztin für Allgemeinmedizin,1.3 km,Schwanthalerstraße 16,80336 München,089 / 59 49 11
+251,Frau Dr. med. Elena Pfister,Fachärztin für Allgemeinmedizin,1.3 km,Bayerstraße 3,80335 München,089 / 20 60 99 60
+252,KIRINUS Praxis Landshuter Allee,Ambulantes Praxiszentrum,1.3 km,Landshuter Allee 45,80637 München,089 / 1 89 51 69 21
+253,Frau  Silke Ebert,Ärztin,1.3 km,Donnersbergerstraße 57,80634 München,089 / 12 55 59 75
+254,Frau  Anne Katrin Liem,Fachärztin für Allgemeinmedizin,1.3 km,Landshuter Allee 43,80637 München,089 / 13 01 06 40
+255,Frau Dr. med. Stephanie Backmund-Abedin Pour,Praktische Ärztin,1.3 km,Nymphenburger Straße 148,80634 München,089 / 13 07 93 23
+256,Frau Dr. med. Carola Riedner,Fachärztin für Allgemeinmedizin,1.3 km,Bayerstraße 3 - 5,80335 München,089 / 3 09 08 86 - 516
+257,Frau Dr. med. Sima Sehat Kashani,Fachärztin für Allgemeinmedizin,1.3 km,Schleißheimer Straße 69,80797 München,089 / 1 29 25 18
+258,Herr Dr. med. Gerhard Stritzl,Facharzt für Allgemeinmedizin,1.3 km,Zentnerstraße 19,80798 München,089 / 18 15 48
+259,Herr Dr. med. Christian Putzke,Facharzt für Allgemeinmedizin,1.3 km,Donnersberger Straße 42,80634 München,089 / 16 76 26
+260,Herr Dr. med. Michael Krieger,Facharzt für Allgemeinmedizin,1.4 km,Karlsplatz 4,80335 München,089 / 55 02 88 77
+261,Herr Dr. med. (Univ. Agram) Danko Cerovecki,Facharzt für Allgemeinmedizin,1.4 km,Schwanthalerstraße 3,80336 München,089 / 55 50 70
+262,Frau  Mina Ostrovskaja,Fachärztin für Allgemeinmedizin,1.4 km,Sonnenstraße 3,80331 München,089 / 2 60 34 79
+263,Frau Dr. med. Valerie Malouvier,Ärztin,1.4 km,Ottostraße 11,80333 München,089 / 59 98 88 - 0
+264,Herr Dr. med. Dr. med. dent. Robert F. Berger,Zahnarzt,1.4 km,Lenbachplatz 2a,80333 München,089 / 51 56 79 63
+265,Algesiologikum MVZ München,Zentrum für Schmerzmedizin und psychische Gesundheit,1.4 km,Heßstraße 22,80799 München-Maxvorstadt,089 / 45 24 45 - 10
+266,Herr  Haidong Wu,Praktischer Arzt,1.4 km,Sonnenstraße 4,80331 München,089 / 5 52 25 50
+267,Medizinisches Versorgungszentrum Karlsplatz,,1.4 km,Karlsplatz 8,80335 München,089 / 5 58 70 30
+268,Frau Dr. med. Viola Eising,Fachärztin für Allgemeinmedizin,1.4 km,Sonnenstraße 6,80331 München,089 / 55 08 94 00
+269,Frau Dr. Yvonne Strauch,Fachärztin für Allgemeinmedizin,1.4 km,Heßstraße 22,80799 München,089 / 21 22 - 821
+270,Frau Dr. med. (univ.) Patricia Singer,"Fachärztin für Allgemeinmedizin, Fachärztin für Orthopädie und Unfallchirurgie",1.4 km,Karlsplatz 4,80335 München,089 / 35 89 83 85
+271,Herr  Stephan Meyer,Praktischer Arzt,1.4 km,Bergmannstraße 13,80339 München,089 / 41 15 04 22
+272,Frau Dr. (IMF Neumarkt) Monica Tzelepides,Fachärztin für Allgemeinmedizin,1.4 km,Sonnenstraße 10,80331 München,089 / 26 62 58
+273,Herr Dr. med. Benjamin Cossham,Facharzt für Allgemeinmedizin,1.4 km,Dom-Pedro-Straße 1,80637 München,089 / 12 39 17 10
+274,Frau  Regine D. Ritter,Praktische Ärztin,1.4 km,Donnersbergerstraße 20a,80634 München,01 72 / 8 24 19 39
+275,Herr Dr. med. Achim Schmidt,Arzt,0.3 km,St.-Pauls-Platz 6,80336 München,089 / 5 43 85 45
+276,Frau Dr. med. Simone Bustami-Löber,Fachärztin für Allgemeinmedizin,0.4 km,Goethestraße 66,80336 München,089 / 92 33 31 86
+277,Herr Dr. med. Haile Araia,Praktischer Arzt,0.5 km,Schwanthalerstraße 41,80336 München,089 / 59 21 39
+278,Herr Dr. med. Vinko Moro,Facharzt für Allgemeinmedizin,0.5 km,Schwanthalerstraße 34,80336 München,089 / 54 50 59 59
+279,Frau Dr. med. Farah Sokollu,Fachärztin für Allgemeinmedizin,0.5 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+280,Herr Dr. med. Harun Sokollu,Praktischer Arzt,0.5 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+281,Herr Prof. Dr. Dr. Franz-Xaver Reichl,Zahnarzt,0.5 km,Goethestraße 70,80336 München,089 / 4 40 05 93 01
+282,Frau Dr. med. Sigrid Seidel,Praktische Ärztin,0.6 km,Koppstraße 42,81379 München,089 / 88 90 96 50
+283,Herr Dr. med. Moutasem Daoud Ghadieh,Facharzt für Allgemeinmedizin,0.6 km,Lindwurmstraße 85,80337 München,089 / 5 43 85 57
+284,Frau Dr. med. Christl Köstler,Fachärztin für Allgemeinmedizin,0.6 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+285,Herr Dr. med. Oliver Bartzsch,Praktischer Arzt,0.6 km,Theresienhöhe 13A,80339 München,089 / 55 27 60 20
+286,Frau  Silvia Sandow,Fachärztin für Allgemeinmedizin,0.6 km,Schwanthalerstraße 32,80336 München,089 / 54 84 31 10
+287,Frau Dr. med. (univ.) Eva Maria Strobl,Fachärztin für Allgemeinmedizin,0.6 km,Herzog-Heinrich-Straße 34,80336 München,01 51 / 11 87 11 93
+288,Frau Dr. Dr. Eva-Christina Schulte,Praktische Ärztin,0.6 km,Lindwurmstraße 2a,80337 München,089 / 4 40 00
+289,Frau Dr. med. Mona Scholz,Fachärztin für Allgemeinmedizin,0.6 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+290,Frau Dr. Lisa Ohlmeier,Praktische Ärztin,0.7 km,Lindwurmstraße 103,80337 München,089 / 53 13 55
+291,Frau dr. med. Roxolana Kosak-Becker,Fachärztin für Allgemeinmedizin,0.7 km,Pfeuferstraße 9,81373 München,089 / 39 84 35
+292,Herr Dr. med. Yasir Al Diek,Arzt,0.7 km,Schillerstraße 7,80336 München,089 / 5 43 85 52
+293,Herr Dr. (IMF Bukarest) Alexandru That,Facharzt für Allgemeinmedizin,0.7 km,Lindwurmstraße 95 a,80337 München,089 / 53 58 06
+294,Frau Dr. med. Karoline Sachsenberg,Fachärztin für Allgemeinmedizin,0.7 km,Waltherstraße 34,80337 München,089 / 23 03 23 63
+295,Frau Dr. med. Karin Lebentrau,Praktische Ärztin,0.7 km,Schwanthalerstraße 17,80336 München,089 / 2 90 94 50
+296,Frau Dr. med. Gabriele Diller,Fachärztin für Allgemeinmedizin,0.7 km,Schwanthalerstraße 16,80336 München,089 / 59 49 11
+297,Herr Dr. med. (univ.) Hermann Dorigoni,"Facharzt für Allgemeinmedizin, Facharzt für Augenheilkunde",0.7 km,Bayerstraße 27,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 1 63 99 04 - 0
+298,Frau Dr. med. Maren Jaklitsch,Fachärztin für Innere Medizin,0.7 km,Waltherstraße 32 a,80337 München,089 / 53 93 59
+299,Frau Dr. med. Esther Ripphoff,Fachärztin für Allgemeinmedizin,0.7 km,Hermann-Schmid-Straße 2,80336 München,089 / 72 93 91 93
+300,Herr Dr. med. Christian Grießhammer,Praktischer Arzt,0.7 km,Nußbaumstraße 14,80336 München,0 94 02 / 92 85
+301,Frau Dr. med. Veronika Liebich,Fachärztin für Allgemeinmedizin,0.7 km,Lindwurmstraße 103,80337 München,089 / 53 13 55
+302,Herr Dr. med. Ralf Höling,Praktischer Arzt,0.7 km,Nußbaumstraße 10,80336 München,089 / 85 63 90 15
+303,Frau Dr. Dr. med. Celia Jonsson-Oldenbüttel,Fachärztin für Allgemeinmedizin,0.7 km,Waltherstraße 32,80337 München,089 / 5 58 70 30
+304,Herr Dr. med. Maximilian That,Facharzt für Allgemeinmedizin,0.7 km,Lindwurmstraße 95 a,80337 München,089 / 53 58 06
+305,Avi Medical Hausarztpraxis München Sendlinger Tor,Medizinisches Versorgungszentrum,0.8 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+306,Herr Dr. med. Peter Döring,Facharzt für Allgemeinmedizin,0.8 km,Stielerstraße 9,80336 München,089 / 7 46 91 02
+307,Herr Dr. med. (Univ. Agram) Danko Cerovecki,Facharzt für Allgemeinmedizin,0.8 km,Schwanthalerstraße 3,80336 München,089 / 55 50 70
+308,Herr Dr. med. Goran Stojmenovic,Facharzt für Allgemeinmedizin,0.8 km,Landwehrstraße 7,80336 München,089 / 54 88 77 87
+309,Herr Dr. med. Jan Geißler,Arzt,0.8 km,Pettenkoferstraße 1,80336 München,089 / 5 52 59 90
+310,Isar MVZ GmbH,,0.8 km,Sonnenstraße 24 - 26,80331 München-Ludwigsvorstadt-Isarvorstadt,089 / 14 99 03 - 0
+311,Herr Dr. med. (univ.) Serbaz Inal,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.8 km,Bayerstraße 15,80335 München,089 / 5 20 33 90
+312,Kirinus Praxis GmbH,Medizinisches Versorgungszentrum Sendlinger Tor,0.8 km,Sendlinger-Tor-Platz 7,80336 München,089 / 37 50 89 86 - 0
+313,Frau Dr. med. Silke Dankesreiter-Ruml,Fachärztin für Allgemeinmedizin,0.8 km,Sonnenstraße 24 - 26,80331 München,089 / 44 37 43 88
+314,Frau Dr. med. Nataliya Vorobyova,Fachärztin für Allgemeinmedizin,0.8 km,Sendlinger-Tor-Platz 7,80336 München,089 / 59 52 44
+315,Herr Dr. med. Rudolf Fischl,Facharzt für Allgemeinmedizin,0.8 km,Sendlinger-Tor-Platz 7,80336 München,089 / 59 49 28
+316,Frau Dr. (IMF Neumarkt) Monica Tzelepides,Fachärztin für Allgemeinmedizin,0.8 km,Sonnenstraße 10,80331 München,089 / 26 62 58
+317,Frau  Rocio Gil Ruiz,Fachärztin für Allgemeinmedizin,0.8 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+318,Herr Dr. med. Adrian Schmidt,Facharzt für Allgemeinmedizin,0.8 km,Sendlinger-Tor-Platz 7,80336 München,089 / 45 01 94 76
+319,Frau Dr. med. Susanna M. Wasner,Praktische Ärztin,0.8 km,Pettenkoferstraße 1,80336 München,089 / 5 52 59 90
+320,Herr Dr. med. David Papo,Facharzt für Allgemeinmedizin,0.8 km,Maistraße 12,80337 München,089 / 2 35 06 10
+321,Herr Dr. med. (univ.) Felix Becker,Facharzt für Allgemeinmedizin,0.8 km,Sonnenstraße 24-26,80331 München,089 / 14 99 03 12 08
+322,Frau Dr. Anke Löffler,Fachärztin für Allgemeinmedizin,0.8 km,Sonnenstraße 24-26,80331 München,089 / 14 99 03 74 40
+323,Herr B.Sc.(Jiamusi Medical College) Xuming Li,Praktischer Arzt,0.8 km,Sendlinger-Tor-Platz 7,80336 München,089 / 23 71 23 61
+324,Herr  Thomas Bachmann,Facharzt für Allgemeinmedizin,0.9 km,Sonnenstraße 29,80331 München,089 / 30 90 70 50
+325,Herr  Haidong Wu,Praktischer Arzt,0.9 km,Sonnenstraße 4,80331 München,089 / 5 52 25 50
+326,Herr Dr. med. Nils Postel,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.9 km,Sendlinger-Tor-Platz 8,80336 München,089 / 5 48 84 37 80
+327,Frau Dr. med. Viola Eising,Fachärztin für Allgemeinmedizin,0.9 km,Sonnenstraße 6,80331 München,089 / 55 08 94 00
+328,Herr  Philipp Heiler,Praktischer Arzt,0.9 km,Augsburger Straße 4,80337 München,089 / 21 54 36 16
+329,Herr Dr. med. Markus Steinebrunner,Facharzt für Allgemeinmedizin,0.9 km,Augsburgerstraße 4,80337 München,089 / 26 02 53 57
+330,Herr  Dominik Völk,Facharzt für Innere Medizin,0.9 km,Sonnenstraße 29,80331 München,089 / 4 42 38 34 00
+331,Frau Dr. Mirela Iconaru,Fachärztin für Allgemeinmedizin,0.9 km,Sonnenstraße 29,80331 München,089 / 4 52 05 90 75
+332,Frau  Ilona Tishina,Fachärztin für Allgemeinmedizin,0.9 km,Sonnenstraße 29,80331 München,089 / 4 52 05 90 75
+333,Frau Dr. med. Erika Goldhammer,Praktische Ärztin,1 km,Herzog-Wilhelm-Straße 17,80331 München,089 / 26 02 31 60
+334,Herr Dr. med. Martin Johannes Baur,Facharzt für Allgemeinmedizin,1 km,Josephspitalstraße 9,80331 München,089 / 26 94 99 66
+335,Frau Dr. med. Uta Simons,Fachärztin für Allgemeinmedizin,1 km,Elisenstraße 5,80335 München,089 / 59 73 43
+336,Frau Dr. med. Paula Bürkle-Grasse,Fachärztin für Allgemeinmedizin,1 km,Herzog-Wilhelm-Straße 17,80331 München,089 / 54 50 64 46
+337,Frau Dr. med. Ursula Fissler,Ärztin,1 km,Grimmstraße 1,80336 München,089 / 12 22 07 47
+338,Frau Dr. med. Simone Kuttiadan,Ärztin,1 km,Maistraße 38,80337 München,089 / 92 09 12 99
+339,Herr Dr. med. Reinhard Probst,Arzt,1 km,Grimmstraße 1,80336 München,089 / 20 20 62 18
+340,Frau  Margarita Sereda,Fachärztin für Allgemeinmedizin,1 km,Grimmstraße 1,80336 München,089 / 76 55 96
+341,Herr Dr. (IMF Bukarest) Alexandru That,Facharzt für Allgemeinmedizin,0.1 km,Lindwurmstraße 95 a,80337 München,089 / 53 58 06
+342,Frau Dr. med. Karoline Sachsenberg,Fachärztin für Allgemeinmedizin,0.1 km,Waltherstraße 34,80337 München,089 / 23 03 23 63
+343,Herr Dr. med. Moutasem Daoud Ghadieh,Facharzt für Allgemeinmedizin,0.1 km,Lindwurmstraße 85,80337 München,089 / 5 43 85 57
+344,Frau Dr. med. Maren Jaklitsch,Fachärztin für Innere Medizin,0.1 km,Waltherstraße 32 a,80337 München,089 / 53 93 59
+345,Frau Dr. Dr. med. Celia Jonsson-Oldenbüttel,Fachärztin für Allgemeinmedizin,0.1 km,Waltherstraße 32,80337 München,089 / 5 58 70 30
+346,Herr Dr. med. Maximilian That,Facharzt für Allgemeinmedizin,0.1 km,Lindwurmstraße 95 a,80337 München,089 / 53 58 06
+347,Frau Dr. Lisa Ohlmeier,Praktische Ärztin,0.2 km,Lindwurmstraße 103,80337 München,089 / 53 13 55
+348,Frau Dr. med. Veronika Liebich,Fachärztin für Allgemeinmedizin,0.2 km,Lindwurmstraße 103,80337 München,089 / 53 13 55
+349,Frau Dr. med. Simone Kuttiadan,Ärztin,0.2 km,Maistraße 38,80337 München,089 / 92 09 12 99
+350,Herr Prof. Dr. Dr. Franz-Xaver Reichl,Zahnarzt,0.3 km,Goethestraße 70,80336 München,089 / 4 40 05 93 01
+351,Frau Dr. med. (univ.) Eva Maria Strobl,Fachärztin für Allgemeinmedizin,0.3 km,Herzog-Heinrich-Straße 34,80336 München,01 51 / 11 87 11 93
+352,Frau Dr. Dr. Eva-Christina Schulte,Praktische Ärztin,0.3 km,Lindwurmstraße 2a,80337 München,089 / 4 40 00
+353,Herr Dr. med. David Papo,Facharzt für Allgemeinmedizin,0.3 km,Maistraße 12,80337 München,089 / 2 35 06 10
+354,Frau Dr. med. Sigrid Seidel,Praktische Ärztin,0.4 km,Koppstraße 42,81379 München,089 / 88 90 96 50
+355,Frau Dr. med. Esther Ripphoff,Fachärztin für Allgemeinmedizin,0.4 km,Hermann-Schmid-Straße 2,80336 München,089 / 72 93 91 93
+356,Avi Medical Hausarztpraxis München Sendlinger Tor,Medizinisches Versorgungszentrum,0.5 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+357,Frau  Rocio Gil Ruiz,Fachärztin für Allgemeinmedizin,0.5 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+358,Herr Dr. med. Peter Döring,Facharzt für Allgemeinmedizin,0.6 km,Stielerstraße 9,80336 München,089 / 7 46 91 02
+359,Herr  Philipp Heiler,Praktischer Arzt,0.6 km,Augsburger Straße 4,80337 München,089 / 21 54 36 16
+360,Herr Dr. med. Markus Steinebrunner,Facharzt für Allgemeinmedizin,0.6 km,Augsburgerstraße 4,80337 München,089 / 26 02 53 57
+361,Herr Dr. med. Axel Rubach,Facharzt für Allgemeinmedizin,0.7 km,Holzstraße 22,80469 München,089 / 26 58 42
+362,Frau Dr. med. Ursula Fissler,Ärztin,0.7 km,Grimmstraße 1,80336 München,089 / 12 22 07 47
+363,Herr Dr. med. Simon Senner,Praktischer Arzt,0.7 km,Holzstraße 30,80469 München,01 73 / 6 69 12 31
+364,Herr Prof. Dr. Antonius Schneider,Facharzt für Allgemeinmedizin,0.7 km,Holzstraße 22,80469 München,089 / 26 58 42
+365,Herr Dr. med. Reinhard Probst,Arzt,0.7 km,Grimmstraße 1,80336 München,089 / 20 20 62 18
+366,Frau  Margarita Sereda,Fachärztin für Allgemeinmedizin,0.7 km,Grimmstraße 1,80336 München,089 / 76 55 96
+367,Frau Dr. med. Barbara Eder,Fachärztin für Allgemeinmedizin,0.8 km,Baldestraße 21,80469 München,089 / 2 01 21 22
+368,Frau Dr. med. Viola Lenz,Fachärztin für Allgemeinmedizin,0.8 km,Ehrengutstraße 16,80469 München,089 / 7 25 59 59
+369,Herr Dr. med. Nils Postel,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.8 km,Sendlinger-Tor-Platz 8,80336 München,089 / 5 48 84 37 80
+370,Frau Dr. med. Barbara Eder,Fachärztin für Allgemeinmedizin,0.8 km,Jahnstraße 41,80469 München,089 / 2 01 21 22
+371,Frau Dr. med. Carola Riedner,Fachärztin für Allgemeinmedizin,0.8 km,Pettenkoferstraße 8 a,80336 München,089 / 4 40 05 22 38
+372,Herr Dr. med. Volker Lappoehn,Praktischer Arzt,0.8 km,Jahnstraße 30,80469 München,089 / 23 23 18 91
+373,Hausarztpraxis München MVZ am Baldeplatz,,0.8 km,Baldestraße 21,80469 München,089 / 2 01 21 22
+374,Isar MVZ GmbH,,0.9 km,Sonnenstraße 24 - 26,80331 München-Ludwigsvorstadt-Isarvorstadt,089 / 14 99 03 - 0
+375,Frau Dr. med. Janina Supova,Ärztin,0.9 km,Mathildenstraße 1 a,80336 München,089 / 59 45 88
+376,Frau Dr. med. Silke Dankesreiter-Ruml,Fachärztin für Allgemeinmedizin,0.9 km,Sonnenstraße 24 - 26,80331 München,089 / 44 37 43 88
+377,Herr Dr. med. (univ.) Felix Becker,Facharzt für Allgemeinmedizin,0.9 km,Sonnenstraße 24-26,80331 München,089 / 14 99 03 12 08
+378,Frau Dr. Anke Löffler,Fachärztin für Allgemeinmedizin,0.9 km,Sonnenstraße 24-26,80331 München,089 / 14 99 03 74 40
+379,Herr Dr. med. Reinhold Reischl,Praktischer Arzt,1 km,Fraunhoferstraße 12,80469 München,089 / 26 02 62 60
+380,Herr Dr. med. Vinko Moro,Facharzt für Allgemeinmedizin,1 km,Schwanthalerstraße 34,80336 München,089 / 54 50 59 59
+381,Herr Dr. med. Goran Stojmenovic,Facharzt für Allgemeinmedizin,1 km,Landwehrstraße 7,80336 München,089 / 54 88 77 87
+382,Frau Dr. med. Karin Lebentrau,Praktische Ärztin,1 km,Schwanthalerstraße 17,80336 München,089 / 2 90 94 50
+383,Frau Dr. Leila Ketabchi,Fachärztin für Allgemeinmedizin,1 km,Sendlinger Straße 37,80331 München,089 / 59 48 02
+384,Frau  Stefanie Regensburger,Fachärztin für Allgemeinmedizin,1 km,Fraunhoferstraße 6,80469 München,089 / 2 60 32 02
+385,Frau  Afssaneh Hachemi,Fachärztin für Allgemeinmedizin,1 km,An der Hauptfeuerwache 4,80331 München,089 / 2 60 41 21
+386,Frau  Silvia Sandow,Fachärztin für Allgemeinmedizin,1 km,Schwanthalerstraße 32,80336 München,089 / 54 84 31 10
+387,Frau Dr. med. Dagmar Dreher-Spika,Fachärztin für Allgemeinmedizin,1 km,Sendlinger Straße 37,80331 München,089 / 59 48 02
+388,Frau Dr. med. Khalid Wassif,Fachärztin für Allgemeinmedizin,1 km,Sendlinger Straße 37,80331 München,089 / 59 49 11
+389,Herr Dr. med. Karl Mehnert,Praktischer Arzt,1 km,Sendlinger Straße 37,80331 München,089 / 6 93 19 20
+390,Herr Dr. med. Necdet Bulut,Facharzt für Allgemeinmedizin,1 km,Sendlinger Straße 37,80331 München-Altstadt-Lehel,089 / 59 48 02
+391,Herr Dr. med. Achim Schmidt,Arzt,1.1 km,St.-Pauls-Platz 6,80336 München,089 / 5 43 85 45
+392,Herr Dr. med. Martin Johannes Baur,Facharzt für Allgemeinmedizin,1.1 km,Josephspitalstraße 9,80331 München,089 / 26 94 99 66
+393,Frau Dr. med. Viola Eising,Fachärztin für Allgemeinmedizin,1.1 km,Sonnenstraße 6,80331 München,089 / 55 08 94 00
+394,Herr Dr. med. Oliver Bartzsch,Praktischer Arzt,1.1 km,Theresienhöhe 13A,80339 München,089 / 55 27 60 20
+395,Herr Dr. med. Jürgen Malaka,Arzt - Master of Public Health (MPH),1.2 km,Sonnenstraße 2,80331 München,089 / 62 89 98 34
+396,Frau dr. med. Roxolana Kosak-Becker,Fachärztin für Allgemeinmedizin,1.2 km,Pfeuferstraße 9,81373 München,089 / 39 84 35
+397,Frau Dr. med. Renate Späth,Fachärztin für Allgemeinmedizin,1.2 km,Sendlinger Straße 20,80331 München,089 / 9 82 98 53
+398,Frau  Mina Ostrovskaja,Fachärztin für Allgemeinmedizin,1.2 km,Sonnenstraße 3,80331 München,089 / 2 60 34 79
+399,Frau Dr. med. Rosemarie Klotz,Fachärztin für Allgemeinmedizin,1.2 km,Hackenstraße 2,80331 München-Altstadt,089 / 67 40 28
+400,Frau  Bettina Ehrt,Praktische Ärztin,1.2 km,Hackenstraße 1,80331 München,089 / 69 79 79 12
+401,Frau Dr. med. (univ.) Barbara Dorigoni,Fachärztin für Allgemeinmedizin,1.2 km,Bayerstraße 27,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 1 63 99 04 - 0
+402,Frau  Aleksandra Nikolic,Fachärztin für Allgemeinmedizin,1.2 km,Sendlinger Straße 14,80331 München,089 / 5 50 50 90
+403,Frau Dr. med. Renate Gschwendtner,Fachärztin für Allgemeinmedizin,1.2 km,Bayerstraße 21,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 54 45 98 98
+404,Herr  Haidong Wu,Praktischer Arzt,1.2 km,Sonnenstraße 4,80331 München,089 / 5 52 25 50
+405,Herr Dr. med. Florian Vogel,Facharzt für Allgemeinmedizin,1.2 km,Auenstraße 6,80469 München,089 / 2 02 25 52
+406,Avi Medical Hausarztpraxis München Hofstatt,Medizinisches Versorgungszentrum,1.2 km,Hackenstraße 2,80331 München,089 / 1 25 01 45 40
+407,Frau Dr. med. Sabine Konz,Praktische Ärztin,1.3 km,Eisenmannstraße 4,80331 München,089 / 37 02 97 67
+408,Herr Dr. med. (univ.) Martin Ehrlinger,Facharzt für Psychiatrie,1.3 km,Eisenmannstraße 4,80331 München,089 / 23 25 99 90
+409,Herr Dr. med. Otto Bertermann,Praktischer Arzt,1.3 km,Gärtnerplatz 5,80469 München,089 / 26 76 36
+410,Frau Dr. med. Patricia März,Fachärztin für Allgemeinmedizin,1.3 km,Schützenstraße 5,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 55 71 71
+411,Herr Dr. med. Martin Karwat,Facharzt für Allgemeinmedizin,1.3 km,Oberländerstraße 24,81371 München-Untersendling,089 / 76 42 35
+412,Frau Dr. med. Farah Sokollu,Fachärztin für Allgemeinmedizin,1.3 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+413,Frau Dr. (Univ. Budapest) Yvonne Kieffer,Praktische Ärztin,1.3 km,Lindwurmstraße 203,80337 München,089 / 7 46 91 03
+414,Herr Dr. med. Dr. med. univ. Thomas Beck,Praktischer Arzt,1.3 km,Schützenstraße 3,80335 München,089 / 59 35 93
+415,Medizinisches Versorgungszentrum Karlsplatz,,1.3 km,Karlsplatz 8,80335 München,089 / 5 58 70 30
+416,Frau Dr. med. Jana Hein,Fachärztin für Allgemeinmedizin,1.3 km,Alramstraße 20,81371 München,089 / 74 74 77 24
+417,Herr Dr. med. Harun Sokollu,Praktischer Arzt,1.3 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+418,Frau Dr. med. Andrea Heinemann,Fachärztin für Allgemeinmedizin,1.3 km,Oberländerstraße 24,81371 München-Untersendling,089 / 24 64 35 00
+419,Frau  Jutta Söllner,Fachärztin für Allgemeinmedizin,1.3 km,Corneliusstraße 14,80469 München,089 / 26 63 61
+420,Herr Dr. med. (univ.) Thomas Wendel,Praktischer Arzt,1.3 km,Altheimer Eck 10,80331 München,089 / 89 67 40 20
+421,Frau Dr. med. Manuela Thinesse-Mallwitz,Praktische Ärztin,0.1 km,Fäustlestraße 8,80339 München,089 / 5 02 88 33
+422,Herr  Stephan Meyer,Praktischer Arzt,0.1 km,Bergmannstraße 13,80339 München,089 / 41 15 04 22
+423,Frau Dr. med. Beatrix Fischer-Brandes,Praktische Ärztin,0.2 km,Westendstraße 121,80339 München,089 / 46 13 32 80
+424,Herr Dr. med. Stephan Heinz Mba,Facharzt für Allgemeinmedizin,0.2 km,Bergmannstraße 29,80339 München,089 / 5 02 70 29
+425,Herr Dr. med. Imadettin Fakioglu,Facharzt für Allgemeinmedizin,0.2 km,Trappentreustraße 17,80339 München-Schwanthalerhöhe,089 / 50 36 91
+426,Frau Dr. med. Gabriele Pfeffer,Praktische Ärztin,0.3 km,Gollierplatz 16,80339 München,089 / 54 37 05 83
+427,Frau Dr. med. Monika Hanemann,Fachärztin für Allgemeinmedizin,0.5 km,Landsberger Straße 113,80339 München,089 / 8 90 63 66 30
+428,Frau Dr. med. Tamara Eckermann,Fachärztin für Allgemeinmedizin,0.5 km,Heimeranplatz 2,80339 München,089 / 5 02 70 75
+429,Frau  Katharina Hamberger,Praktische Ärztin,0.7 km,Garmischer Straße 10,80339 München,089 / 50 30 20
+430,Herr Dr. med. Oliver Bartzsch,Praktischer Arzt,0.8 km,Theresienhöhe 13A,80339 München,089 / 55 27 60 20
+431,Herr Dr. med. Ralf Marx,Arzt,0.9 km,Hansastraße 27 e,81373 München,089 / 62 02 19 90
+432,Frau Dr. med. Christiane Beier,Fachärztin für Allgemeinmedizin,0.9 km,Landsberger Straße 155,80687 München,01 77 / 2 37 16 45
+433,Frau Dr. med. Farah Sokollu,Fachärztin für Allgemeinmedizin,1 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+434,Herr Dr. med. Achim Schmidt,Arzt,1 km,St.-Pauls-Platz 6,80336 München,089 / 5 43 85 45
+435,Frau  Silke Ebert,Ärztin,1 km,Donnersbergerstraße 57,80634 München,089 / 12 55 59 75
+436,Herr Dr. med. Harun Sokollu,Praktischer Arzt,1 km,Hermann-Lingg-Straße 3 a,80336 München,089 / 5 38 97 54
+437,Herr  Johann Günter Huber,Praktischer Arzt,1.1 km,Birkerstraße 20,80636 München-Neuhausen-Nymphenburg,089 / 18 19 98
+438,Herr Dr. med. Christian Putzke,Facharzt für Allgemeinmedizin,1.1 km,Donnersberger Straße 42,80634 München,089 / 16 76 26
+439,Herr Dr. med. Christian Sanden,Facharzt für Allgemeinmedizin,1.2 km,Wilderich-Lang-Straße 12,80634 München,089 / 16 13 29
+440,Frau Dr. Stefanie Mayer,Fachärztin für Allgemeinmedizin,1.2 km,Wilderich-Lang-Straße 12,80634 München,089 / 16 13 29
+441,Frau Dr. med. Andrea Sika,Fachärztin für Allgemeinmedizin,1.3 km,Blutenburgstraße 52,80636 München,089 / 1 26 60 80
+442,Frau Dr. med. Tilke Johanna Nonnenkamp,Praktische Ärztin,1.4 km,Nymphenburger Straße 81,80636 München,089 / 12 71 77 57
+443,Herr Dr. med. Florian Kiskalt,Facharzt für Allgemeinmedizin,1.4 km,Nymphenburger Straße 87,80636 München,089 / 1 29 60 22
+444,Frau Dr. med. Julia Ernst,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.4 km,Elsenheimer Straße 14,80687 München,089 / 51 77 77 90
+445,Frau Dr. med. (univ.) Nadia El-Giamal,Praktische Ärztin,1.4 km,Maillingerstraße 7,80636 München,089 / 64 95 43 90
+446,Herr Dr. med. Peter Döring,Facharzt für Allgemeinmedizin,1.5 km,Stielerstraße 9,80336 München,089 / 7 46 91 02
+447,Frau Dr. med. Alexandra Braune,Fachärztin für Allgemeinmedizin,1.5 km,Nymphenburger Straße 132,80636 München,089 / 21 52 69 69
+448,Frau Dr. med. Christl Köstler,Fachärztin für Allgemeinmedizin,1.5 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+449,Frau  Leila Hasahanova,Fachärztin für Augenheilkunde,1.5 km,Nymphenburger Straße 43,80335 München,089 / 47 44 38
+450,Frau Prof. Dr. med. Antje Habicht,Fachärztin für Allgemeinmedizin,1.5 km,Nymphenburger Straße 110,80636 München,089 / 1 29 20 94
+451,Frau Dr. med. Katharina Engert,Fachärztin für Allgemeinmedizin,1.5 km,Pfeuferstraße 33,81373 München-Sendling,089 / 77 39 67
+452,Herr Dr. med. Marc Bielenberg,Facharzt für Allgemeinmedizin,1.5 km,Agnes-Bernauer-Straße 1,80687 München-Laim,089 / 57 11 62
+453,Frau Dr. med. Maria Wieser,Fachärztin für Allgemeinmedizin,1.5 km,Maronstraße 2,81373 München,089 / 51 30 43 56
+454,Frau  Glaucia Bastos-Dathe,Praktische Ärztin,1.5 km,Nymphenburger Straße 47,80335 München,01 77 / 2 75 67 54
+455,Frau Dr. med. Mona Scholz,Fachärztin für Allgemeinmedizin,1.5 km,Goethestraße 8,80336 München,089 / 18 94 77 70
+456,Frau Dr. med. Sigrid Seidel,Praktische Ärztin,1.6 km,Koppstraße 42,81379 München,089 / 88 90 96 50
+457,Herr Dr. med. Haile Araia,Praktischer Arzt,1.6 km,Schwanthalerstraße 41,80336 München,089 / 59 21 39
+458,Herr Dr. med. Vinko Moro,Facharzt für Allgemeinmedizin,1.6 km,Schwanthalerstraße 34,80336 München,089 / 54 50 59 59
+459,Frau Dr. med. Barbara Wörle,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.6 km,Donnersberger Straße 4,80634 München,089 / 16 11 41
+460,Frau  Cornelia Groos-März,Fachärztin für Allgemeinmedizin,1.6 km,Nymphenburger Straße 62,80335 München,089 / 1 29 73 32
+461,Frau Dr. med. Esther Ripphoff,Fachärztin für Allgemeinmedizin,1.6 km,Hermann-Schmid-Straße 2,80336 München,089 / 72 93 91 93
+462,KIRINUS Praxis Landshuter Allee,Ambulantes Praxiszentrum,1.6 km,Landshuter Allee 45,80637 München,089 / 1 89 51 69 21
+463,Frau Dr. med. Ursula Fissler,Ärztin,1.6 km,Grimmstraße 1,80336 München,089 / 12 22 07 47
+464,KIRINUS Praxis Rotkreuzplatz,Ambulantes Praxiszentrum,1.6 km,Rotkreuzplatz 1,80634 München,089 / 4 52 09 32 - 0
+465,Herr Dr. med. Muamer Kavgic,Facharzt für Allgemeinmedizin,1.6 km,Donnersberger Straße 5,80634 München,089 / 16 21 38
+466,Frau  Anne Katrin Liem,Fachärztin für Allgemeinmedizin,1.6 km,Landshuter Allee 43,80637 München,089 / 13 01 06 40
+467,Frau Dr. med. Simone Bustami-Löber,Fachärztin für Allgemeinmedizin,1.6 km,Goethestraße 66,80336 München,089 / 92 33 31 86
+468,Frau  Silvia Sandow,Fachärztin für Allgemeinmedizin,1.6 km,Schwanthalerstraße 32,80336 München,089 / 54 84 31 10
+469,Frau Dr. med. (univ.) Eva Maria Strobl,Fachärztin für Allgemeinmedizin,1.6 km,Herzog-Heinrich-Straße 34,80336 München,01 51 / 11 87 11 93
+470,Frau Dr. med. Stephanie Backmund-Abedin Pour,Praktische Ärztin,1.6 km,Nymphenburger Straße 148,80634 München,089 / 13 07 93 23
+471,Herr Dr. med. Reinhard Probst,Arzt,1.6 km,Grimmstraße 1,80336 München,089 / 20 20 62 18
+472,Frau Dr. med. Isabel Baenisch,Fachärztin für Allgemeinmedizin,1.6 km,Nymphenburger Straße 62,80335 München,089 / 1 29 73 32
+473,Frau  Margarita Sereda,Fachärztin für Allgemeinmedizin,1.6 km,Grimmstraße 1,80336 München,089 / 76 55 96
+474,Herr Dr. med. Christoph Hedtkamp,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.1 km,Hans-Sachs-Straße 5,80469 München,089 / 26 68 05
+475,Herr Dr. med. Reinhold Reischl,Praktischer Arzt,0.1 km,Fraunhoferstraße 12,80469 München,089 / 26 02 62 60
+476,Frau  Stefanie Regensburger,Fachärztin für Allgemeinmedizin,0.1 km,Fraunhoferstraße 6,80469 München,089 / 2 60 32 02
+477,Herr Dr. med. Axel Rubach,Facharzt für Allgemeinmedizin,0.3 km,Holzstraße 22,80469 München,089 / 26 58 42
+478,Herr Dr. med. Otto Bertermann,Praktischer Arzt,0.3 km,Gärtnerplatz 5,80469 München,089 / 26 76 36
+479,Frau  Afssaneh Hachemi,Fachärztin für Allgemeinmedizin,0.3 km,An der Hauptfeuerwache 4,80331 München,089 / 2 60 41 21
+480,Herr Dr. med. Florian Vogel,Facharzt für Allgemeinmedizin,0.3 km,Auenstraße 6,80469 München,089 / 2 02 25 52
+481,Herr Dr. med. Simon Senner,Praktischer Arzt,0.3 km,Holzstraße 30,80469 München,01 73 / 6 69 12 31
+482,Frau  Jutta Söllner,Fachärztin für Allgemeinmedizin,0.3 km,Corneliusstraße 14,80469 München,089 / 26 63 61
+483,Herr Prof. Dr. Antonius Schneider,Facharzt für Allgemeinmedizin,0.3 km,Holzstraße 22,80469 München,089 / 26 58 42
+484,Herr Dr. med. Volker Lappoehn,Praktischer Arzt,0.3 km,Jahnstraße 30,80469 München,089 / 23 23 18 91
+485,Frau Dr. med. Barbara Eder,Fachärztin für Allgemeinmedizin,0.4 km,Jahnstraße 41,80469 München,089 / 2 01 21 22
+486,Herr  Philipp Heiler,Praktischer Arzt,0.5 km,Augsburger Straße 4,80337 München,089 / 21 54 36 16
+487,Herr Dr. med. Markus Steinebrunner,Facharzt für Allgemeinmedizin,0.5 km,Augsburgerstraße 4,80337 München,089 / 26 02 53 57
+488,Frau Dr. med. (univ.) Beatrix Jakubicka-Fruehwald,Praktische Ärztin,0.6 km,Aventinstraße 12,80469 München,089 / 29 26 50
+489,Frau Dr. med. Edeltraud Engl,Praktische Ärztin,0.6 km,Eduard-Schmid-Straße 10,81541 München,089 / 65 95 65
+490,Frau Dr. med. Renate Späth,Fachärztin für Allgemeinmedizin,0.6 km,Sendlinger Straße 20,80331 München,089 / 9 82 98 53
+491,Frau Dr. Leila Ketabchi,Fachärztin für Allgemeinmedizin,0.6 km,Sendlinger Straße 37,80331 München,089 / 59 48 02
+492,Herr  Alexander Philippi,Facharzt für Allgemeinmedizin,0.6 km,Blumenstraße 1,80331 München,089 / 26 37 55
+493,Frau Dr. med. Ute Walk,Fachärztin für Allgemeinmedizin,0.6 km,Reichenbachstraße 3 a,80469 München,089 / 24 21 49 40
+494,Frau Dr. med. Kathrin Bretthauer,Ärztin,0.6 km,Reichenbachstraße 3a,80469 München,089 / 32 80 13 12
+495,Frau Dr. med. Agnes Lobensteiner,Praktische Ärztin,0.6 km,Reichenbachstraße 3 a,80469 München,089 / 90 41 48 21
+496,Frau Dr. med. Dagmar Dreher-Spika,Fachärztin für Allgemeinmedizin,0.6 km,Sendlinger Straße 37,80331 München,089 / 59 48 02
+497,Frau Dr. med. Julia Nothhaft,Fachärztin für Allgemeinmedizin,0.6 km,Aventinstraße 7,80469 München,089 / 22 04 11
+498,Frau Dr. med. Khalid Wassif,Fachärztin für Allgemeinmedizin,0.6 km,Sendlinger Straße 37,80331 München,089 / 59 49 11
+499,Herr Dr. med. Karl Mehnert,Praktischer Arzt,0.6 km,Sendlinger Straße 37,80331 München,089 / 6 93 19 20
+500,Herr Dr. med. Necdet Bulut,Facharzt für Allgemeinmedizin,0.6 km,Sendlinger Straße 37,80331 München-Altstadt-Lehel,089 / 59 48 02
+501,Avi Medical Hausarztpraxis München Sendlinger Tor,Medizinisches Versorgungszentrum,0.7 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+502,Frau  Sigrid Zühlke,Praktische Ärztin,0.7 km,Baaderstraße 12,80469 München,089 / 21 93 95 10
+503,Frau Dr. med. Rosemarie Klotz,Fachärztin für Allgemeinmedizin,0.7 km,Hackenstraße 2,80331 München-Altstadt,089 / 67 40 28
+504,Frau  Bettina Ehrt,Praktische Ärztin,0.7 km,Hackenstraße 1,80331 München,089 / 69 79 79 12
+505,Frau Dr. med. Barbara Eder,Fachärztin für Allgemeinmedizin,0.7 km,Baldestraße 21,80469 München,089 / 2 01 21 22
+506,Frau  Aleksandra Nikolic,Fachärztin für Allgemeinmedizin,0.7 km,Sendlinger Straße 14,80331 München,089 / 5 50 50 90
+507,Herr  Thomas Bachmann,Facharzt für Allgemeinmedizin,0.7 km,Sonnenstraße 29,80331 München,089 / 30 90 70 50
+508,Herr Dr. med. Stephan Guggenbichler,Facharzt für Allgemeinmedizin,0.7 km,Frauenstraße 17,80469 München,089 / 29 99 52
+509,Frau Dr. med. Cornelia Bernutz,Ärztin,0.7 km,Viktualienmarkt 8,80331 München,089 / 2 42 91 20
+510,Avi Medical Hausarztpraxis München Hofstatt,Medizinisches Versorgungszentrum,0.7 km,Hackenstraße 2,80331 München,089 / 1 25 01 45 40
+511,Frau  Rocio Gil Ruiz,Fachärztin für Allgemeinmedizin,0.7 km,Maistraße 1,80337 München,089 / 1 25 09 51 40
+512,Herr Dr. med. David Papo,Facharzt für Allgemeinmedizin,0.7 km,Maistraße 12,80337 München,089 / 2 35 06 10
+513,Herr  Dominik Völk,Facharzt für Innere Medizin,0.7 km,Sonnenstraße 29,80331 München,089 / 4 42 38 34 00
+514,Frau Dr. Mirela Iconaru,Fachärztin für Allgemeinmedizin,0.7 km,Sonnenstraße 29,80331 München,089 / 4 52 05 90 75
+515,Frau  Ilona Tishina,Fachärztin für Allgemeinmedizin,0.7 km,Sonnenstraße 29,80331 München,089 / 4 52 05 90 75
+516,Hausarztpraxis München MVZ am Baldeplatz,,0.7 km,Baldestraße 21,80469 München,089 / 2 01 21 22
+517,Herr Dr. med. Bernd Walther,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.8 km,Tal 6,80331 München-Altstadt-Lehel,089 / 22 07 63
+518,Frau Dr. med. Ping He,Ärztin,0.8 km,Rosenstraße 6,80331 München,089 / 93 09 42 72
+519,Frau Dr. med. Erika Goldhammer,Praktische Ärztin,0.8 km,Herzog-Wilhelm-Straße 17,80331 München,089 / 26 02 31 60
+520,Herr Dr. med. Christoph Fürbeth,Arzt,0.8 km,Tal 10,80331 München,089 / 29 16 07 78
+521,Herr Dr. med. Martin Johannes Baur,Facharzt für Allgemeinmedizin,0.8 km,Josephspitalstraße 9,80331 München,089 / 26 94 99 66
+522,Frau Dr. med. Julia Posern,Praktische Ärztin,0.8 km,Mariahilfstraße 13,81541 München,089 / 6 51 82 08
+523,Frau Dr. med. Paula Bürkle-Grasse,Fachärztin für Allgemeinmedizin,0.8 km,Herzog-Wilhelm-Straße 17,80331 München,089 / 54 50 64 46
+524,Frau Dr. med. (univ.) Remzije Morina Gashi,Fachärztin für Allgemeinmedizin,0.8 km,Ohlmüllerstraße 19,81541 München,089 / 66 13 10
+525,Frau Dr. med. Sabine Konz,Praktische Ärztin,0.9 km,Eisenmannstraße 4,80331 München,089 / 37 02 97 67
+526,Herr Dr. med. (univ.) Martin Ehrlinger,Facharzt für Psychiatrie,0.9 km,Eisenmannstraße 4,80331 München,089 / 23 25 99 90
+527,Frau Dr. med. Ruxandra Iliescu-Steiner,Fachärztin für Allgemeinmedizin,0.9 km,Tal 48,80331 München,089 / 29 43 91
+528,Herr Dr. med. Thomas Rieger,Facharzt für Allgemeinmedizin,0.9 km,Ledererstraße 4,80331 München,089 / 22 28 87
+529,Frau Dr. med. Cordula Gepp-Gröger,Fachärztin für Allgemeinmedizin,0.9 km,Tal 15,80331 München,089 / 29 16 27 03
+530,Frau Dr. med. Monika Grau,Fachärztin für Allgemeinmedizin,0.9 km,Tal 21,80331 München,089 / 29 16 81 60
+531,Frau Dr. med. Christa Hutterer,"Fachärztin für Diagnostische Radiologie, Fachärztin für Allgemeinmedizin",0.9 km,Kaufingerstraße 15,80331 München-Altstadt-Lehel,089 / 2 00 01 43 - 50
+532,Frau Dr. med. Maren Jaklitsch,Fachärztin für Innere Medizin,0.9 km,Waltherstraße 32 a,80337 München,089 / 53 93 59
+533,Frau Dr. med. Barbara Irmler,Praktische Ärztin,0.9 km,Hochbrückenstraße 3,80331 München-Altstadt-Lehel,089 / 29 16 51 43
+534,Frau  Tatiana Levitin,Fachärztin für Allgemeinmedizin,0.9 km,Ledererstraße 4,80331 München,089 / 22 07 73
+535,Frau Dr. med. Mirjana Blazevic,Fachärztin für Allgemeinmedizin,0.9 km,Entenbachstraße 24,81541 München,089 / 65 34 32
+536,Herr Dr. med. Sven Illig,Praktischer Arzt,0.9 km,Ledererstraße 4,80331 München,089 / 20 33 59 99
+537,Herr Dr. med. Josef J. Dohrenbusch,Facharzt für Allgemeinmedizin,0.9 km,Kaufingerstraße 12,80331 München,089 / 24 20 93 98
+538,Herr Dr. med. Adrian Schmidt,Facharzt für Allgemeinmedizin,0.9 km,Hochbrückenstraße 3,80331 München,089 / 26 02 65 01
+539,Frau Dr. med. Doris Mägdefrau-Roth,Ärztin,0.9 km,Tal 13,80331 München,089 / 36 00 63 99
+540,Frau Dr. Dr. Eva-Christina Schulte,Praktische Ärztin,0.9 km,Lindwurmstraße 2a,80337 München,089 / 4 40 00
+541,Frau Dr. med. Heidi Herrmann,Fachärztin für Innere Medizin,0.9 km,Altheimer Eck 2,80331 München,089 / 45 22 81 81
+542,Frau Dr. med. Simone Kuttiadan,Ärztin,0.9 km,Maistraße 38,80337 München,089 / 92 09 12 99
+543,Herr Dr. med. (univ.) Thomas Wendel,Praktischer Arzt,0.9 km,Altheimer Eck 10,80331 München,089 / 89 67 40 20
+544,Frau Dr. med. Irmela Dialer,Fachärztin für Allgemeinmedizin,0.9 km,Tal 38,80331 München,089 / 22 61 81
+545,Herr Dr. med. (Univ. Agram) Danko Cerovecki,Facharzt für Allgemeinmedizin,1 km,Schwanthalerstraße 3,80336 München,089 / 55 50 70
+546,Frau Dr. med. Karoline Sachsenberg,Fachärztin für Allgemeinmedizin,1 km,Waltherstraße 34,80337 München,089 / 23 03 23 63
+547,Frau Dr. med. May Leveringhaus,Fachärztin für Allgemeinmedizin,1 km,Zeppelinstraße 67,81669 München,089 / 48 55 60
+548,Herr Dr. med. Christoph Pooth,Facharzt für Allgemeinmedizin,1 km,Burgstraße 7,80331 München,089 / 22 91 85
+549,Frau Dr. (IMF Neumarkt) Monica Tzelepides,Fachärztin für Allgemeinmedizin,1 km,Sonnenstraße 10,80331 München,089 / 26 62 58
+550,Frau Dr. Dr. med. Celia Jonsson-Oldenbüttel,Fachärztin für Allgemeinmedizin,1 km,Waltherstraße 32,80337 München,089 / 5 58 70 30
+551,Frau Dr. med. (univ.) Barbara Berling,Praktische Ärztin,1 km,Burgstraße 7,80331 München,089 / 64 91 59 64
+552,Herr Dr. med. Hannes Zill,"Facharzt für Allgemeinmedizin, Facharzt für Psychosomatische Medizin und Psychotherapie",1.1 km,Steinsdorfstraße 15,80538 München,089 / 29 97 26
+553,Frau  Gabriele Jahns,Ärztin,1.1 km,Platzl 3,80331 München-Altstadt-Lehel,089 / 29 81 91
+554,Herr Dr. (IMF Bukarest) Alexandru That,Facharzt für Allgemeinmedizin,1.1 km,Lindwurmstraße 95 a,80337 München,089 / 53 58 06
+555,Herr Dr. Thomas Wenzler,Praktischer Arzt,1.1 km,Steinsdorfstraße 15,80538 München,089 / 22 14 33
+556,Frau  Mina Ostrovskaja,Fachärztin für Allgemeinmedizin,1.1 km,Sonnenstraße 3,80331 München,089 / 2 60 34 79
+557,Frau Dr. med. Karin Lebentrau,Praktische Ärztin,1.1 km,Schwanthalerstraße 17,80336 München,089 / 2 90 94 50
+558,Herr Dr. med. Moutasem Daoud Ghadieh,Facharzt für Allgemeinmedizin,1.1 km,Lindwurmstraße 85,80337 München,089 / 5 43 85 57
+559,Herr  Haidong Wu,Praktischer Arzt,1.1 km,Sonnenstraße 4,80331 München,089 / 5 52 25 50
+560,Medizinisches Versorgungszentrum Karlsplatz,,1.1 km,Karlsplatz 8,80335 München,089 / 5 58 70 30
+561,Frau Dr. med. Imogen Lenhart,Praktische Ärztin,1.1 km,Windenmacherstraße 2,80333 München,089 / 50 80 60 60
+562,Herr Dr. med. Ulrich Bauhofer,Arzt,1.1 km,Falkenturmstraße 12,80331 München-Altstadt-Lehel,089 / 21 04 36 95
+563,Frau Dr. med. Simone Bustami-Löber,Fachärztin für Allgemeinmedizin,1.1 km,Goethestraße 66,80336 München,089 / 92 33 31 86
+564,Herr Prof. Dr. Dr. Franz-Xaver Reichl,Zahnarzt,1.1 km,Goethestraße 70,80336 München,089 / 4 40 05 93 01
+565,Frau Dr. med. Sabine Schmidt,Fachärztin für Allgemeinmedizin,1.1 km,Kanalstraße 13,80538 München,01 51 / 15 13 64 15
+566,Frau Dr. med. Sandra Widmann,Ärztin,1.1 km,Theatinerstraße 1,80333 München,089 / 18 90 82 90
+567,Herr Dr. med. Frank Kennel,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin und Kardiologie",1.1 km,Anja GrönerTegernseer Landstraße 138,81539 München,089 / 64 24 82 - 10
+568,Herr Dr. med. Maximilian That,Facharzt für Allgemeinmedizin,1.1 km,Lindwurmstraße 95 a,80337 München,089 / 53 58 06
+569,Frau Dr. Lisa Ohlmeier,Praktische Ärztin,1.2 km,Lindwurmstraße 103,80337 München,089 / 53 13 55
+570,Herr Dr. med. Manfred Strecker,Facharzt für Allgemeinmedizin,1.2 km,Stollbergstraße 11,80539 München,089 / 22 07 21
+571,Herr Dr. med. Michael Krieger,Facharzt für Allgemeinmedizin,1.2 km,Karlsplatz 4,80335 München,089 / 55 02 88 77
+572,Frau Dr. med. Layla Beicht,Praktische Ärztin,1.2 km,Residenzstraße 19,80333 München,089 / 54 50 72 16
+573,Herr Dr. med. Uli Taucher,Praktischer Arzt,1.2 km,Rosenheimer Straße 2,81669 München,089 / 29 97 44
+574,Frau Dr. med. Stephanie Ferner,Fachärztin für Allgemeinmedizin,1.2 km,Thierschstraße 19,80538 München,089 / 21 02 17 55
+575,Frau Dr. med. Elena Pfister,Fachärztin für Allgemeinmedizin,1.2 km,Bayerstraße 3,80335 München,089 / 20 60 99 60
+576,Frau Dr. med. Isabel Zimmermann,Fachärztin für Allgemeinmedizin,1.2 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+577,Frau Dr. med. Kathrin Senckenberg,Fachärztin für Allgemeinmedizin,1.2 km,Theatinerstraße 14,80333 München,089 / 24 21 76 66
+578,Frau Dr. med. (univ.) Patricia Singer,"Fachärztin für Allgemeinmedizin, Fachärztin für Orthopädie und Unfallchirurgie",1.2 km,Karlsplatz 4,80335 München,089 / 35 89 83 85
+579,Frau Dr. med. (univ.) Eva Maria Strobl,Fachärztin für Allgemeinmedizin,1.2 km,Herzog-Heinrich-Straße 34,80336 München,01 51 / 11 87 11 93
+580,Herr Dr. med. Ulrich Taucher,Praktischer Arzt,1.2 km,Rosenheimer Straße 2,81669 München,089 / 70 80 92 76
+581,Frau Dr. med. Carola Riedner,Fachärztin für Allgemeinmedizin,1.2 km,Bayerstraße 3 - 5,80335 München,089 / 3 09 08 86 - 516
+582,Frau Dr. med. Veronika Liebich,Fachärztin für Allgemeinmedizin,1.2 km,Lindwurmstraße 103,80337 München,089 / 53 13 55
+583,Frau Dr. Angelika Eisenrieder,Fachärztin für Allgemeinmedizin,1.2 km,Pilgersheimer Straße 9 - 11,81543 München,089 / 6 25 02 40
+584,Herr Dr. med. Thomas Beutner,Facharzt für Allgemeinmedizin,1.2 km,Pilgersheimer Straße 9-11,81543 München,089 / 6 25 02 40
+585,Frau Dr. med. Isabel Pinol,Fachärztin für Allgemeinmedizin,1.2 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+586,Herr Dr. med. Haile Araia,Praktischer Arzt,1.3 km,Schwanthalerstraße 41,80336 München,089 / 59 21 39
+587,Herr Dr. med. Vinko Moro,Facharzt für Allgemeinmedizin,1.3 km,Schwanthalerstraße 34,80336 München,089 / 54 50 59 59
+588,Herr Prof. Dr. Dr. Thomas Möller M.A.,Facharzt für Allgemeinmedizin,1.3 km,Theatinerstraße 31,80333 München,089 / 29 30 24
+589,Herr Dr. med. Tino Müller,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin",1.3 km,Theatinerstraße 12,80333 München,089 / 22 16 09
+590,Herr Dr. med. (univ.) Serbaz Inal,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",1.3 km,Bayerstraße 15,80335 München,089 / 5 20 33 90
+591,Herr Dr. med. Dr. med. dent. Robert F. Berger,Zahnarzt,1.3 km,Lenbachplatz 2a,80333 München,089 / 51 56 79 63
+592,Frau Dr. med. Renate Gschwendtner,Fachärztin für Allgemeinmedizin,1.3 km,Bayerstraße 21,80335 München-Ludwigsvorstadt-Isarvorstadt,089 / 54 45 98 98
+593,Frau Dr. med. Viola Lenz,Fachärztin für Allgemeinmedizin,1.3 km,Ehrengutstraße 16,80469 München,089 / 7 25 59 59
+594,AHD Privatärztlicher Not- und Hausbesuchsdienst,,1.3 km,Thierschstraße 31,80538 München,089 / 55 55 66
+595,Frau  Silvia Sandow,Fachärztin für Allgemeinmedizin,1.3 km,Schwanthalerstraße 32,80336 München,089 / 54 84 31 10
+596,Herr Dr. med. Hakim Mansour,Facharzt für Allgemeinmedizin,1.3 km,Regerstraße 12,81541 München,089 / 48 38 15
+597,Frau Dr. med. Ursula Pfeiffer,Fachärztin für Allgemeinmedizin,1.3 km,Regerstraße 12,81541 München,089 / 48 38 15
+598,Herr Dr. med. Philip Eckhardt,Arzt,0.2 km,Johannisstraße 8,80538 München,089 / 32 66 97 66
+599,Herr Dr. med. Lothar Domke,Facharzt für Allgemeinmedizin,0.3 km,Lerchenfeldstraße 20,80538 München,0 45 41 / 63 04
+600,Frau Dr. med. Catalina Gensberger,Ärztin,0.3 km,Oettingenstraße 61,80538 München,089 / 41 61 12 06
+601,Frau Dr. med. Miriam Rehbein,Ärztin,0.4 km,Widenmayerstraße 31,80538 München,089 / 23 23 63 23
+602,Frau Dr. med. Petra Huber van Lankeren,Ärztin,0.6 km,Wagmüllerstraße 14,80538 München,089 / 76 24 - 01
+603,Herr Dr. med. Rainer Musselmann,Facharzt für Allgemeinmedizin,0.7 km,Veterinärstraße 10,80539 München,089 / 59 23 82
+604,Herr Dr. med. Steffen Gerhard,Facharzt für Allgemeinmedizin,0.8 km,Ismaninger Straße 78,81675 München,089 / 98 08 00
+605,Herr Dr. med. Peter Schleicher,Praktischer Arzt,0.8 km,Ismaninger Straße 65,81675 München,089 / 4 19 45 30
+606,Frau Dr. Christiana Udeogu-Gözalan,Praktische Ärztin,0.8 km,Ismaninger Straße 76,81675 München,01 60 / 99 12 49 25
+607,Avi Medical Hausarztpraxis München Lehel,Medizinisches Versorgungszentrum,0.8 km,St.-Anna-Straße 15,80538 München,089 / 1 89 65 99 90
+608,MVZ-Coburg,,0.8 km,Kaulbachstraße 61,80539 München,089 / 28 52 36
+609,Frau Dr. med. Manuela Stahlknecht,Fachärztin für Allgemeinmedizin,0.9 km,Kufsteiner Straße 4 a,81679 München-Bogenhausen,089 / 90 93 67 70
+610,Frau Dr. med. Simone Fügemann,"Fachärztin für Innere Medizin, Fachärztin für Allgemeinmedizin",0.9 km,Kufsteiner Platz 3,81679 München,089 / 98 11 99
+611,Herr Dr. med. Dirk Köthe,Facharzt für Allgemeinmedizin,0.9 km,Geibelstraße 1,81679 München-Bogenhausen,089 / 47 95 72
+612,Frau Dr. med. (Univ. Budapest) Ursula Jacob,Fachärztin für Allgemeinmedizin,0.9 km,Ismaninger Straße 73,81675 München,089 / 46 22 95 02
+613,Herr Dr. med. Marcus Beißner,Facharzt für Allgemeinmedizin,0.9 km,Pfarrstraße 14,80538 München,089 / 22 25 00
+614,Frau Dr. med. Konstanze Krumey,Fachärztin für Allgemeinmedizin,0.9 km,Pfarrstraße 14,80538 München,089 / 22 25 00
+615,MVZ Lehelmed GmbH - Hausärzte im Lehel,Medizinisches Versorgungszentrum,0.9 km,Pfarrstraße 14,80939 München,089 / 22 25 00
+616,Frau  Imke Plischko,Ärztin,1 km,Maximilianstraße 47,80538 München,089 / 21 02 46 86
+617,Frau Dr. med. Erika M. Kirgis,Praktische Ärztin,1 km,Maria-Theresia-Straße 10,81675 München,089 / 98 29 04 12
+618,Herr Dr. med. Basil Bustami,Facharzt für Allgemeinmedizin,1 km,Maximilianstraße 47,80538 München,089 / 22 28 70
+619,Herr Dr. med. Manfred Strässle,Facharzt für Allgemeinmedizin,1 km,Törringstraße 6,81675 München,089 / 41 11 85 90
+620,Frau Dr. med. Adelaide Herrmann,Praktische Ärztin,1.1 km,Theresienstraße 27,80333 München,089 / 26 92 56
+621,Frau Dr. med. Christine Reif,Fachärztin für Allgemeinmedizin,1.1 km,Theresienstraße 27,80333 München,089 / 28 58 14
+622,Herr Dr. med. Christian Neglein,Facharzt für Allgemeinmedizin,1.1 km,Laplacestraße 8,81679 München,089 / 45 21 19 14
+623,Herr Dr. med. Manfred Strecker,Facharzt für Allgemeinmedizin,1.1 km,Stollbergstraße 11,80539 München,089 / 22 07 21
+624,Herr Dr. med. Alexander Kosarev,Facharzt für Allgemeinmedizin,1.1 km,Leopoldstraße 32,80802 München,089 / 99 20 14 11
+625,Frau Dr. med. Manuela Leppig,Praktische Ärztin,1.1 km,Steinsdorfstraße 2,80538 München,089 / 29 16 98 20
+626,Frau Dr. Dana Szurmant,Fachärztin für Allgemeinmedizin,1.1 km,Schumannstraße 2,81679 München-Bogenhausen,089 / 41 60 03 30
+627,Frau Dr. med. (Univ. Belgrad) Mirjana Mihailovic,Fachärztin für Allgemeinmedizin,1.1 km,Leopoldstraße 32,80802 München,089 / 30 18 31
+628,Frau Dr. med. Eleni Kavelara Lodge,Fachärztin für Allgemeinmedizin,1.1 km,Theresienstraße 27,80333 München-Maxvorstadt,089 / 28 80 98 33
+629,Herr Prof. Dr. Dietmar Daichendt,Facharzt für Allgemeinmedizin,1.1 km,Pienzenauerstraße 14,81679 München,089 / 55 05 22 20
+630,Praxis für Psychiatrie,,1.1 km,Brienner Straße 3,80333 München,089 / 24 29 03 09
+631,Frau  Gabriele Jahns,Ärztin,1.2 km,Platzl 3,80331 München-Altstadt-Lehel,089 / 29 81 91
+632,Herr Prof. Dr. Dr. Thomas Möller M.A.,Facharzt für Allgemeinmedizin,1.2 km,Theatinerstraße 31,80333 München,089 / 29 30 24
+633,Frau Dr. med. Sabine Brommer,Praktische Ärztin,1.2 km,Brienner Straße 11,80333 München,089 / 29 89 42
+634,Medizinisches Versorgungszentrum Bogenhausen GmbH,,1.2 km,Possartstraße 27,81679 München,089 / 99 89 02 20
+635,Herr Dr. med. Alexander Kashin,Arzt,1.2 km,Possartstraße 27 - 31,81679 München,089 / 99 89 02 - 0
+636,Frau Dr. med. Theresa Apelmann,Ärztin in Weiterbildung,1.2 km,Brienner Straße 11,80333 München,089 / 22 35 23
+637,AHD Privatärztlicher Not- und Hausbesuchsdienst,,1.2 km,Thierschstraße 31,80538 München,089 / 55 55 66
+638,Herr Dr. med. Ulrich Bauhofer,Arzt,1.2 km,Falkenturmstraße 12,80331 München-Altstadt-Lehel,089 / 21 04 36 95
+639,Frau Dr. Christina Benou,Fachärztin für Allgemeinmedizin,1.2 km,Bogenstraße 3,81675 München,089 / 47 42 03
+640,Herr Dr. med. Johannes Rosenberger,Praktischer Arzt,1.2 km,Maximilianstraße 2,80539 München,089 / 20 50 08 56 10
+641,Herr Dr. med. Bernhard Ahlborn,Facharzt für Allgemeinmedizin,1.3 km,Maximiliansplatz 12 a,80333 München,089 / 22 73 44
+642,Frau Dr. med. Anneliese Klaus,Fachärztin für Allgemeinmedizin,1.3 km,Schellingstraße 48,80799 München-Maxvorstadt,089 / 2 72 58 30
+643,Frau Dr. med. Liane Simmel,Praktische Ärztin,1.3 km,Ismaninger Straße 152,81675 München,089 / 12 22 95 93
+644,Frau Dr. med. (IMF Temeschburg) Diana Karnath,"FÄ für Allgemeinmedizin, FÄ für Innere Medizin und Endokrinologie und Diabetologie",1.3 km,Residenzstraße 3,80333 München-Altstadt-Lehel,089 / 4 13 00 80
+645,Herr Dr. med. Markus Baumgartner,Facharzt für Allgemeinmedizin,1.3 km,Scheinerstraße 9,81679 München-Bogenhausen,089 / 98 24 78 80
+646,Herr Prof. Dr. med. Dirk Wilhelm,"Facharzt für Allgemeinmedizin, Facharzt für Viszeralchirurgie",1.3 km,Ismaninger Straße 22,81675 München,089 / 41 40 - 73 90
+647,Frau Dr. med. Isabel Zimmermann,Fachärztin für Allgemeinmedizin,1.3 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+648,Frau Dr. med. Kathrin Senckenberg,Fachärztin für Allgemeinmedizin,1.3 km,Theatinerstraße 14,80333 München,089 / 24 21 76 66
+649,Frau Dr. med. Nicola Fritz,Fachärztin für Allgemeinmedizin,1.3 km,Einsteinstraße 1,81675 München,089 / 4 57 09 59 90
+650,Frau Dr. med. Sabine Schmidt,Fachärztin für Allgemeinmedizin,1.3 km,Kanalstraße 13,80538 München,01 51 / 15 13 64 15
+651,Frau Dr. med. Anneke Vad,Fachärztin für Allgemeinmedizin,1.3 km,Scheinerstraße 9,81679 München,089 / 98 24 78 80
+652,Frau Dr. med. Isabel Pinol,Fachärztin für Allgemeinmedizin,1.3 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+653,Herr Dr. med. Michael Jung,Facharzt für Allgemeinmedizin,1.4 km,Barer Straße 39,80799 München,089 / 28 19 73
+654,Herr Dr. med. Thomas Rieger,Facharzt für Allgemeinmedizin,1.4 km,Ledererstraße 4,80331 München,089 / 22 28 87
+655,Frau Dr. (IMF Bukarest) Adina Jansen,Fachärztin für Allgemeinmedizin,1.4 km,Weinstraße 11,80333 München,089 / 29 23 00
+656,Frau Dr. med. Stephanie Ferner,Fachärztin für Allgemeinmedizin,1.4 km,Thierschstraße 19,80538 München,089 / 21 02 17 55
+657,Frau Dr. med. Cordula Gepp-Gröger,Fachärztin für Allgemeinmedizin,1.4 km,Tal 15,80331 München,089 / 29 16 27 03
+658,Herr Dr. med. Veit Rattenhuber,Facharzt für Allgemeinmedizin,1.4 km,Possartstraße 2,81679 München,089 / 47 73 07
+659,Frau Dr. med. Monika Grau,Fachärztin für Allgemeinmedizin,1.4 km,Tal 21,80331 München,089 / 29 16 81 60
+660,Frau Dr. med. Stephanie Schiele,Fachärztin für Allgemeinmedizin,1.4 km,Maffeistraße 3,80333 München,089 / 2 17 77 70
+661,Frau Dr. med. Barbara Irmler,Praktische Ärztin,1.4 km,Hochbrückenstraße 3,80331 München-Altstadt-Lehel,089 / 29 16 51 43
+662,Herr Dr. med. Christoph Pooth,Facharzt für Allgemeinmedizin,1.4 km,Burgstraße 7,80331 München,089 / 22 91 85
+663,Frau  Tatiana Levitin,Fachärztin für Allgemeinmedizin,1.4 km,Ledererstraße 4,80331 München,089 / 22 07 73
+664,Herr Dr. med. Thomas Kochems,Facharzt für Allgemeinmedizin,1.4 km,Innere Wiener Straße 56,81667 München,089 / 4 80 20 18
+665,Herr Dr. med. Sven Illig,Praktischer Arzt,1.4 km,Ledererstraße 4,80331 München,089 / 20 33 59 99
+666,Herr Dr. med. Adrian Schmidt,Facharzt für Allgemeinmedizin,1.4 km,Hochbrückenstraße 3,80331 München,089 / 26 02 65 01
+667,Frau Dr. med. Doris Mägdefrau-Roth,Ärztin,1.4 km,Tal 13,80331 München,089 / 36 00 63 99
+668,Frau Dr. med. Sandra Widmann,Ärztin,1.4 km,Theatinerstraße 1,80333 München,089 / 18 90 82 90
+669,Frau  Camelia Badulescu,Fachärztin für Allgemeinmedizin,1.4 km,Weinstraße 11,80333 München,089 / 29 23 00
+670,Frau Dr. med. (univ.) Barbara Berling,Praktische Ärztin,1.4 km,Burgstraße 7,80331 München,089 / 64 91 59 64
+671,Herr Dr. med. Frank Kennel,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin und Kardiologie",1.4 km,Anja GrönerTegernseer Landstraße 138,81539 München,089 / 64 24 82 - 10
+672,Herr  Gerhard Antrup,Praktischer Arzt,1.4 km,Weinstraße 11,80333 München,089 / 66 09 01 49
+673,Frau Dr. med. Irmela Dialer,Fachärztin für Allgemeinmedizin,1.4 km,Tal 38,80331 München,089 / 22 61 81
+674,Frau Dr. med. Christina Rudolph,Fachärztin für Allgemeinmedizin,1.5 km,Leopoldstraße 58,80802 München,089 / 39 10 74
+675,Herr Dr. med. Bernd Walther,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",1.5 km,Tal 6,80331 München-Altstadt-Lehel,089 / 22 07 63
+676,Herr Dr. med. Hannes Zill,"Facharzt für Allgemeinmedizin, Facharzt für Psychosomatische Medizin und Psychotherapie",1.5 km,Steinsdorfstraße 15,80538 München,089 / 29 97 26
+677,Frau Dr. med. Ruxandra Iliescu-Steiner,Fachärztin für Allgemeinmedizin,1.5 km,Tal 48,80331 München,089 / 29 43 91
+678,Herr Dr. med. Christoph Fürbeth,Arzt,1.5 km,Tal 10,80331 München,089 / 29 16 07 78
+679,Herr Dr. med. Ulrich Dettling,Praktischer Arzt,1.5 km,Chorherrstraße 4,81667 München,089 / 52 31 06 07
+680,Herr Dr. Thomas Wenzler,Praktischer Arzt,1.5 km,Steinsdorfstraße 15,80538 München,089 / 22 14 33
+681,Frau Dr. med. Marlies Lincke,Praktische Ärztin,1.5 km,Georgenstraße 43,80799 München,089 / 2 71 07 78
+682,Frau Dr. med. Annkathrin Machanek,Fachärztin für Allgemeinmedizin,1.5 km,Georgenstraße 39,80799 München,089 / 2 72 01 72
+683,Herr Dr. Michael Pritsch,Facharzt für Allgemeinmedizin,1.5 km,Zweibrückenstraße 2,80331 München,089 / 22 90 09
+684,Herr Dr. med. Mansour Nosratian,Facharzt für Allgemeinmedizin,1.5 km,Chorherrstraße 4,81667 München,089 / 48 28 84
+685,Frau Dr. med. Katharina Lederer,Fachärztin für Allgemeinmedizin,1.5 km,Habsburgerplatz 6,80801 München,089 / 33 22 08
+686,Frau Dr. med. Ramona Pauli,Fachärztin für Allgemeinmedizin,1.5 km,Isartorplatz 6,80331 München,089 / 22 92 16
+687,Frau Dr. med. Oksana Vovk-Debryckyi,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.5 km,Leopoldstraße 58,80802 München-Schwabing-Freimann,089 / 33 43 61
+688,Frau Dr. med. Marion Torge,Fachärztin für Allgemeinmedizin,1.5 km,Innere Wiener Straße 4,81667 München,089 / 4 58 71 00
+689,Frau Dr. med. Imogen Lenhart,Praktische Ärztin,1.5 km,Windenmacherstraße 2,80333 München,089 / 50 80 60 60
+690,Frau Dr. med. Nicola Brosi,Praktische Ärztin,1.5 km,Prinzregentenplatz 19,81675 München,089 / 74 03 66 30
+691,Frau Dr. med. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,1.5 km,Schraudolphstraße 14,80799 München,089 / 2 72 22 48
+692,Herr Dr. med. Dirk Reichel,Praktischer Arzt,1.5 km,Nigerstraße 4,81675 München,089 / 4 70 21 24
+693,Avi Medical Hausarztpraxis München Bogenhausen,Medizinisches Versorgungszentrum,1.5 km,Prinzregentenstraße 91,81677 München,089 / 1 25 03 21 20
+694,Herr Dr. med. Robert Mutschler,Facharzt für Allgemeinmedizin,1.5 km,Heßstraße 8,80799 München,089 / 2 72 22 48
+695,Frau Dr. med. Monika Horn,Ärztin,1.5 km,Johannisplatz 14,81677 München,089 / 52 31 07 21
+696,Frau  Christine Egger,Fachärztin für Allgemeinmedizin,1.5 km,Zweibrückenstraße 2,80331 München,089 / 22 30 87
+697,Herr Dr. med. Rainer Musselmann,Facharzt für Allgemeinmedizin,0.4 km,Veterinärstraße 10,80539 München,089 / 59 23 82
+698,Frau Dr. med. Adelaide Herrmann,Praktische Ärztin,0.5 km,Theresienstraße 27,80333 München,089 / 26 92 56
+699,Frau Dr. med. Christine Reif,Fachärztin für Allgemeinmedizin,0.5 km,Theresienstraße 27,80333 München,089 / 28 58 14
+700,Frau Dr. med. Eleni Kavelara Lodge,Fachärztin für Allgemeinmedizin,0.5 km,Theresienstraße 27,80333 München-Maxvorstadt,089 / 28 80 98 33
+701,Herr Dr. med. Philip Eckhardt,Arzt,0.6 km,Johannisstraße 8,80538 München,089 / 32 66 97 66
+702,Frau Dr. med. Britta Knoll,Fachärztin für Allgemeinmedizin,0.6 km,Amalienstraße 91,80799 München,089 / 4 48 59 40
+703,Herr Dr. med. Bernhard Ahlborn,Facharzt für Allgemeinmedizin,0.7 km,Maximiliansplatz 12 a,80333 München,089 / 22 73 44
+704,Frau Dr. med. Anneliese Klaus,Fachärztin für Allgemeinmedizin,0.7 km,Schellingstraße 48,80799 München-Maxvorstadt,089 / 2 72 58 30
+705,Herr Prof. Dr. Dr. Thomas Möller M.A.,Facharzt für Allgemeinmedizin,0.7 km,Theatinerstraße 31,80333 München,089 / 29 30 24
+706,MVZ-Coburg,,0.7 km,Kaulbachstraße 61,80539 München,089 / 28 52 36
+707,Frau Dr. med. Petra Huber van Lankeren,Ärztin,0.8 km,Wagmüllerstraße 14,80538 München,089 / 76 24 - 01
+708,Herr Dr. med. Michael Jung,Facharzt für Allgemeinmedizin,0.8 km,Barer Straße 39,80799 München,089 / 28 19 73
+709,Frau Dr. med. Layla Beicht,Praktische Ärztin,0.8 km,Residenzstraße 19,80333 München,089 / 54 50 72 16
+710,Frau Dr. med. Isabel Zimmermann,Fachärztin für Allgemeinmedizin,0.8 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+711,Frau Dr. med. Kathrin Senckenberg,Fachärztin für Allgemeinmedizin,0.8 km,Theatinerstraße 14,80333 München,089 / 24 21 76 66
+712,Frau Dr. med. Isabel Pinol,Fachärztin für Allgemeinmedizin,0.8 km,Perusastraße 1,80333 München,089 / 2 30 89 40
+713,Frau Dr. med. (IMF Temeschburg) Diana Karnath,"FÄ für Allgemeinmedizin, FÄ für Innere Medizin und Endokrinologie und Diabetologie",0.9 km,Residenzstraße 3,80333 München-Altstadt-Lehel,089 / 4 13 00 80
+714,Herr Dr. med. Ulrich Bauhofer,Arzt,0.9 km,Falkenturmstraße 12,80331 München-Altstadt-Lehel,089 / 21 04 36 95
+715,Frau Dr. med. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,0.9 km,Schraudolphstraße 14,80799 München,089 / 2 72 22 48
+716,Herr Dr. med. Robert Mutschler,Facharzt für Allgemeinmedizin,0.9 km,Heßstraße 8,80799 München,089 / 2 72 22 48
+717,Herr Dr. med. Lothar Domke,Facharzt für Allgemeinmedizin,0.9 km,Lerchenfeldstraße 20,80538 München,0 45 41 / 63 04
+718,Frau Dr. med. Catalina Gensberger,Ärztin,0.9 km,Oettingenstraße 61,80538 München,089 / 41 61 12 06
+719,Herr Dr. med. Johannes Rosenberger,Praktischer Arzt,0.9 km,Maximilianstraße 2,80539 München,089 / 20 50 08 56 10
+720,Herr Dr. med. Manfred Strecker,Facharzt für Allgemeinmedizin,1 km,Stollbergstraße 11,80539 München,089 / 22 07 21
+721,Frau  Gabriele Jahns,Ärztin,1 km,Platzl 3,80331 München-Altstadt-Lehel,089 / 29 81 91
+722,Herr Dr. med. Alexander Kosarev,Facharzt für Allgemeinmedizin,1 km,Leopoldstraße 32,80802 München,089 / 99 20 14 11
+723,Frau Dr. med. Annkathrin Machanek,Fachärztin für Allgemeinmedizin,1 km,Georgenstraße 39,80799 München,089 / 2 72 01 72
+724,Frau Dr. med. Valerie Malouvier,Ärztin,1 km,Ottostraße 11,80333 München,089 / 59 98 88 - 0
+725,Frau Dr. med. (Univ. Belgrad) Mirjana Mihailovic,Fachärztin für Allgemeinmedizin,1 km,Leopoldstraße 32,80802 München,089 / 30 18 31
+726,Algesiologikum MVZ München,Zentrum für Schmerzmedizin und psychische Gesundheit,1 km,Heßstraße 22,80799 München-Maxvorstadt,089 / 45 24 45 - 10
+727,Frau Dr. Yvonne Strauch,Fachärztin für Allgemeinmedizin,1 km,Heßstraße 22,80799 München,089 / 21 22 - 821
+728,Frau Dr. med. Miriam Rehbein,Ärztin,1 km,Widenmayerstraße 31,80538 München,089 / 23 23 63 23
+729,Frau Dr. med. Imogen Lenhart,Praktische Ärztin,1 km,Windenmacherstraße 2,80333 München,089 / 50 80 60 60
+730,Herr Dr. med. Marcus Beißner,Facharzt für Allgemeinmedizin,1 km,Pfarrstraße 14,80538 München,089 / 22 25 00
+731,Frau Dr. med. Konstanze Krumey,Fachärztin für Allgemeinmedizin,1 km,Pfarrstraße 14,80538 München,089 / 22 25 00
+732,MVZ Lehelmed GmbH - Hausärzte im Lehel,Medizinisches Versorgungszentrum,1 km,Pfarrstraße 14,80939 München,089 / 22 25 00
+733,Frau Dr. Andrea Beier-Lenko,Fachärztin für Allgemeinmedizin,0.1 km,Andreestraße 3,80634 München-Neuhausen-Nymphenburg,089 / 16 16 79
+734,Herr Dr. med. Markus Kroth,Facharzt für Allgemeinmedizin,0.2 km,Nibelungenstraße 10,80639 München,089 / 16 27 83
+735,Frau Dr. med. Barbara Wörle,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.3 km,Donnersberger Straße 4,80634 München,089 / 16 11 41
+736,Frau Dr. med. Susanne Firuzeh-Winter,Fachärztin für Allgemeinmedizin,0.3 km,Wendl-Dietrich-Straße 2,80634 München,089 / 16 36 86
+737,Herr Dr. med. Muamer Kavgic,Facharzt für Allgemeinmedizin,0.3 km,Donnersberger Straße 5,80634 München,089 / 16 21 38
+738,Frau Dr. med. Diane Weihe,Praktische Ärztin,0.3 km,Rotkreuzplatz 2 A,80634 München,089 / 12 29 91 14
+739,Dr. med. Karl Theodor Zeitler,,0.3 km,Winthirstraße 4,80639 München-Neuhausen-Nymphenburg,089 / 16 26 25
+740,Herr Dr. med. Christian Sanden,Facharzt für Allgemeinmedizin,0.4 km,Wilderich-Lang-Straße 12,80634 München,089 / 16 13 29
+741,Frau Dr. med. Beatrix Mühlbauer,Fachärztin für Allgemeinmedizin,0.4 km,Winthirstraße 19,80639 München,01 72 / 6 72 45 60
+742,Frau Dr. med. Melanie H. Paulus,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",0.4 km,Rotkreuzplatz 8,80634 München,089 / 96 19 58 71
+743,Herr Dr. med. Günther Schäffer,Facharzt für Chirurgie,0.4 km,Volkartstraße 1,80634 München-Neuhausen-Nymphenburg,089 / 1 68 96 66
+744,KIRINUS Praxis Rotkreuzplatz,Ambulantes Praxiszentrum,0.4 km,Rotkreuzplatz 1,80634 München,089 / 4 52 09 32 - 0
+745,Frau  Katrin Liem,Fachärztin für Allgemeinmedizin,0.4 km,Volkartstraße 5,80634 München,089 / 16 19 41
+746,Frau  Regine D. Ritter,Praktische Ärztin,0.4 km,Donnersbergerstraße 20a,80634 München,01 72 / 8 24 19 39
+747,Frau Dr. Stefanie Mayer,Fachärztin für Allgemeinmedizin,0.4 km,Wilderich-Lang-Straße 12,80634 München,089 / 16 13 29
+748,Frau  Anne Katrin Liem,Fachärztin für Allgemeinmedizin,0.5 km,Landshuter Allee 43,80637 München,089 / 13 01 06 40
+749,Frau Dr. med. Stephanie Backmund-Abedin Pour,Praktische Ärztin,0.5 km,Nymphenburger Straße 148,80634 München,089 / 13 07 93 23
+750,Herr Dr. med. Christian Putzke,Facharzt für Allgemeinmedizin,0.5 km,Donnersberger Straße 42,80634 München,089 / 16 76 26
+751,MVZ Regensburg,,0.5 km,Ysenburgstraße 1,80634 München,089 / 12 12 88 15
+752,Herr Dr. med. Reinhard Pabst,Praktischer Arzt,0.6 km,Nymphenburger Straße 188,80634 München,089 / 54 54 29 29
+753,Herr Dr. med. Klaus-Eckart Eickelmann,Praktischer Arzt,0.6 km,Romanstraße 4,80639 München,089 / 16 87 92
+754,Herr Dr. med. Stephan von Spalden,Facharzt für Allgemeinmedizin,0.6 km,Romanstraße 16 a,80639 München,089 / 13 30 41
+755,Frau Dr. med. Lisa Rohling,Ärztin,0.6 km,Nymphenburger Straße 187,80634 München,089 / 24 22 44 62
+756,CIPM GmbH,Medizinisches Versorgungszentrum,0.6 km,Nymphenburger Straße 185,80634 München,089 / 13 07 93 - 0
+757,KIRINUS Praxis Landshuter Allee,Ambulantes Praxiszentrum,0.6 km,Landshuter Allee 45,80637 München,089 / 1 89 51 69 21
+758,Frau  Silke Ebert,Ärztin,0.6 km,Donnersbergerstraße 57,80634 München,089 / 12 55 59 75
+759,Frau Dr. med. Amelie Küchler-Sanktjohanser,Praktische Ärztin,0.6 km,Aiblingerstraße 9,80639 München,089 / 17 99 87 55
+760,Herr Dr. med. Viktor Fleischmann,Praktischer Arzt,0.7 km,Bothmerstraße 20,80634 München,089 / 16 61 80
+761,Frau Dr. med. Alexandra Braune,Fachärztin für Allgemeinmedizin,0.7 km,Nymphenburger Straße 132,80636 München,089 / 21 52 69 69
+762,Frau  Heidi Rohde,Praktische Ärztin,0.7 km,Volkartstraße 29,80634 München,089 / 13 15 51
+763,Frau Dr. med. Elisabeth Güttler,Fachärztin für Allgemeinmedizin,0.7 km,Arnulfstraße 224,80634 München,089 / 16 36 08
+764,Herr  Josef Eckart,Arzt,0.8 km,Ruffinistraße 22,80637 München,089 / 3 00 50 62
+765,Frau Dr. med. Sabine Willi,Fachärztin für Allgemeinmedizin,0.8 km,Jutastraße 14,80636 München,089 / 55 26 90 70
+766,Frau Dr. med. Bach-Tuyet Stoeckicht-Nguyen,Praktische Ärztin,0.9 km,Hubertusstraße 22,80639 München,089 / 17 26 65
+767,Herr Dr. med. (univ.) Hans Schönleitner,Praktischer Arzt,0.9 km,Johann-Sebastian-Bach-Straße 1,80637 München,089 / 1 68 44 24
+768,Frau Dr. med. Ruth-Maria Korth,Fachärztin für Allgemeinmedizin,0.9 km,Palestrinastraße 7 a,80639 München,089 / 2 01 22 66
+769,Herr Dr. med. Stefan Schnur,Facharzt für Allgemeinmedizin,1 km,Waisenhausstraße 17,80637 München,089 / 15 92 50 50
+770,Frau Prof. Dr. med. Antje Habicht,Fachärztin für Allgemeinmedizin,1 km,Nymphenburger Straße 110,80636 München,089 / 1 29 20 94
+771,Frau Dr. med. Julia Dreyßig,Fachärztin für Allgemeinmedizin,1 km,Waisenhausstraße 17,80637 München,089 / 17 11 79 72
+772,Frau Dr. med. Tilke Johanna Nonnenkamp,Praktische Ärztin,1.1 km,Nymphenburger Straße 81,80636 München,089 / 12 71 77 57
+773,Herr Dr. med. Florian Kiskalt,Facharzt für Allgemeinmedizin,1.1 km,Nymphenburger Straße 87,80636 München,089 / 1 29 60 22
+774,Frau Dr. med. Helena Sykora,Fachärztin für Allgemeinmedizin,1.1 km,Fuetererstraße 21,80637 München,089 / 1 29 33 60
+775,Frau Dr. med. Sabine Willi,Fachärztin für Allgemeinmedizin,0.2 km,Jutastraße 14,80636 München,089 / 55 26 90 70
+776,Frau Dr. med. Alexandra Braune,Fachärztin für Allgemeinmedizin,0.4 km,Nymphenburger Straße 132,80636 München,089 / 21 52 69 69
+777,Frau Prof. Dr. med. Antje Habicht,Fachärztin für Allgemeinmedizin,0.4 km,Nymphenburger Straße 110,80636 München,089 / 1 29 20 94
+778,Frau Dr. med. Tilke Johanna Nonnenkamp,Praktische Ärztin,0.5 km,Nymphenburger Straße 81,80636 München,089 / 12 71 77 57
+779,Herr Dr. med. Florian Kiskalt,Facharzt für Allgemeinmedizin,0.5 km,Nymphenburger Straße 87,80636 München,089 / 1 29 60 22
+780,KIRINUS Praxis Landshuter Allee,Ambulantes Praxiszentrum,0.5 km,Landshuter Allee 45,80637 München,089 / 1 89 51 69 21
+781,Frau  Heidi Rohde,Praktische Ärztin,0.6 km,Volkartstraße 29,80634 München,089 / 13 15 51
+782,Frau Dr. med. Kerstin Kühnemund-Fincke,Fachärztin für Allgemeinmedizin,0.6 km,Dom-Pedro-Straße 13,80637 München,089 / 18 18 09
+783,Frau Dr. med. Helena Sykora,Fachärztin für Allgemeinmedizin,0.6 km,Fuetererstraße 21,80637 München,089 / 1 29 33 60
+784,Frau Dr. med. (univ.) Nadia El-Giamal,Praktische Ärztin,0.6 km,Maillingerstraße 7,80636 München,089 / 64 95 43 90
+785,Frau Dr. med. Stephanie Backmund-Abedin Pour,Praktische Ärztin,0.6 km,Nymphenburger Straße 148,80634 München,089 / 13 07 93 23
+786,Herr Dr. med. Benjamin Cossham,Facharzt für Allgemeinmedizin,0.6 km,Dom-Pedro-Straße 1,80637 München,089 / 12 39 17 10
+787,Herr  Josef Eckart,Arzt,0.7 km,Ruffinistraße 22,80637 München,089 / 3 00 50 62
+788,Herr  Johann Günter Huber,Praktischer Arzt,0.7 km,Birkerstraße 20,80636 München-Neuhausen-Nymphenburg,089 / 18 19 98
+789,Frau Dr. med. Barbara Wörle,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.7 km,Donnersberger Straße 4,80634 München,089 / 16 11 41
+790,Frau  Cornelia Groos-März,Fachärztin für Allgemeinmedizin,0.7 km,Nymphenburger Straße 62,80335 München,089 / 1 29 73 32
+791,Herr Dr. med. (univ.) Hans Schönleitner,Praktischer Arzt,0.7 km,Johann-Sebastian-Bach-Straße 1,80637 München,089 / 1 68 44 24
+792,KIRINUS Praxis Rotkreuzplatz,Ambulantes Praxiszentrum,0.7 km,Rotkreuzplatz 1,80634 München,089 / 4 52 09 32 - 0
+793,open.med München,Medizinische Hilfe für Migranten und Menschen ohne Krankenversicherung,0.7 km,Dachauer Straße 161,80636 München,089 / 45 20 76 58
+794,Frau Dr. med. Diane Weihe,Praktische Ärztin,0.7 km,Rotkreuzplatz 2 A,80634 München,089 / 12 29 91 14
+795,MVZ Regensburg,,0.7 km,Ysenburgstraße 1,80634 München,089 / 12 12 88 15
+796,Frau Dr. med. Isabel Baenisch,Fachärztin für Allgemeinmedizin,0.7 km,Nymphenburger Straße 62,80335 München,089 / 1 29 73 32
+797,Herr Dr. med. Reinhard Pabst,Praktischer Arzt,0.8 km,Nymphenburger Straße 188,80634 München,089 / 54 54 29 29
+798,Frau Dr. med. Melanie H. Paulus,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",0.8 km,Rotkreuzplatz 8,80634 München,089 / 96 19 58 71
+799,Frau  Leila Hasahanova,Fachärztin für Augenheilkunde,0.8 km,Nymphenburger Straße 43,80335 München,089 / 47 44 38
+800,Frau Dr. med. Susanne Firuzeh-Winter,Fachärztin für Allgemeinmedizin,0.8 km,Wendl-Dietrich-Straße 2,80634 München,089 / 16 36 86
+801,Frau  Glaucia Bastos-Dathe,Praktische Ärztin,0.8 km,Nymphenburger Straße 47,80335 München,01 77 / 2 75 67 54
+802,Herr Dr. med. Muamer Kavgic,Facharzt für Allgemeinmedizin,0.8 km,Donnersberger Straße 5,80634 München,089 / 16 21 38
+803,Frau  Regine D. Ritter,Praktische Ärztin,0.8 km,Donnersbergerstraße 20a,80634 München,01 72 / 8 24 19 39
+804,Herr Dr. med. Günther Schäffer,Facharzt für Chirurgie,0.9 km,Volkartstraße 1,80634 München-Neuhausen-Nymphenburg,089 / 1 68 96 66
+805,Frau Dr. med. Lisa Rohling,Ärztin,0.9 km,Nymphenburger Straße 187,80634 München,089 / 24 22 44 62
+806,CIPM GmbH,Medizinisches Versorgungszentrum,0.9 km,Nymphenburger Straße 185,80634 München,089 / 13 07 93 - 0
+807,Frau  Katrin Liem,Fachärztin für Allgemeinmedizin,0.9 km,Volkartstraße 5,80634 München,089 / 16 19 41
+808,Herr Dr. med. Christian Putzke,Facharzt für Allgemeinmedizin,0.9 km,Donnersberger Straße 42,80634 München,089 / 16 76 26
+809,Dr. med. Karl Theodor Zeitler,,0.9 km,Winthirstraße 4,80639 München-Neuhausen-Nymphenburg,089 / 16 26 25
+810,Frau Dr. med. Beatrix Mühlbauer,Fachärztin für Allgemeinmedizin,1 km,Winthirstraße 19,80639 München,01 72 / 6 72 45 60
+811,Herr Dr. med. Markus Kroth,Facharzt für Allgemeinmedizin,1 km,Nibelungenstraße 10,80639 München,089 / 16 27 83
+812,Frau Dr. Andrea Beier-Lenko,Fachärztin für Allgemeinmedizin,1 km,Andreestraße 3,80634 München-Neuhausen-Nymphenburg,089 / 16 16 79
+813,Frau  Diana Vogel,"Fachärztin für Augenheilkunde, Fachärztin für Allgemeinmedizin",1 km,Helene-Weber-Allee 19,80637 München,089 / 1 59 40 40
+814,Frau doctor-medic Diana Balkow,Fachärztin für Allgemeinmedizin,1 km,Helene-Weber-Allee 19,80637 München,089 / 29 26 08
+815,Frau Dr. med. Tanja Gaßmann,Fachärztin für Allgemeinmedizin,0.4 km,Nürnberger Straße 53,80637 München-Gern,089 / 15 37 45
+816,Frau Dr. med. Claudia Wehrig,Fachärztin für Allgemeinmedizin,0.5 km,Schmaedelstraße 29,81245 München,089 / 82 94 04 40
+817,Frau Dr. med. Monika Pirlet-Gottwald,Ärztin,0.6 km,Waisenhausstraße 52 a,80637 München,089 / 12 71 07 47
+818,Frau  Diana Vogel,"Fachärztin für Augenheilkunde, Fachärztin für Allgemeinmedizin",0.6 km,Helene-Weber-Allee 19,80637 München,089 / 1 59 40 40
+819,Herr Dr. med. Frank Balkow,Facharzt für Allgemeinmedizin,0.6 km,Helene-Weber-Allee 19,80637 München,089 / 29 26 08
+820,Herr Dr. med. Franz Hartmann,Facharzt für Allgemeinmedizin,0.8 km,Bandelstraße 20,80638 München,089 / 1 57 63 94
+821,Herr Dr. med. Stefan Schnur,Facharzt für Allgemeinmedizin,0.8 km,Waisenhausstraße 17,80637 München,089 / 15 92 50 50
+822,Frau Dr. med. Gabriele Willkomm,Fachärztin für Allgemeinmedizin,0.8 km,Tizianstraße 63,80638 München-Neuhausen-Nymphenburg,089 / 15 30 21
+823,Frau Dr. med. Kerstin Kühnemund-Fincke,Fachärztin für Allgemeinmedizin,0.8 km,Dom-Pedro-Straße 13,80637 München,089 / 18 18 09
+824,Frau Dr. med. Helena Sykora,Fachärztin für Allgemeinmedizin,0.8 km,Fuetererstraße 21,80637 München,089 / 1 29 33 60
+825,Frau Dr. med. Julia Dreyßig,Fachärztin für Allgemeinmedizin,0.8 km,Waisenhausstraße 17,80637 München,089 / 17 11 79 72
+826,Herr  Josef Eckart,Arzt,1 km,Ruffinistraße 22,80637 München,089 / 3 00 50 62
+827,Herr Dr. med. Benjamin Cossham,Facharzt für Allgemeinmedizin,1 km,Dom-Pedro-Straße 1,80637 München,089 / 12 39 17 10
+828,Herr Dr. med. Viktor Fleischmann,Praktischer Arzt,1.1 km,Bothmerstraße 20,80634 München,089 / 16 61 80
+829,Herr Dr. med. Reinhard Pabst,Praktischer Arzt,1.2 km,Nymphenburger Straße 188,80634 München,089 / 54 54 29 29
+830,Herr Dr. med. Klaus-Eckart Eickelmann,Praktischer Arzt,1.2 km,Romanstraße 4,80639 München,089 / 16 87 92
+831,Frau  Heidi Rohde,Praktische Ärztin,1.2 km,Volkartstraße 29,80634 München,089 / 13 15 51
+832,Frau Dr. med. Lisa Rohling,Ärztin,1.2 km,Nymphenburger Straße 187,80634 München,089 / 24 22 44 62
+833,CIPM GmbH,Medizinisches Versorgungszentrum,1.2 km,Nymphenburger Straße 185,80634 München,089 / 13 07 93 - 0
+834,Frau Dr. med. Beatrix Mühlbauer,Fachärztin für Allgemeinmedizin,1.3 km,Winthirstraße 19,80639 München,01 72 / 6 72 45 60
+835,Frau  Katrin Liem,Fachärztin für Allgemeinmedizin,1.3 km,Volkartstraße 5,80634 München,089 / 16 19 41
+836,MVZ Regensburg,,1.3 km,Ysenburgstraße 1,80634 München,089 / 12 12 88 15
+837,Herr Dr. med. Stephan von Spalden,Facharzt für Allgemeinmedizin,1.4 km,Romanstraße 16 a,80639 München,089 / 13 30 41
+838,Frau Dr. med. Melanie H. Paulus,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",1.4 km,Rotkreuzplatz 8,80634 München,089 / 96 19 58 71
+839,Herr Dr. med. Günther Schäffer,Facharzt für Chirurgie,1.4 km,Volkartstraße 1,80634 München-Neuhausen-Nymphenburg,089 / 1 68 96 66
+840,Frau Dr. med. Sabine Willi,Fachärztin für Allgemeinmedizin,1.4 km,Jutastraße 14,80636 München,089 / 55 26 90 70
+841,Herr Dr. med. Markus Kroth,Facharzt für Allgemeinmedizin,1.5 km,Nibelungenstraße 10,80639 München,089 / 16 27 83
+842,Frau Dr. med. Barbara Wörle,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.5 km,Donnersberger Straße 4,80634 München,089 / 16 11 41
+843,KIRINUS Praxis Landshuter Allee,Ambulantes Praxiszentrum,1.5 km,Landshuter Allee 45,80637 München,089 / 1 89 51 69 21
+844,KIRINUS Praxis Rotkreuzplatz,Ambulantes Praxiszentrum,1.5 km,Rotkreuzplatz 1,80634 München,089 / 4 52 09 32 - 0
+845,Frau Dr. med. Susanne Firuzeh-Winter,Fachärztin für Allgemeinmedizin,1.5 km,Wendl-Dietrich-Straße 2,80634 München,089 / 16 36 86
+846,Frau  Anne Katrin Liem,Fachärztin für Allgemeinmedizin,1.5 km,Landshuter Allee 43,80637 München,089 / 13 01 06 40
+847,Frau Dr. med. Stephanie Backmund-Abedin Pour,Praktische Ärztin,1.5 km,Nymphenburger Straße 148,80634 München,089 / 13 07 93 23
+848,Frau Dr. med. Diane Weihe,Praktische Ärztin,1.5 km,Rotkreuzplatz 2 A,80634 München,089 / 12 29 91 14
+849,Dr. med. Karl Theodor Zeitler,,1.5 km,Winthirstraße 4,80639 München-Neuhausen-Nymphenburg,089 / 16 26 25
+850,Frau Dr. med. Alexandra Braune,Fachärztin für Allgemeinmedizin,1.6 km,Nymphenburger Straße 132,80636 München,089 / 21 52 69 69
+851,Frau Dr. med. Anne-Christin von den Steinen,Praktische Ärztin,1.6 km,Stuberstraße 5,80638 München,089 / 17 17 43
+852,Frau Dr. med. Bach-Tuyet Stoeckicht-Nguyen,Praktische Ärztin,1.6 km,Hubertusstraße 22,80639 München,089 / 17 26 65
+853,Frau Dr. Andrea Beier-Lenko,Fachärztin für Allgemeinmedizin,1.6 km,Andreestraße 3,80634 München-Neuhausen-Nymphenburg,089 / 16 16 79
+854,Frau Dr. med. Amelie Küchler-Sanktjohanser,Praktische Ärztin,1.6 km,Aiblingerstraße 9,80639 München,089 / 17 99 87 55
+855,Frau Dr. med. Elisabeth Merkel,Fachärztin für Allgemeinmedizin,0.5 km,Volpinistraße 19,80638 München,089 / 17 17 20
+856,Herr Dr. med. Wolfgang Springer,Praktischer Arzt,0.6 km,Menzinger Straße 1,80638 München,089 / 99 01 85 47
+857,Frau Dr. med. Anne-Christin von den Steinen,Praktische Ärztin,0.8 km,Stuberstraße 5,80638 München,089 / 17 17 43
+858,Frau Dr. med. Cornelia Königsbauer,Ärztin,1 km,Romanstraße 61,80639 München,089 / 17 65 23
+859,Herr Dr. med. Gernot Brockmann,Facharzt für Allgemeinmedizin,1 km,Romanplatz 9,80639 München,089 / 17 07 65
+860,Herr  Hubertus Magerstädt,Praktischer Arzt,1.1 km,Hirschgartenallee 30,80639 München,089 / 1 67 86 88
+861,Herr Dr. med. Wolfgang Goldmann,Facharzt für Allgemeinmedizin,1.1 km,Zuccalistraße 25,80639 München-Neuhausen-Nymphenburg,089 / 17 80 97 47
+862,Herr Dr. med. Stephan Heinz,Facharzt für Allgemeinmedizin,1.1 km,Romanplatz 10 a,80639 München,089 / 45 22 97 50
+863,Herr Dr. med. Frieder Brückner,Praktischer Arzt,1.3 km,Mechthildenstraße 42,80639 München,089 / 17 33 00
+864,Frau Dr. med. Bach-Tuyet Stoeckicht-Nguyen,Praktische Ärztin,1.3 km,Hubertusstraße 22,80639 München,089 / 17 26 65
+865,Frau Dr. med. Ruth-Maria Korth,Fachärztin für Allgemeinmedizin,1.4 km,Palestrinastraße 7 a,80639 München,089 / 2 01 22 66
+866,Frau Dr. med. Gabriele Willkomm,Fachärztin für Allgemeinmedizin,1.6 km,Tizianstraße 63,80638 München-Neuhausen-Nymphenburg,089 / 15 30 21
+867,Frau  Silvia Müller,Fachärztin für Allgemeinmedizin,1.6 km,Nanga-Parbat-Straße 10,80992 München,089 / 1 41 81 26
+868,Herr Dr. med. Franz Hartmann,Facharzt für Allgemeinmedizin,1.7 km,Bandelstraße 20,80638 München,089 / 1 57 63 94
+869,Herr Dr. med. Stephan von Spalden,Facharzt für Allgemeinmedizin,1.7 km,Romanstraße 16 a,80639 München,089 / 13 30 41
+870,Frau Dr. med. Monika Pirlet-Gottwald,Ärztin,1.7 km,Waisenhausstraße 52 a,80637 München,089 / 12 71 07 47
+871,Herr Dr. med. Stefan Schnur,Facharzt für Allgemeinmedizin,1.8 km,Waisenhausstraße 17,80637 München,089 / 15 92 50 50
+872,Frau  Yvonne Mawad,Fachärztin für Allgemeinmedizin,1.8 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+873,Frau Dr. med. Julia Dreyßig,Fachärztin für Allgemeinmedizin,1.8 km,Waisenhausstraße 17,80637 München,089 / 17 11 79 72
+874,Frau Dr. med. Elisabeth Güttler,Fachärztin für Allgemeinmedizin,1.8 km,Arnulfstraße 224,80634 München,089 / 16 36 08
+875,Herr Dr. med. Ahmad Sirfy,Facharzt für Allgemeinmedizin,1.8 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+876,Frau Dr. med. Beatrix Mühlbauer,Fachärztin für Allgemeinmedizin,1.9 km,Winthirstraße 19,80639 München,01 72 / 6 72 45 60
+877,Herr Dr. med. Klaus-Eckart Eickelmann,Praktischer Arzt,1.9 km,Romanstraße 4,80639 München,089 / 16 87 92
+878,Herr Dr. med. (univ.) Hans Egerndorfer,Praktischer Arzt,1.9 km,Bunzlauer Straße 9,80992 München,089 / 1 41 29 86
+879,Frau Dr. med. Tanja Gaßmann,Fachärztin für Allgemeinmedizin,1.9 km,Nürnberger Straße 53,80637 München-Gern,089 / 15 37 45
+880,Frau Dr. med. Barbara Blume,Fachärztin für Allgemeinmedizin,2 km,Naumburger Straße 31,80993 München,089 / 1 49 52 52
+881,Frau Dr. med. Lisa Rohling,Ärztin,2 km,Nymphenburger Straße 187,80634 München,089 / 24 22 44 62
+882,Frau Dr. med. Simone Cejnar,Praktische Ärztin,2 km,Allacher Straße 98,80997 München,089 / 14 21 12
+883,Herr Dr. med. Markus Kroth,Facharzt für Allgemeinmedizin,2.1 km,Nibelungenstraße 10,80639 München,089 / 16 27 83
+884,Herr Dr. med. Günther Schäffer,Facharzt für Chirurgie,2.1 km,Volkartstraße 1,80634 München-Neuhausen-Nymphenburg,089 / 1 68 96 66
+885,CIPM GmbH,Medizinisches Versorgungszentrum,2.1 km,Nymphenburger Straße 185,80634 München,089 / 13 07 93 - 0
+886,Frau Dr. med. Pascale Frey,Fachärztin für Allgemeinmedizin,2.1 km,Dachauer Straße 278,80992 München,089 / 1 40 77 80
+887,Frau Dr. med. Valentina Burka,Fachärztin für Allgemeinmedizin,2.1 km,Freseniusstraße 17,81247 München,089 / 8 11 20 91
+888,Frau  Katrin Liem,Fachärztin für Allgemeinmedizin,2.1 km,Volkartstraße 5,80634 München,089 / 16 19 41
+889,Herr Dr. med. Reinhard Pabst,Praktischer Arzt,2.2 km,Nymphenburger Straße 188,80634 München,089 / 54 54 29 29
+890,Frau Dr. Andrea Beier-Lenko,Fachärztin für Allgemeinmedizin,2.2 km,Andreestraße 3,80634 München-Neuhausen-Nymphenburg,089 / 16 16 79
+891,Frau Dr. med. Claudia Wehrig,Fachärztin für Allgemeinmedizin,2.2 km,Schmaedelstraße 29,81245 München,089 / 82 94 04 40
+892,Dr. med. Karl Theodor Zeitler,,2.2 km,Winthirstraße 4,80639 München-Neuhausen-Nymphenburg,089 / 16 26 25
+893,Herr  Josef Eckart,Arzt,2.3 km,Ruffinistraße 22,80637 München,089 / 3 00 50 62
+894,Herr Dr. med. Viktor Fleischmann,Praktischer Arzt,2.3 km,Bothmerstraße 20,80634 München,089 / 16 61 80
+895,Frau Dr. med. Melanie H. Paulus,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",2.3 km,Rotkreuzplatz 8,80634 München,089 / 96 19 58 71
+896,Herr Dr. med. (univ.) Hans Schönleitner,Praktischer Arzt,2.3 km,Johann-Sebastian-Bach-Straße 1,80637 München,089 / 1 68 44 24
+897,Frau Dr. med. Susanne Firuzeh-Winter,Fachärztin für Allgemeinmedizin,2.3 km,Wendl-Dietrich-Straße 2,80634 München,089 / 16 36 86
+898,Frau Dr. med. Claudia Kastert,Fachärztin für Allgemeinmedizin,2.3 km,Ernst-von-Beling-Straße 3,80997 München,089 / 1 40 27 69
+899,MVZ Regensburg,,2.3 km,Pelkovenstraße 74,80992 München,089 / 14 29 19
+900,MVZ Regensburg,,2.3 km,Ysenburgstraße 1,80634 München,089 / 12 12 88 15
+901,Herr  Hubertus Magerstädt,Praktischer Arzt,0.1 km,Hirschgartenallee 30,80639 München,089 / 1 67 86 88
+902,Herr Dr. med. Frieder Brückner,Praktischer Arzt,0.3 km,Mechthildenstraße 42,80639 München,089 / 17 33 00
+903,Herr Dr. med. Stephan Heinz,Facharzt für Allgemeinmedizin,0.3 km,Romanplatz 10 a,80639 München,089 / 45 22 97 50
+904,Herr Dr. med. Gernot Brockmann,Facharzt für Allgemeinmedizin,0.4 km,Romanplatz 9,80639 München,089 / 17 07 65
+905,Frau Dr. med. Cornelia Königsbauer,Ärztin,0.5 km,Romanstraße 61,80639 München,089 / 17 65 23
+906,Herr Dr. med. Wolfgang Goldmann,Facharzt für Allgemeinmedizin,0.6 km,Zuccalistraße 25,80639 München-Neuhausen-Nymphenburg,089 / 17 80 97 47
+907,Herr Dr. med. Wolfgang Springer,Praktischer Arzt,0.7 km,Menzinger Straße 1,80638 München,089 / 99 01 85 47
+908,Frau  Yvonne Mawad,Fachärztin für Allgemeinmedizin,0.8 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+909,Frau Dr. med. Ruth-Maria Korth,Fachärztin für Allgemeinmedizin,0.8 km,Palestrinastraße 7 a,80639 München,089 / 2 01 22 66
+910,Herr Dr. med. Ahmad Sirfy,Facharzt für Allgemeinmedizin,0.8 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+911,Frau Dr. med. Elisabeth Güttler,Fachärztin für Allgemeinmedizin,0.9 km,Arnulfstraße 224,80634 München,089 / 16 36 08
+912,Frau Dr. med. Bach-Tuyet Stoeckicht-Nguyen,Praktische Ärztin,1 km,Hubertusstraße 22,80639 München,089 / 17 26 65
+913,Frau Dr. med. Amelie Küchler-Sanktjohanser,Praktische Ärztin,1.1 km,Aiblingerstraße 9,80639 München,089 / 17 99 87 55
+914,Frau Dr. med. Anne-Christin von den Steinen,Praktische Ärztin,1.2 km,Stuberstraße 5,80638 München,089 / 17 17 43
+915,Herr Dr. med. Stephan von Spalden,Facharzt für Allgemeinmedizin,1.3 km,Romanstraße 16 a,80639 München,089 / 13 30 41
+916,Frau Dr. med. Elisabeth Merkel,Fachärztin für Allgemeinmedizin,1.4 km,Volpinistraße 19,80638 München,089 / 17 17 20
+917,Frau Dr. med. Maria Kubisova,Fachärztin für Allgemeinmedizin,1.4 km,Aldegrever Straße 32,80687 München,089 / 56 38 64
+918,Frau Dr. med. Beatrix Mühlbauer,Fachärztin für Allgemeinmedizin,1.5 km,Winthirstraße 19,80639 München,01 72 / 6 72 45 60
+919,Herr Dr. med. Holger Bergmann,Facharzt für Allgemeinmedizin,1.5 km,Perhamerstraße 42,80687 München,089 / 56 46 17
+920,Medizinisch-Psychosomatisches Versorgungszentrum,,1.5 km,Agnes-Bernauer-Straße 67,80687 München,089 / 12 02 37 91
+921,Frau  Margarita Görz,Fachärztin für Allgemeinmedizin,1.5 km,Agnes-Bernauer-Straße 56,80687 München-Laim,089 / 56 44 28
+922,Herr Dr. med. Klaus-Eckart Eickelmann,Praktischer Arzt,1.6 km,Romanstraße 4,80639 München,089 / 16 87 92
+923,Herr Dr. med. Günther Schäffer,Facharzt für Chirurgie,1.6 km,Volkartstraße 1,80634 München-Neuhausen-Nymphenburg,089 / 1 68 96 66
+924,Herr Dr. med. Dr. med. univ. Christian Reifferscheid,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",1.6 km,Agnes-Bernauer-Straße 81,80687 München,089 / 5 80 30 72
+925,Herr  Jochen Pöller,Facharzt für Allgemeinmedizin,1.7 km,Agnes-Bernauer-Straße 113,80687 München,089 / 56 31 68
+926,Frau Dr. med. Gabriele Willkomm,Fachärztin für Allgemeinmedizin,1.7 km,Tizianstraße 63,80638 München-Neuhausen-Nymphenburg,089 / 15 30 21
+927,Frau Dr. med. Lisa Rohling,Ärztin,1.7 km,Nymphenburger Straße 187,80634 München,089 / 24 22 44 62
+928,CIPM GmbH,Medizinisches Versorgungszentrum,1.7 km,Nymphenburger Straße 185,80634 München,089 / 13 07 93 - 0
+929,Herr Dr. med. Marc Bielenberg,Facharzt für Allgemeinmedizin,1.7 km,Agnes-Bernauer-Straße 1,80687 München-Laim,089 / 57 11 62
+930,Frau Dr. med. Susanne Firuzeh-Winter,Fachärztin für Allgemeinmedizin,1.7 km,Wendl-Dietrich-Straße 2,80634 München,089 / 16 36 86
+931,Frau  Katrin Liem,Fachärztin für Allgemeinmedizin,1.7 km,Volkartstraße 5,80634 München,089 / 16 19 41
+932,Frau Dr. med. Julia Ernst,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.7 km,Elsenheimer Straße 14,80687 München,089 / 51 77 77 90
+933,Frau Dr. med. Judith Ruhland,Fachärztin für Allgemeinmedizin,1.7 km,Valpichlerstraße 45,80686 München-Laim,089 / 22 84 97 81
+934,Dr. med. Karl Theodor Zeitler,,1.7 km,Winthirstraße 4,80639 München-Neuhausen-Nymphenburg,089 / 16 26 25
+935,Frau Dr. med. Alexandra Pokrandt-Koller,Fachärztin für Allgemeinmedizin,1.7 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+936,Frau  Sanja Hasandedic,Fachärztin für Allgemeinmedizin,1.7 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+937,Herr Dr. med. Reinhard Pabst,Praktischer Arzt,1.8 km,Nymphenburger Straße 188,80634 München,089 / 54 54 29 29
+938,Herr Dr. med. Christian Sanden,Facharzt für Allgemeinmedizin,1.8 km,Wilderich-Lang-Straße 12,80634 München,089 / 16 13 29
+939,Frau Dr. med. Melanie H. Paulus,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",1.8 km,Rotkreuzplatz 8,80634 München,089 / 96 19 58 71
+940,Frau Dr. med. Barbara Wörle,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.8 km,Donnersberger Straße 4,80634 München,089 / 16 11 41
+941,Herr Dr. med. Eckart Czwienzek,Facharzt für Allgemeinmedizin,1.8 km,Fürstenrieder Straße 49,80686 München-Laim,089 / 58 30 43
+942,Herr Dr. med. Muamer Kavgic,Facharzt für Allgemeinmedizin,1.8 km,Donnersberger Straße 5,80634 München,089 / 16 21 38
+943,Frau Dr. (Univ. Zagreb) Andrea Weisser,Fachärztin für Allgemeinmedizin,1.8 km,Fürstenrieder Straße 49,80686 München,089 / 58 30 44
+944,Frau Dr. med. Diane Weihe,Praktische Ärztin,1.8 km,Rotkreuzplatz 2 A,80634 München,089 / 12 29 91 14
+945,Frau Dr. Stefanie Mayer,Fachärztin für Allgemeinmedizin,1.8 km,Wilderich-Lang-Straße 12,80634 München,089 / 16 13 29
+946,Frau Dr. med. Heike Rehm,Fachärztin für Allgemeinmedizin,0.3 km,Burgkmairstraße 25,80686 München,089 / 57 42 28
+947,Frau Dr. med. Carolin Krenz,Fachärztin für Allgemeinmedizin,0.5 km,Friedenheimer Straße 141,80686 München,089 / 5 70 78 55
+948,Herr Dr. med. Erwin Hirler,Facharzt für Allgemeinmedizin,0.6 km,Friedenheimer Straße 151,80686 München,089 / 57 35 88
+949,Herr Dr. med. Winfried Häusler,Praktischer Arzt,0.6 km,Friedenheimer Straße 155,80686 München,089 / 76 84 25
+950,Frau  Margarita Görz,Fachärztin für Allgemeinmedizin,0.6 km,Agnes-Bernauer-Straße 56,80687 München-Laim,089 / 56 44 28
+951,Frau Dr. med. Maria Kubisova,Fachärztin für Allgemeinmedizin,0.6 km,Aldegrever Straße 32,80687 München,089 / 56 38 64
+952,Medizinisches Versorgungszentrum Laim,Praxis Dr. Willerding und Kollegen,0.7 km,Fürstenrieder Straße 62,80686 München-Laim,089 / 56 90 60
+953,Herr Dr. med. Marc Bielenberg,Facharzt für Allgemeinmedizin,0.7 km,Agnes-Bernauer-Straße 1,80687 München-Laim,089 / 57 11 62
+954,Herr Dr. med. Eckart Czwienzek,Facharzt für Allgemeinmedizin,0.7 km,Fürstenrieder Straße 49,80686 München-Laim,089 / 58 30 43
+955,Herr Dr. med. Tobias Weber,"Facharzt für Allgemeinmedizin, Facharzt für Arbeitsmedizin",0.7 km,Fürstenrieder Straße 84,80686 München,089 / 8 34 32 96
+956,Frau Dr. med. Judith Ruhland,Fachärztin für Allgemeinmedizin,0.7 km,Valpichlerstraße 45,80686 München-Laim,089 / 22 84 97 81
+957,Frau Dr. (Univ. Zagreb) Andrea Weisser,Fachärztin für Allgemeinmedizin,0.7 km,Fürstenrieder Straße 49,80686 München,089 / 58 30 44
+958,Frau Dr. med. Barbara Deyhle-Oeben,Fachärztin für Allgemeinmedizin,0.8 km,Fischartstraße 21,80686 München,089 / 56 60 67
+959,Medizinisch-Psychosomatisches Versorgungszentrum,,0.8 km,Agnes-Bernauer-Straße 67,80687 München,089 / 12 02 37 91
+960,Frau Dr. med. Julia Ernst,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.8 km,Elsenheimer Straße 14,80687 München,089 / 51 77 77 90
+961,Frau Dr. med. Alexandra Pokrandt-Koller,Fachärztin für Allgemeinmedizin,0.8 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+962,Frau  Sanja Hasandedic,Fachärztin für Allgemeinmedizin,0.8 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+963,Herr Dr. med. Dr. med. univ. Christian Reifferscheid,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",1 km,Agnes-Bernauer-Straße 81,80687 München,089 / 5 80 30 72
+964,Frau Dr. med. Daniela Ensslen,"Fachärztin für Innere Medizin, Fachärztin für Allgemeinmedizin",1.1 km,Saherrstraße 6,80689 München,089 / 56 45 48
+965,MVZ-Wörth a.d. Donau,,1.1 km,Kärntner Platz 2,80686 München,089 / 58 54 35
+966,Herr  Jochen Pöller,Facharzt für Allgemeinmedizin,1.2 km,Agnes-Bernauer-Straße 113,80687 München,089 / 56 31 68
+967,Herr Dr. med. Ralf Marx,Arzt,1.3 km,Hansastraße 27 e,81373 München,089 / 62 02 19 90
+968,Frau Dr. med. Christiane Beier,Fachärztin für Allgemeinmedizin,1.3 km,Landsberger Straße 155,80687 München,01 77 / 2 37 16 45
+969,Frau  Katharina Hamberger,Praktische Ärztin,1.5 km,Garmischer Straße 10,80339 München,089 / 50 30 20
+970,Frau Dr. med. Sabine Kohlmann,Fachärztin für Allgemeinmedizin,1.5 km,Menaristraße 4,80689 München,089 / 56 33 76
+971,Frau  Yvonne Mawad,Fachärztin für Allgemeinmedizin,1.6 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+972,Herr Dr. med. Ahmad Sirfy,Facharzt für Allgemeinmedizin,1.6 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+973,Frau Dr. med. Gabriele Pfeffer,Praktische Ärztin,1.7 km,Gollierplatz 16,80339 München,089 / 54 37 05 83
+974,Herr Dr. med. Imadettin Fakioglu,Facharzt für Allgemeinmedizin,1.7 km,Trappentreustraße 17,80339 München-Schwanthalerhöhe,089 / 50 36 91
+975,Frau Dr. med. Monika Hanemann,Fachärztin für Allgemeinmedizin,1.7 km,Landsberger Straße 113,80339 München,089 / 8 90 63 66 30
+976,Herr Dr. med. Roderich Wiedmann,Facharzt für Allgemeinmedizin,1.7 km,Alpenveilchenstraße 56,80689 München,089 / 5 46 96 29
+977,Frau Dr. med. Tamara Eckermann,Fachärztin für Allgemeinmedizin,1.7 km,Heimeranplatz 2,80339 München,089 / 5 02 70 75
+978,Medizinisch-Psychosomatisches Versorgungszentrum,,0.4 km,Agnes-Bernauer-Straße 67,80687 München,089 / 12 02 37 91
+979,Frau  Margarita Görz,Fachärztin für Allgemeinmedizin,0.5 km,Agnes-Bernauer-Straße 56,80687 München-Laim,089 / 56 44 28
+980,Frau  Yvonne Mawad,Fachärztin für Allgemeinmedizin,0.5 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+981,Frau Dr. med. Maria Kubisova,Fachärztin für Allgemeinmedizin,0.5 km,Aldegrever Straße 32,80687 München,089 / 56 38 64
+982,Herr Dr. med. Dr. med. univ. Christian Reifferscheid,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",0.5 km,Agnes-Bernauer-Straße 81,80687 München,089 / 5 80 30 72
+983,Herr Dr. med. Ahmad Sirfy,Facharzt für Allgemeinmedizin,0.5 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+984,Frau Dr. med. Alexandra Pokrandt-Koller,Fachärztin für Allgemeinmedizin,0.6 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+985,Frau  Sanja Hasandedic,Fachärztin für Allgemeinmedizin,0.6 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+986,Herr Dr. med. Holger Bergmann,Facharzt für Allgemeinmedizin,0.8 km,Perhamerstraße 42,80687 München,089 / 56 46 17
+987,Herr  Jochen Pöller,Facharzt für Allgemeinmedizin,0.8 km,Agnes-Bernauer-Straße 113,80687 München,089 / 56 31 68
+988,Medizinisches Versorgungszentrum Laim,Praxis Dr. Willerding und Kollegen,0.8 km,Fürstenrieder Straße 62,80686 München-Laim,089 / 56 90 60
+989,Herr Dr. med. Frieder Brückner,Praktischer Arzt,0.9 km,Mechthildenstraße 42,80639 München,089 / 17 33 00
+990,Herr Dr. med. Marc Bielenberg,Facharzt für Allgemeinmedizin,1 km,Agnes-Bernauer-Straße 1,80687 München-Laim,089 / 57 11 62
+991,Herr Dr. med. Tobias Weber,"Facharzt für Allgemeinmedizin, Facharzt für Arbeitsmedizin",1.1 km,Fürstenrieder Straße 84,80686 München,089 / 8 34 32 96
+992,Frau Dr. med. Julia Ernst,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.1 km,Elsenheimer Straße 14,80687 München,089 / 51 77 77 90
+993,Herr  Hubertus Magerstädt,Praktischer Arzt,1.2 km,Hirschgartenallee 30,80639 München,089 / 1 67 86 88
+994,Herr Dr. med. Wolfgang Goldmann,Facharzt für Allgemeinmedizin,1.3 km,Zuccalistraße 25,80639 München-Neuhausen-Nymphenburg,089 / 17 80 97 47
+995,Frau  Nadja Biessei,Fachärztin für Allgemeinmedizin,1.3 km,Willibaldplatz 3,80689 München,089 / 56 82 17 85
+996,Frau Dr. med. Elisabeth Güttler,Fachärztin für Allgemeinmedizin,1.3 km,Arnulfstraße 224,80634 München,089 / 16 36 08
+997,Frau Dr. med. Heike Rehm,Fachärztin für Allgemeinmedizin,1.4 km,Burgkmairstraße 25,80686 München,089 / 57 42 28
+998,Frau Dr. med. Carolin Krenz,Fachärztin für Allgemeinmedizin,1.4 km,Friedenheimer Straße 141,80686 München,089 / 5 70 78 55
+999,Herr Dr. med. Gernot Brockmann,Facharzt für Allgemeinmedizin,1.4 km,Romanplatz 9,80639 München,089 / 17 07 65
+1000,Herr Dr. med. Stephan Heinz,Facharzt für Allgemeinmedizin,1.4 km,Romanplatz 10 a,80639 München,089 / 45 22 97 50
+1001,Frau Dr. med. Cornelia Königsbauer,Ärztin,1.5 km,Romanstraße 61,80639 München,089 / 17 65 23
+1002,Frau Dr. med. Barbara Deyhle-Oeben,Fachärztin für Allgemeinmedizin,1.5 km,Fischartstraße 21,80686 München,089 / 56 60 67
+1003,Herr Dr. med. Erwin Hirler,Facharzt für Allgemeinmedizin,1.6 km,Friedenheimer Straße 151,80686 München,089 / 57 35 88
+1004,Herr Dr. med. Winfried Häusler,Praktischer Arzt,1.6 km,Friedenheimer Straße 155,80686 München,089 / 76 84 25
+1005,Frau Dr. med. Christiane Beier,Fachärztin für Allgemeinmedizin,1.6 km,Landsberger Straße 155,80687 München,01 77 / 2 37 16 45
+1006,Frau Dr. med. Ruth-Maria Korth,Fachärztin für Allgemeinmedizin,1.6 km,Palestrinastraße 7 a,80639 München,089 / 2 01 22 66
+1007,Frau Dr. med. Bach-Tuyet Stoeckicht-Nguyen,Praktische Ärztin,1.8 km,Hubertusstraße 22,80639 München,089 / 17 26 65
+1008,Frau Dr. med. Daniela Ensslen,"Fachärztin für Innere Medizin, Fachärztin für Allgemeinmedizin",1.8 km,Saherrstraße 6,80689 München,089 / 56 45 48
+1009,Herr Dr. med. Wolfgang Springer,Praktischer Arzt,1.8 km,Menzinger Straße 1,80638 München,089 / 99 01 85 47
+1010,MVZ-Wörth a.d. Donau,,1.8 km,Kärntner Platz 2,80686 München,089 / 58 54 35
+1011,Frau  Ingrid Lämke-Schmidt,Praktische Ärztin,0.2 km,Eringerstraße 17,80689 München,089 / 58 95 88 96
+1012,Frau Dr. med. Aikaterini Nikomani,Fachärztin für Allgemeinmedizin,0.6 km,Georginenstraße 16,80689 München,089 / 70 14 49
+1013,Herr Dr. med. Roderich Wiedmann,Facharzt für Allgemeinmedizin,0.6 km,Alpenveilchenstraße 56,80689 München,089 / 5 46 96 29
+1014,Frau Dr. med. Sabine Kohlmann,Fachärztin für Allgemeinmedizin,0.8 km,Menaristraße 4,80689 München,089 / 56 33 76
+1015,Frau  Nadja Biessei,Fachärztin für Allgemeinmedizin,0.9 km,Willibaldplatz 3,80689 München,089 / 56 82 17 85
+1016,Frau  Anna Bartoszewski,Fachärztin für Allgemeinmedizin,1 km,Terofalstraße 4,80689 München,089 / 74 02 98 20
+1017,Herr  Jochen Pöller,Facharzt für Allgemeinmedizin,1.1 km,Agnes-Bernauer-Straße 113,80687 München,089 / 56 31 68
+1018,Frau Dr. med. Barbara Eckstein,Fachärztin für Allgemeinmedizin,1.2 km,Terofalstraße 23 a,80689 München,089 / 7 00 11 12
+1019,Herr Dr. med. Holger Bergmann,Facharzt für Allgemeinmedizin,1.3 km,Perhamerstraße 42,80687 München,089 / 56 46 17
+1020,Medizinisches Versorgungszentrum Laim,Praxis Dr. Willerding und Kollegen,1.3 km,Fürstenrieder Straße 62,80686 München-Laim,089 / 56 90 60
+1021,Herr Dr. med. Tobias Weber,"Facharzt für Allgemeinmedizin, Facharzt für Arbeitsmedizin",1.3 km,Fürstenrieder Straße 84,80686 München,089 / 8 34 32 96
+1022,Frau Dr. med. Barbara Deyhle-Oeben,Fachärztin für Allgemeinmedizin,1.4 km,Fischartstraße 21,80686 München,089 / 56 60 67
+1023,Herr Dr. med. Eckart Czwienzek,Facharzt für Allgemeinmedizin,1.4 km,Fürstenrieder Straße 49,80686 München-Laim,089 / 58 30 43
+1024,Frau Dr. med. Daniela Ensslen,"Fachärztin für Innere Medizin, Fachärztin für Allgemeinmedizin",1.4 km,Saherrstraße 6,80689 München,089 / 56 45 48
+1025,Frau Dr. (Univ. Zagreb) Andrea Weisser,Fachärztin für Allgemeinmedizin,1.4 km,Fürstenrieder Straße 49,80686 München,089 / 58 30 44
+1026,Herr Dr. med. Dr. med. univ. Christian Reifferscheid,"Facharzt für Innere Medizin, Facharzt für Allgemeinmedizin",1.4 km,Agnes-Bernauer-Straße 81,80687 München,089 / 5 80 30 72
+1027,Frau Dr. med. Alexandra Pokrandt-Koller,Fachärztin für Allgemeinmedizin,1.4 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+1028,Frau  Sanja Hasandedic,Fachärztin für Allgemeinmedizin,1.4 km,Fürstenrieder Straße 34,80686 München,089 / 51 26 13 33
+1029,Herr Dr. Norbert Riegler,"Facharzt für Allgemeinmedizin, Facharzt für Arbeitsmedizin, Facharzt für Anästhesiologie",1.5 km,Batzerstraße 2,81375 München,089 / 30 64 18 13
+1030,Frau Dr. med. Barbara Braun,Fachärztin für Allgemeinmedizin,1.5 km,Stiftsbogen 47,81375 München,089 / 71 10 12
+1031,Frau Dr. med. Judith Ruhland,Fachärztin für Allgemeinmedizin,1.5 km,Valpichlerstraße 45,80686 München-Laim,089 / 22 84 97 81
+1032,Herr Dr. med. Florian Pötzsch,Facharzt für Allgemeinmedizin,1.5 km,Stiftsbogen 37,81375 München,089 / 7 14 86 00
+1033,MVZ-Wörth a.d. Donau,,1.5 km,Kärntner Platz 2,80686 München,089 / 58 54 35
+1034,Herr Dr. med. Kamil Vyhnalek,Facharzt für Allgemeinmedizin,1.6 km,Landsberger Straße 447,81241 München,089 / 88 10 37
+1035,Medizinisch-Psychosomatisches Versorgungszentrum,,1.7 km,Agnes-Bernauer-Straße 67,80687 München,089 / 12 02 37 91
+1036,Herr Dr. med. Erwin Hirler,Facharzt für Allgemeinmedizin,1.8 km,Friedenheimer Straße 151,80686 München,089 / 57 35 88
+1037,Herr Dr. med. Winfried Häusler,Praktischer Arzt,1.8 km,Friedenheimer Straße 155,80686 München,089 / 76 84 25
+1038,Frau Dr. med. Carolin Krenz,Fachärztin für Allgemeinmedizin,1.8 km,Friedenheimer Straße 141,80686 München,089 / 5 70 78 55
+1039,Frau MUDr. (Univ. Preßburg) Bibiana Jiru,Praktische Ärztin,1.9 km,Windeckstraße 78,81375 München,089 / 71 05 49 10
+1040,Frau  Margarita Görz,Fachärztin für Allgemeinmedizin,1.9 km,Agnes-Bernauer-Straße 56,80687 München-Laim,089 / 56 44 28
+1041,Herr Dr. med. Markus von Specht,Facharzt für Allgemeinmedizin,1.9 km,Josef-Retzer-Straße 30,81241 München,089 / 58 34 81
+1042,Frau Dr. med. Heike Rehm,Fachärztin für Allgemeinmedizin,2 km,Burgkmairstraße 25,80686 München,089 / 57 42 28
+1043,Herr  Markus Sommer,Facharzt für Allgemeinmedizin,2 km,Josef-Retzer-Straße 36,81241 München,089 / 8 96 09 00
+1044,Frau  Yvonne Mawad,Fachärztin für Allgemeinmedizin,2 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+1045,Frau Dr. med. Maria Kubisova,Fachärztin für Allgemeinmedizin,2 km,Aldegrever Straße 32,80687 München,089 / 56 38 64
+1046,Frau Dr. med. Christina Schmidt-Rau,Praktische Ärztin,2 km,Saalburgstraße 13,81375 München,089 / 90 15 70 59
+1047,Herr Dr. med. Ahmad Sirfy,Facharzt für Allgemeinmedizin,2 km,Rosa-Bavarese-Straße 1,80639 München,089 / 85 63 95 82
+1048,Herr Dr. med. Josef Fischer,"Facharzt für Allgemeinmedizin, Facharzt für Orthopädie",0.3 km,Angererstraße 9,80796 München,089 / 18 99 96 91
+1049,Frau Dr. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,0.3 km,Clemensstraße 129,80796 München,089 / 6 88 58 80
+1050,Frau  Regine Faust-Schröter,Praktische Ärztin,0.4 km,Tengstraße 43,80796 München,089 / 15 93 04 46
+1051,Frau Dr. med. Barbara Benzinger,"Fachärztin für Physikalische und Rehabilitative Medizin, Fachärztin für Allgemeinmedizin",0.4 km,Hohenzollernplatz 8,80796 München,089 / 30 99 57
+1052,Frau Dr. med. Ginetta Besser,Fachärztin für Allgemeinmedizin,0.5 km,Belgradstraße 9,80796 München,089 / 3 08 50 92
+1053,Frau  Sophie Ebe,Fachärztin für Allgemeinmedizin,0.5 km,Hiltenspergerstraße 32,80796 München,089 / 17 09 58 14
+1054,Frau Dr. med. Astrid Schrader,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.5 km,Schleißheimer Straße 131,80797 München,089 / 3 00 87 86
+1055,Avi Medical Hausarztpraxis München Schwabing,Medizinisches Versorgungszentrum,0.5 km,Herzogstraße 60,80803 München,089 / 21 52 53 51
+1056,Frau Dr. med. Elisabeth Reim,Praktische Ärztin,0.6 km,Mitterwieserstraße 3,80797 München,089 / 30 72 53 55
+1057,Frau Dr. med. Jutta Barucchieri,Fachärztin für Allgemeinmedizin,0.6 km,Bauerstraße 15,80796 München,089 / 5 46 07 09
+1058,Frau  Claudia Löffler,Praktische Ärztin,0.6 km,Elisabethstraße 44,80796 München,089 / 27 38 98 88
+1059,Herr  Lothar Schietzsch,Praktischer Arzt,0.6 km,Elisabethstraße 35,80796 München,089 / 16 34 46
+1060,Frau  Katharina Leube-Sonnleitner,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",0.6 km,Bauerstraße 19,80796 München-Schwabing-West,089 / 18 15 33
+1061,Herr Dr. med. Hannes Blankenfeld,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin",0.6 km,Winzerer Straße 142,80797 München,089 / 30 44 21
+1062,Frau Dr. med. Claudia Haseke,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.6 km,Schleißheimer Straße 224,80797 München-Schwabing-West,089 / 3 08 68 01
+1063,Frau Dr. med. Mareike Steinmann,"FÄ für Psychiatrie und Psychotherapie, FÄ für Neurologie, Praktische Ärztin",0.6 km,Elisabethstraße 30,80796 München,01 76 / 70 46 36 75
+1064,Herr Dr. med. Siegfried Gröninger,"Facharzt für Allgemeinmedizin, Facharzt für Psychotherapeutische Medizin",0.6 km,Bauerstraße 15,80796 München,01 75 / 9 77 83 57
+1065,Herr Dr. med. Alexander Stöckicht,Facharzt für Allgemeinmedizin,0.7 km,Deidesheimer Straße 14,80797 München,089 / 30 38 08
+1066,Frau Dr. med. Dagmar Haury,Praktische Ärztin,0.7 km,Römerstraße 26,80803 München,089 / 39 97 13
+1067,Frau Dr. med. Monika Eppler-Tschiedel,Praktische Ärztin,0.7 km,Bauerstraße 5,80796 München,089 / 27 80 - 372
+1068,Frau Dr. med. Wiebke Lohmann,Ärztin,0.7 km,Kaiserstraße 57,80801 München-Schwabing,089 / 27 27 29 48
+1069,Herr Dr. med. Christian Köhler,Praktischer Arzt,0.7 km,Hohenzollernstraße 47,80801 München,089 / 33 14 01
+1070,Frau  Marion Danisch,Praktische Ärztin,0.7 km,Schleißheimer Straße 130,80797 München,089 / 4 42 30 67 - 0
+1071,Herr Dr. (IMF Temeschburg) Josef Venczel,Praktischer Arzt,0.7 km,Adelheidstraße 23,80798 München,089 / 2 72 94 60
+1072,Herr Dr. med. Gardenier Peter Michael Cohn,Facharzt für Allgemeinmedizin,0.7 km,Hiltenspergerstraße 35,80798 München,089 / 2 71 38 55
+1073,Frau  Gudrun Spiegel,Praktische Ärztin,0.7 km,Kaiserstraße 57,80801 München,089 / 7 87 97 86 07
+1074,Frau Dr. Marta Valeria Venczel,Fachärztin für Allgemeinmedizin,0.7 km,Adelheidstraße 23,80798 München-Maxvorstadt,089 / 2 72 94 60
+1075,Frau Dr. med. Kerstin Hindringer-Wissing,Fachärztin für Allgemeinmedizin,0.7 km,Tengstraße 28,80798 München,089 / 2 71 45 90
+1076,Frau  Gisela Kinner,Praktische Ärztin,0.7 km,Bonner Platz 1,80803 München,089 / 3 61 28 14
+1077,Herr Dr. med. Bernhard Jell,Facharzt für Allgemeinmedizin,0.8 km,Daimlerstraße 9,80798 München-Maxvorstadt,089 / 2 71 59 55
+1078,Herr  Uwe W. Petrus,Praktischer Arzt,0.8 km,Kaiserplatz 12,80803 München,089 / 25 54 22 50
+1079,Herr dr. med. Edgar Müller,Facharzt für Allgemeinmedizin,0.8 km,Elisabethstraße 9,80796 München,089 / 2 71 55 66
+1080,Frau Dr. med. Angela Schindelhauer,Fachärztin für Allgemeinmedizin,0.9 km,Rheinstraße 31,80803 München,089 / 33 23 38
+1081,Frau  Christina Karachisaridou,Praktische Ärztin,0.9 km,Ainmillerstraße 34,80801 München,089 / 20 94 31 03
+1082,Frau Dr. med. Margit Süßmann,Fachärztin für Allgemeinmedizin,0.9 km,Georgenstraße 116,80798 München,089 / 27 37 50 - 18
+1083,Herr Dr. med. Norbert Kriegisch,Praktischer Arzt,1 km,Hohenstaufenstraße 1,80801 München,089 / 33 53 37
+1084,Herr Dr. med. Dietrich Gorriahn,Praktischer Arzt,1 km,Franz-Joseph-Straße 38,80801 München,089 / 34 99 35
+1085,Herr Dr. med. Rainer Fischer,Facharzt für Allgemeinmedizin,1 km,Hörwarthstraße 33,80804 München,089 / 55 05 45 50
+1086,Frau Dr. med. Joanna Eger,Fachärztin für Allgemeinmedizin,1 km,Ainmillerstraße 26,80801 München,089 / 33 38 63
+1087,Frau Dr. med. Julia Gmelin,Fachärztin für Innere Medizin,1 km,Ainmillerstraße 25,80801 München,089 / 39 93 07
+1088,Herr  Erwin Lüddecke,Praktischer Arzt,1 km,Herzogstraße 28,80803 München,089 / 12 25 27 07
+1089,Herr Doctora en Medicina Orlando Aguiar Perez,Facharzt für Allgemeinmedizin,1 km,Habsburgerplatz 1,80801 München,089 / 34 10 60
+1090,Herr  Robert Erhardt,Facharzt für Allgemeinmedizin,1 km,Franz-Joseph-Straße 38,80801 München-Schwabing-West,089 / 3 88 88 00
+1091,Herr Dr. med. Gerhard Stritzl,Facharzt für Allgemeinmedizin,1 km,Zentnerstraße 19,80798 München,089 / 18 15 48
+1092,Frau  Katja Gall,"Praktische Ärztin, Fachärztin für Kinder- und Jugendmedizin",1 km,Kölner Platz 1,80804 München,089 / 3 06 80
+1093,Herr Dr. Philip Schmitt,Facharzt für Allgemeinmedizin,1 km,Lerchenauer Straße 18,80809 München,089 / 87 76 73 00
+1094,Herr Dr. med. Alexander Stöckicht,Facharzt für Allgemeinmedizin,0.4 km,Deidesheimer Straße 14,80797 München,089 / 30 38 08
+1095,Frau Dr. med. Elisabeth Reim,Praktische Ärztin,0.5 km,Mitterwieserstraße 3,80797 München,089 / 30 72 53 55
+1096,Frau Dr. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,0.6 km,Clemensstraße 129,80796 München,089 / 6 88 58 80
+1097,Frau  Claudia Löffler,Praktische Ärztin,0.9 km,Elisabethstraße 44,80796 München,089 / 27 38 98 88
+1098,Herr  Lothar Schietzsch,Praktischer Arzt,0.9 km,Elisabethstraße 35,80796 München,089 / 16 34 46
+1099,Frau  Sophie Ebe,Fachärztin für Allgemeinmedizin,0.9 km,Hiltenspergerstraße 32,80796 München,089 / 17 09 58 14
+1100,Frau  Regine Faust-Schröter,Praktische Ärztin,0.9 km,Tengstraße 43,80796 München,089 / 15 93 04 46
+1101,Frau Dr. med. Claudia Haseke,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.9 km,Schleißheimer Straße 224,80797 München-Schwabing-West,089 / 3 08 68 01
+1102,Herr Dr. med. Gardenier Peter Michael Cohn,Facharzt für Allgemeinmedizin,0.9 km,Hiltenspergerstraße 35,80798 München,089 / 2 71 38 55
+1103,Frau Dr. med. Sima Sehat Kashani,Fachärztin für Allgemeinmedizin,0.9 km,Schleißheimer Straße 69,80797 München,089 / 1 29 25 18
+1104,Herr Dr. med. Benjamin Cossham,Facharzt für Allgemeinmedizin,0.9 km,Dom-Pedro-Straße 1,80637 München,089 / 12 39 17 10
+1105,Frau Dr. med. Barbara Benzinger,"Fachärztin für Physikalische und Rehabilitative Medizin, Fachärztin für Allgemeinmedizin",1 km,Hohenzollernplatz 8,80796 München,089 / 30 99 57
+1106,Herr Dr. (IMF Temeschburg) Josef Venczel,Praktischer Arzt,1 km,Adelheidstraße 23,80798 München,089 / 2 72 94 60
+1107,Herr Dr. med. Frank Balkow,Facharzt für Allgemeinmedizin,1 km,Helene-Weber-Allee 19,80637 München,089 / 29 26 08
+1108,Frau Dr. med. Margit Süßmann,Fachärztin für Allgemeinmedizin,1 km,Georgenstraße 116,80798 München,089 / 27 37 50 - 18
+1109,Frau Dr. Marta Valeria Venczel,Fachärztin für Allgemeinmedizin,1 km,Adelheidstraße 23,80798 München-Maxvorstadt,089 / 2 72 94 60
+1110,Frau  Katharina Leube-Sonnleitner,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",1.1 km,Bauerstraße 19,80796 München-Schwabing-West,089 / 18 15 33
+1111,Frau Dr. med. Kerstin Kühnemund-Fincke,Fachärztin für Allgemeinmedizin,1.1 km,Dom-Pedro-Straße 13,80637 München,089 / 18 18 09
+1112,open.med München,Medizinische Hilfe für Migranten und Menschen ohne Krankenversicherung,1.1 km,Dachauer Straße 161,80636 München,089 / 45 20 76 58
+1113,Frau Dr. med. Mareike Steinmann,"FÄ für Psychiatrie und Psychotherapie, FÄ für Neurologie, Praktische Ärztin",1.1 km,Elisabethstraße 30,80796 München,01 76 / 70 46 36 75
+1114,Herr Dr. Philip Schmitt,Facharzt für Allgemeinmedizin,1.1 km,Lerchenauer Straße 18,80809 München,089 / 87 76 73 00
+1115,Frau Dr. med. Kerstin Hindringer-Wissing,Fachärztin für Allgemeinmedizin,1.1 km,Tengstraße 28,80798 München,089 / 2 71 45 90
+1116,Herr Dr. med. Bernhard Jell,Facharzt für Allgemeinmedizin,1.2 km,Daimlerstraße 9,80798 München-Maxvorstadt,089 / 2 71 59 55
+1117,Frau Dr. med. Jutta Barucchieri,Fachärztin für Allgemeinmedizin,1.2 km,Bauerstraße 15,80796 München,089 / 5 46 07 09
+1118,Herr Dr. med. Josef Fischer,"Facharzt für Allgemeinmedizin, Facharzt für Orthopädie",1.2 km,Angererstraße 9,80796 München,089 / 18 99 96 91
+1119,Herr Dr. med. Siegfried Gröninger,"Facharzt für Allgemeinmedizin, Facharzt für Psychotherapeutische Medizin",1.2 km,Bauerstraße 15,80796 München,01 75 / 9 77 83 57
+1120,Herr  Georg Kiechle,Facharzt für Allgemeinmedizin,1.3 km,Heßstraße 72,80798 München,089 / 52 31 41 02
+1121,Herr dr. med. Edgar Müller,Facharzt für Allgemeinmedizin,1.3 km,Elisabethstraße 9,80796 München,089 / 2 71 55 66
+1122,Herr Dr. med. Ulrich Burkhardt,Praktischer Arzt,1.4 km,Adalbertstraße 104,80798 München,089 / 2 72 45 25
+1123,Frau Dr. med. Ginetta Besser,Fachärztin für Allgemeinmedizin,1.4 km,Belgradstraße 9,80796 München,089 / 3 08 50 92
+1124,Frau Dr. med. Monika Eppler-Tschiedel,Praktische Ärztin,1.4 km,Bauerstraße 5,80796 München,089 / 27 80 - 372
+1125,Frau Dr. med. Wiebke Lohmann,Ärztin,1.5 km,Kaiserstraße 57,80801 München-Schwabing,089 / 27 27 29 48
+1126,Herr Dr. med. Christian Köhler,Praktischer Arzt,1.5 km,Hohenzollernstraße 47,80801 München,089 / 33 14 01
+1127,Herr  Oliver Ramrath,Facharzt für Allgemeinmedizin,1.5 km,Neureutherstraße 17,80799 München,089 / 27 37 06 24
+1128,Frau Dr. med. Helena Sykora,Fachärztin für Allgemeinmedizin,1.5 km,Fuetererstraße 21,80637 München,089 / 1 29 33 60
+1129,Frau  Gudrun Spiegel,Praktische Ärztin,1.5 km,Kaiserstraße 57,80801 München,089 / 7 87 97 86 07
+1130,Avi Medical Hausarztpraxis München Schwabing,Medizinisches Versorgungszentrum,1.5 km,Herzogstraße 60,80803 München,089 / 21 52 53 51
+1131,Herr Dr. med. (univ.) Alexander Radinger,Facharzt für Allgemeinmedizin,1.5 km,Arcisstraße 55,80799 München,089 / 3 13 60 11
+1132,Frau Dr. med. Margit Süßmann,Fachärztin für Allgemeinmedizin,0.1 km,Georgenstraße 116,80798 München,089 / 27 37 50 - 18
+1133,Herr  Lothar Schietzsch,Praktischer Arzt,0.2 km,Elisabethstraße 35,80796 München,089 / 16 34 46
+1134,Herr Dr. (IMF Temeschburg) Josef Venczel,Praktischer Arzt,0.2 km,Adelheidstraße 23,80798 München,089 / 2 72 94 60
+1135,Herr Dr. med. Gardenier Peter Michael Cohn,Facharzt für Allgemeinmedizin,0.2 km,Hiltenspergerstraße 35,80798 München,089 / 2 71 38 55
+1136,Herr Dr. med. Gerhard Stritzl,Facharzt für Allgemeinmedizin,0.2 km,Zentnerstraße 19,80798 München,089 / 18 15 48
+1137,Frau Dr. Marta Valeria Venczel,Fachärztin für Allgemeinmedizin,0.2 km,Adelheidstraße 23,80798 München-Maxvorstadt,089 / 2 72 94 60
+1138,Herr Dr. med. Bernhard Jell,Facharzt für Allgemeinmedizin,0.3 km,Daimlerstraße 9,80798 München-Maxvorstadt,089 / 2 71 59 55
+1139,Frau  Claudia Löffler,Praktische Ärztin,0.3 km,Elisabethstraße 44,80796 München,089 / 27 38 98 88
+1140,Frau  Sophie Ebe,Fachärztin für Allgemeinmedizin,0.3 km,Hiltenspergerstraße 32,80796 München,089 / 17 09 58 14
+1141,Frau  Marion Danisch,Praktische Ärztin,0.3 km,Schleißheimer Straße 130,80797 München,089 / 4 42 30 67 - 0
+1142,Frau Dr. med. Sima Sehat Kashani,Fachärztin für Allgemeinmedizin,0.3 km,Schleißheimer Straße 69,80797 München,089 / 1 29 25 18
+1143,Frau Dr. med. Kerstin Hindringer-Wissing,Fachärztin für Allgemeinmedizin,0.3 km,Tengstraße 28,80798 München,089 / 2 71 45 90
+1144,Herr Dr. med. Ulrich Burkhardt,Praktischer Arzt,0.4 km,Adalbertstraße 104,80798 München,089 / 2 72 45 25
+1145,Frau  Katharina Leube-Sonnleitner,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",0.4 km,Bauerstraße 19,80796 München-Schwabing-West,089 / 18 15 33
+1146,Frau Dr. med. Mareike Steinmann,"FÄ für Psychiatrie und Psychotherapie, FÄ für Neurologie, Praktische Ärztin",0.4 km,Elisabethstraße 30,80796 München,01 76 / 70 46 36 75
+1147,Herr dr. med. Edgar Müller,Facharzt für Allgemeinmedizin,0.4 km,Elisabethstraße 9,80796 München,089 / 2 71 55 66
+1148,Frau Dr. med. Jutta Barucchieri,Fachärztin für Allgemeinmedizin,0.5 km,Bauerstraße 15,80796 München,089 / 5 46 07 09
+1149,Frau  Regine Faust-Schröter,Praktische Ärztin,0.5 km,Tengstraße 43,80796 München,089 / 15 93 04 46
+1150,Frau Dr. med. Barbara Benzinger,"Fachärztin für Physikalische und Rehabilitative Medizin, Fachärztin für Allgemeinmedizin",0.5 km,Hohenzollernplatz 8,80796 München,089 / 30 99 57
+1151,Herr  Oliver Ramrath,Facharzt für Allgemeinmedizin,0.5 km,Neureutherstraße 17,80799 München,089 / 27 37 06 24
+1152,Herr  Georg Kiechle,Facharzt für Allgemeinmedizin,0.5 km,Heßstraße 72,80798 München,089 / 52 31 41 02
+1153,Herr Dr. med. Siegfried Gröninger,"Facharzt für Allgemeinmedizin, Facharzt für Psychotherapeutische Medizin",0.5 km,Bauerstraße 15,80796 München,01 75 / 9 77 83 57
+1154,Frau Dr. med. Monika Eppler-Tschiedel,Praktische Ärztin,0.6 km,Bauerstraße 5,80796 München,089 / 27 80 - 372
+1155,Herr Dr. med. (univ.) Alexander Radinger,Facharzt für Allgemeinmedizin,0.6 km,Arcisstraße 55,80799 München,089 / 3 13 60 11
+1156,Frau Dr. med. Marlies Lincke,Praktische Ärztin,0.7 km,Georgenstraße 43,80799 München,089 / 2 71 07 78
+1157,Frau Dr. med. Astrid Schrader,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.7 km,Schleißheimer Straße 131,80797 München,089 / 3 00 87 86
+1158,Algesiologikum MVZ München,Zentrum für Schmerzmedizin und psychische Gesundheit,0.7 km,Heßstraße 22,80799 München-Maxvorstadt,089 / 45 24 45 - 10
+1159,Frau Dr. Yvonne Strauch,Fachärztin für Allgemeinmedizin,0.7 km,Heßstraße 22,80799 München,089 / 21 22 - 821
+1160,Herr Dr. med. Norbert Kriegisch,Praktischer Arzt,0.8 km,Hohenstaufenstraße 1,80801 München,089 / 33 53 37
+1161,Frau Dr. med. Ginetta Besser,Fachärztin für Allgemeinmedizin,0.8 km,Belgradstraße 9,80796 München,089 / 3 08 50 92
+1162,Frau Dr. med. Annkathrin Machanek,Fachärztin für Allgemeinmedizin,0.8 km,Georgenstraße 39,80799 München,089 / 2 72 01 72
+1163,Herr Dr. med. Christian Köhler,Praktischer Arzt,0.8 km,Hohenzollernstraße 47,80801 München,089 / 33 14 01
+1164,Frau Dr. med. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,0.8 km,Schraudolphstraße 14,80799 München,089 / 2 72 22 48
+1165,Frau Dr. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,0.8 km,Clemensstraße 129,80796 München,089 / 6 88 58 80
+1166,Herr Dr. med. Michael Jung,Facharzt für Allgemeinmedizin,0.9 km,Barer Straße 39,80799 München,089 / 28 19 73
+1167,Frau Dr. med. Anneliese Klaus,Fachärztin für Allgemeinmedizin,0.9 km,Schellingstraße 48,80799 München-Maxvorstadt,089 / 2 72 58 30
+1168,Herr Dr. med. Dietrich Gorriahn,Praktischer Arzt,0.9 km,Franz-Joseph-Straße 38,80801 München,089 / 34 99 35
+1169,Frau Dr. med. Isabel Perianez,Ärztin,0.9 km,Gabelsberger Straße 75 a,80333 München,089 / 52 05 53 00
+1170,Herr  Robert Erhardt,Facharzt für Allgemeinmedizin,0.9 km,Franz-Joseph-Straße 38,80801 München-Schwabing-West,089 / 3 88 88 00
+1171,Frau  Felicitas Mrochen,Praktische Ärztin,0.9 km,Gabelsbergerstraße 89,80333 München,01 72 / 5 78 93 52
+1172,Frau Dr. med. Marlies Lincke,Praktische Ärztin,0.2 km,Georgenstraße 43,80799 München,089 / 2 71 07 78
+1173,Frau Dr. med. Annkathrin Machanek,Fachärztin für Allgemeinmedizin,0.2 km,Georgenstraße 39,80799 München,089 / 2 72 01 72
+1174,Herr  Oliver Ramrath,Facharzt für Allgemeinmedizin,0.2 km,Neureutherstraße 17,80799 München,089 / 27 37 06 24
+1175,Frau Dr. med. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,0.2 km,Schraudolphstraße 14,80799 München,089 / 2 72 22 48
+1176,Herr Dr. med. (univ.) Alexander Radinger,Facharzt für Allgemeinmedizin,0.2 km,Arcisstraße 55,80799 München,089 / 3 13 60 11
+1177,Herr Dr. med. Michael Jung,Facharzt für Allgemeinmedizin,0.3 km,Barer Straße 39,80799 München,089 / 28 19 73
+1178,Frau Dr. med. Anneliese Klaus,Fachärztin für Allgemeinmedizin,0.3 km,Schellingstraße 48,80799 München-Maxvorstadt,089 / 2 72 58 30
+1179,Herr Dr. med. Norbert Kriegisch,Praktischer Arzt,0.4 km,Hohenstaufenstraße 1,80801 München,089 / 33 53 37
+1180,Frau Dr. med. Britta Knoll,Fachärztin für Allgemeinmedizin,0.4 km,Amalienstraße 91,80799 München,089 / 4 48 59 40
+1181,Herr Dr. med. Robert Mutschler,Facharzt für Allgemeinmedizin,0.4 km,Heßstraße 8,80799 München,089 / 2 72 22 48
+1182,Herr Dr. med. Bernhard Jell,Facharzt für Allgemeinmedizin,0.5 km,Daimlerstraße 9,80798 München-Maxvorstadt,089 / 2 71 59 55
+1183,Herr Dr. med. Dietrich Gorriahn,Praktischer Arzt,0.5 km,Franz-Joseph-Straße 38,80801 München,089 / 34 99 35
+1184,Herr  Robert Erhardt,Facharzt für Allgemeinmedizin,0.5 km,Franz-Joseph-Straße 38,80801 München-Schwabing-West,089 / 3 88 88 00
+1185,Herr dr. med. Edgar Müller,Facharzt für Allgemeinmedizin,0.5 km,Elisabethstraße 9,80796 München,089 / 2 71 55 66
+1186,Frau Dr. med. Julia Gmelin,Fachärztin für Innere Medizin,0.6 km,Ainmillerstraße 25,80801 München,089 / 39 93 07
+1187,Herr Doctora en Medicina Orlando Aguiar Perez,Facharzt für Allgemeinmedizin,0.6 km,Habsburgerplatz 1,80801 München,089 / 34 10 60
+1188,Frau Dr. med. Kerstin Hindringer-Wissing,Fachärztin für Allgemeinmedizin,0.6 km,Tengstraße 28,80798 München,089 / 2 71 45 90
+1189,Frau Dr. med. Adelaide Herrmann,Praktische Ärztin,0.7 km,Theresienstraße 27,80333 München,089 / 26 92 56
+1190,Frau Dr. med. Christine Reif,Fachärztin für Allgemeinmedizin,0.7 km,Theresienstraße 27,80333 München,089 / 28 58 14
+1191,Frau Dr. med. Jutta Barucchieri,Fachärztin für Allgemeinmedizin,0.7 km,Bauerstraße 15,80796 München,089 / 5 46 07 09
+1192,Frau  Katharina Leube-Sonnleitner,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",0.7 km,Bauerstraße 19,80796 München-Schwabing-West,089 / 18 15 33
+1193,Frau Dr. med. Katharina Lederer,Fachärztin für Allgemeinmedizin,0.7 km,Habsburgerplatz 6,80801 München,089 / 33 22 08
+1194,Frau Dr. med. Eleni Kavelara Lodge,Fachärztin für Allgemeinmedizin,0.7 km,Theresienstraße 27,80333 München-Maxvorstadt,089 / 28 80 98 33
+1195,Frau Dr. med. Joanna Eger,Fachärztin für Allgemeinmedizin,0.7 km,Ainmillerstraße 26,80801 München,089 / 33 38 63
+1196,Frau  Christina Karachisaridou,Praktische Ärztin,0.7 km,Ainmillerstraße 34,80801 München,089 / 20 94 31 03
+1197,Frau Dr. med. Margit Süßmann,Fachärztin für Allgemeinmedizin,0.7 km,Georgenstraße 116,80798 München,089 / 27 37 50 - 18
+1198,Frau Dr. med. Mareike Steinmann,"FÄ für Psychiatrie und Psychotherapie, FÄ für Neurologie, Praktische Ärztin",0.7 km,Elisabethstraße 30,80796 München,01 76 / 70 46 36 75
+1199,Herr Dr. med. Siegfried Gröninger,"Facharzt für Allgemeinmedizin, Facharzt für Psychotherapeutische Medizin",0.7 km,Bauerstraße 15,80796 München,01 75 / 9 77 83 57
+1200,Herr  Lothar Schietzsch,Praktischer Arzt,0.8 km,Elisabethstraße 35,80796 München,089 / 16 34 46
+1201,Herr Dr. med. Alexander Kosarev,Facharzt für Allgemeinmedizin,0.8 km,Leopoldstraße 32,80802 München,089 / 99 20 14 11
+1202,Herr Dr. med. Rainer Musselmann,Facharzt für Allgemeinmedizin,0.8 km,Veterinärstraße 10,80539 München,089 / 59 23 82
+1203,Frau Dr. med. (Univ. Belgrad) Mirjana Mihailovic,Fachärztin für Allgemeinmedizin,0.8 km,Leopoldstraße 32,80802 München,089 / 30 18 31
+1204,Herr Dr. med. Gardenier Peter Michael Cohn,Facharzt für Allgemeinmedizin,0.8 km,Hiltenspergerstraße 35,80798 München,089 / 2 71 38 55
+1205,Frau Dr. med. Joanna Eger,Fachärztin für Allgemeinmedizin,0.1 km,Ainmillerstraße 26,80801 München,089 / 33 38 63
+1206,Frau Dr. med. Julia Gmelin,Fachärztin für Innere Medizin,0.1 km,Ainmillerstraße 25,80801 München,089 / 39 93 07
+1207,Frau  Christina Karachisaridou,Praktische Ärztin,0.1 km,Ainmillerstraße 34,80801 München,089 / 20 94 31 03
+1208,Herr  Uwe W. Petrus,Praktischer Arzt,0.2 km,Kaiserplatz 12,80803 München,089 / 25 54 22 50
+1209,Frau Dr. med. Wiebke Lohmann,Ärztin,0.2 km,Kaiserstraße 57,80801 München-Schwabing,089 / 27 27 29 48
+1210,Herr Dr. med. Dietrich Gorriahn,Praktischer Arzt,0.2 km,Franz-Joseph-Straße 38,80801 München,089 / 34 99 35
+1211,Frau Dr. med. Katharina Lederer,Fachärztin für Allgemeinmedizin,0.2 km,Habsburgerplatz 6,80801 München,089 / 33 22 08
+1212,Herr Dr. med. Christian Köhler,Praktischer Arzt,0.2 km,Hohenzollernstraße 47,80801 München,089 / 33 14 01
+1213,Frau  Gudrun Spiegel,Praktische Ärztin,0.2 km,Kaiserstraße 57,80801 München,089 / 7 87 97 86 07
+1214,Herr Doctora en Medicina Orlando Aguiar Perez,Facharzt für Allgemeinmedizin,0.2 km,Habsburgerplatz 1,80801 München,089 / 34 10 60
+1215,Herr  Robert Erhardt,Facharzt für Allgemeinmedizin,0.2 km,Franz-Joseph-Straße 38,80801 München-Schwabing-West,089 / 3 88 88 00
+1216,Frau Dr. med. Dagmar Haury,Praktische Ärztin,0.3 km,Römerstraße 26,80803 München,089 / 39 97 13
+1217,Frau Dr. med. Ginetta Besser,Fachärztin für Allgemeinmedizin,0.4 km,Belgradstraße 9,80796 München,089 / 3 08 50 92
+1218,Frau Dr. med. Monika Eppler-Tschiedel,Praktische Ärztin,0.4 km,Bauerstraße 5,80796 München,089 / 27 80 - 372
+1219,Frau  Tanja Hackl,Fachärztin für Allgemeinmedizin,0.4 km,Hohenzollernstraße 12,80801 München-Schwabing-Freimann,089 / 3 30 37 37 - 0
+1220,Herr Dr. med. Helmut Weiß,Praktischer Arzt,0.4 km,Kaiserstraße 13,80801 München,089 / 38 89 97 10
+1221,Herr  Erwin Lüddecke,Praktischer Arzt,0.4 km,Herzogstraße 28,80803 München,089 / 12 25 27 07
+1222,Herr Dr. med. Cyrus Sami,Facharzt für Allgemeinmedizin,0.4 km,Hohenzollernstraße 12,80801 München,089 / 2 71 31 77
+1223,Avi Medical Hausarztpraxis München Schwabing,Medizinisches Versorgungszentrum,0.4 km,Herzogstraße 60,80803 München,089 / 21 52 53 51
+1224,Frau Dr. med. Christina Rudolph,Fachärztin für Allgemeinmedizin,0.5 km,Leopoldstraße 58,80802 München,089 / 39 10 74
+1225,Frau Dr. med. Oksana Vovk-Debryckyi,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.5 km,Leopoldstraße 58,80802 München-Schwabing-Freimann,089 / 33 43 61
+1226,Frau Dr. med. Gabriele Martin,Fachärztin für Allgemeinmedizin,0.5 km,Kaiserstraße 1,80801 München,089 / 29 16 07 00
+1227,Herr  Richard Kamm,Facharzt für Allgemeinmedizin,0.5 km,Kaiserstraße 1,80801 München,089 / 33 03 53 73
+1228,Frau Dr. med. Minavere Canolli,Fachärztin für Allgemeinmedizin,0.5 km,Kaiserstraße 1,80801 München,089 / 29 16 07 00
+1229,Herr Dr. med. Alexander Kosarev,Facharzt für Allgemeinmedizin,0.6 km,Leopoldstraße 32,80802 München,089 / 99 20 14 11
+1230,Frau Dr. med. Marlies Lincke,Praktische Ärztin,0.6 km,Georgenstraße 43,80799 München,089 / 2 71 07 78
+1231,Frau Dr. med. Monika Bittner,Fachärztin für Allgemeinmedizin,0.6 km,Leopoldstraße 80,80802 München,089 / 21 02 34 66
+1232,Frau Dr. med. Annkathrin Machanek,Fachärztin für Allgemeinmedizin,0.6 km,Georgenstraße 39,80799 München,089 / 2 72 01 72
+1233,Frau Dr. med. (Univ. Belgrad) Mirjana Mihailovic,Fachärztin für Allgemeinmedizin,0.6 km,Leopoldstraße 32,80802 München,089 / 30 18 31
+1234,Frau Dr. med. Katja Barth,Praktische Ärztin,0.6 km,Leopoldstraße 76,80802 München,089 / 39 79 75
+1235,Herr Dr. med. Martin Gürtner,Praktischer Arzt,0.6 km,Leopoldstraße 76,80802 München,089 / 38 88 86 44
+1236,Frau Dr. med. (univ.) Mariella Bodrogi,Fachärztin für Allgemeinmedizin,0.6 km,Münchner Freiheit 6,80802 München,089 / 34 40 60
+1237,Herr dr. med. Edgar Müller,Facharzt für Allgemeinmedizin,0.6 km,Elisabethstraße 9,80796 München,089 / 2 71 55 66
+1238,Herr Dr. med. Bernhard Jell,Facharzt für Allgemeinmedizin,0.7 km,Daimlerstraße 9,80798 München-Maxvorstadt,089 / 2 71 59 55
+1239,Frau Dr. med. Barbara Benzinger,"Fachärztin für Physikalische und Rehabilitative Medizin, Fachärztin für Allgemeinmedizin",0.7 km,Hohenzollernplatz 8,80796 München,089 / 30 99 57
+1240,Herr  Oliver Ramrath,Facharzt für Allgemeinmedizin,0.7 km,Neureutherstraße 17,80799 München,089 / 27 37 06 24
+1241,Herr Dr. med. (univ.) Alexander Radinger,Facharzt für Allgemeinmedizin,0.7 km,Arcisstraße 55,80799 München,089 / 3 13 60 11
+1242,Frau  Ulrike Tochtermann,Praktische Ärztin,0.7 km,Münchner Freiheit 12,80802 München,01 72 / 8 43 06 87
+1243,Herr Dr. med. Alexander Angermann,Facharzt für Allgemeinmedizin,0.3 km,Keferstraße 20,80802 München,089 / 34 87 84
+1244,Frau Dr. med. Monika Bittner,Fachärztin für Allgemeinmedizin,0.4 km,Leopoldstraße 80,80802 München,089 / 21 02 34 66
+1245,Frau Dr. med. Katja Barth,Praktische Ärztin,0.4 km,Leopoldstraße 76,80802 München,089 / 39 79 75
+1246,Herr Dr. med. Martin Gürtner,Praktischer Arzt,0.4 km,Leopoldstraße 76,80802 München,089 / 38 88 86 44
+1247,Frau Dr. med. (univ.) Mariella Bodrogi,Fachärztin für Allgemeinmedizin,0.4 km,Münchner Freiheit 6,80802 München,089 / 34 40 60
+1248,Frau  Ulrike Tochtermann,Praktische Ärztin,0.4 km,Münchner Freiheit 12,80802 München,01 72 / 8 43 06 87
+1249,Herr Dr. med. Kamyar Nowidi,Praktischer Arzt,0.5 km,Antonienstraße 3,80802 München,01 76 / 81 18 65 68
+1250,Frau  Tanja Hackl,Fachärztin für Allgemeinmedizin,0.6 km,Hohenzollernstraße 12,80801 München-Schwabing-Freimann,089 / 3 30 37 37 - 0
+1251,Herr Dr. med. Helmut Weiß,Praktischer Arzt,0.6 km,Kaiserstraße 13,80801 München,089 / 38 89 97 10
+1252,Herr Dr. med. Cyrus Sami,Facharzt für Allgemeinmedizin,0.6 km,Hohenzollernstraße 12,80801 München,089 / 2 71 31 77
+1253,Herr Dr. med. Matthias Teutsch,Facharzt für Allgemeinmedizin,0.8 km,Potsdamer Straße 9,80802 München,089 / 34 55 11
+1254,Herr  Erwin Lüddecke,Praktischer Arzt,0.8 km,Herzogstraße 28,80803 München,089 / 12 25 27 07
+1255,Frau Dr. med. Stephanie Joerges,Fachärztin für Allgemeinmedizin,0.8 km,Osterwaldstraße 40,80805 München,089 / 32 20 90 90
+1256,Frau Dr. med. Katharina Lederer,Fachärztin für Allgemeinmedizin,0.9 km,Habsburgerplatz 6,80801 München,089 / 33 22 08
+1257,Frau Dr. med. Joanna Eger,Fachärztin für Allgemeinmedizin,0.9 km,Ainmillerstraße 26,80801 München,089 / 33 38 63
+1258,Herr  Uwe W. Petrus,Praktischer Arzt,1 km,Kaiserplatz 12,80803 München,089 / 25 54 22 50
+1259,Herr Dr. med. Christian Herold,Facharzt für Allgemeinmedizin,1 km,Ungererstraße 90,80805 München-Schwabing-Freimann,089 / 36 99 01
+1260,Frau  Christina Karachisaridou,Praktische Ärztin,1 km,Ainmillerstraße 34,80801 München,089 / 20 94 31 03
+1261,Frau Dr. med. Dagmar Haury,Praktische Ärztin,1.1 km,Römerstraße 26,80803 München,089 / 39 97 13
+1262,Frau Dr. med. Wiebke Lohmann,Ärztin,1.1 km,Kaiserstraße 57,80801 München-Schwabing,089 / 27 27 29 48
+1263,Herr Dr. med. Dietrich Gorriahn,Praktischer Arzt,1.1 km,Franz-Joseph-Straße 38,80801 München,089 / 34 99 35
+1264,Frau Dr. med. Angela Schindelhauer,Fachärztin für Allgemeinmedizin,1.1 km,Rheinstraße 31,80803 München,089 / 33 23 38
+1265,Frau  Gudrun Spiegel,Praktische Ärztin,1.1 km,Kaiserstraße 57,80801 München,089 / 7 87 97 86 07
+1266,Herr  Robert Erhardt,Facharzt für Allgemeinmedizin,1.1 km,Franz-Joseph-Straße 38,80801 München-Schwabing-West,089 / 3 88 88 00
+1267,Herr Dr. med. Dr. med. vet. Ihor Harabacz,Praktischer Arzt,1.1 km,Luxemburger Straße 5,80805 München,089 / 3 61 54 25
+1268,MVZ-Coburg,,1.1 km,Kaulbachstraße 61,80539 München,089 / 28 52 36
+1269,Herr Dr. med. Christian Köhler,Praktischer Arzt,1.2 km,Hohenzollernstraße 47,80801 München,089 / 33 14 01
+1270,Avi Medical Hausarztpraxis München Schwabing,Medizinisches Versorgungszentrum,1.2 km,Herzogstraße 60,80803 München,089 / 21 52 53 51
+1271,Herr Dr. med. Norbert Kriegisch,Praktischer Arzt,1.3 km,Hohenstaufenstraße 1,80801 München,089 / 33 53 37
+1272,Frau Dr. med. Ginetta Besser,Fachärztin für Allgemeinmedizin,1.3 km,Belgradstraße 9,80796 München,089 / 3 08 50 92
+1273,Herr Dr. med. Rainer Musselmann,Facharzt für Allgemeinmedizin,1.3 km,Veterinärstraße 10,80539 München,089 / 59 23 82
+1274,Herr Dr. med. Rainer Fischer,Facharzt für Allgemeinmedizin,1.3 km,Hörwarthstraße 33,80804 München,089 / 55 05 45 50
+1275,Herr Prof. Dr. Dietmar Daichendt,Facharzt für Allgemeinmedizin,1.3 km,Pienzenauerstraße 14,81679 München,089 / 55 05 22 20
+1276,Frau  Gisela Kinner,Praktische Ärztin,1.3 km,Bonner Platz 1,80803 München,089 / 3 61 28 14
+1277,Frau Dr. med. Angela Schindelhauer,Fachärztin für Allgemeinmedizin,0.1 km,Rheinstraße 31,80803 München,089 / 33 23 38
+1278,Frau  Gisela Kinner,Praktische Ärztin,0.2 km,Bonner Platz 1,80803 München,089 / 3 61 28 14
+1279,Herr Dr. med. Rainer Fischer,Facharzt für Allgemeinmedizin,0.4 km,Hörwarthstraße 33,80804 München,089 / 55 05 45 50
+1280,Frau Dr. med. Dagmar Haury,Praktische Ärztin,0.5 km,Römerstraße 26,80803 München,089 / 39 97 13
+1281,Herr  Uwe W. Petrus,Praktischer Arzt,0.5 km,Kaiserplatz 12,80803 München,089 / 25 54 22 50
+1282,Frau Dr. med. Wiebke Lohmann,Ärztin,0.6 km,Kaiserstraße 57,80801 München-Schwabing,089 / 27 27 29 48
+1283,Herr Dr. med. Josef Fischer,"Facharzt für Allgemeinmedizin, Facharzt für Orthopädie",0.6 km,Angererstraße 9,80796 München,089 / 18 99 96 91
+1284,Herr Dr. med. Matthias Teutsch,Facharzt für Allgemeinmedizin,0.6 km,Potsdamer Straße 9,80802 München,089 / 34 55 11
+1285,Frau  Gudrun Spiegel,Praktische Ärztin,0.6 km,Kaiserstraße 57,80801 München,089 / 7 87 97 86 07
+1286,Frau  Ulrike Tochtermann,Praktische Ärztin,0.6 km,Münchner Freiheit 12,80802 München,01 72 / 8 43 06 87
+1287,Frau  Katja Gall,"Praktische Ärztin, Fachärztin für Kinder- und Jugendmedizin",0.6 km,Kölner Platz 1,80804 München,089 / 3 06 80
+1288,Frau Dr. med. Ginetta Besser,Fachärztin für Allgemeinmedizin,0.7 km,Belgradstraße 9,80796 München,089 / 3 08 50 92
+1289,Frau Dr. med. Monika Bittner,Fachärztin für Allgemeinmedizin,0.7 km,Leopoldstraße 80,80802 München,089 / 21 02 34 66
+1290,Frau  Tanja Hackl,Fachärztin für Allgemeinmedizin,0.7 km,Hohenzollernstraße 12,80801 München-Schwabing-Freimann,089 / 3 30 37 37 - 0
+1291,Frau Dr. med. Katja Barth,Praktische Ärztin,0.7 km,Leopoldstraße 76,80802 München,089 / 39 79 75
+1292,Herr Dr. med. Martin Gürtner,Praktischer Arzt,0.7 km,Leopoldstraße 76,80802 München,089 / 38 88 86 44
+1293,Herr Dr. med. Cyrus Sami,Facharzt für Allgemeinmedizin,0.7 km,Hohenzollernstraße 12,80801 München,089 / 2 71 31 77
+1294,Frau Dr. med. Gabriele Martin,Fachärztin für Allgemeinmedizin,0.7 km,Kaiserstraße 1,80801 München,089 / 29 16 07 00
+1295,Herr  Richard Kamm,Facharzt für Allgemeinmedizin,0.7 km,Kaiserstraße 1,80801 München,089 / 33 03 53 73
+1296,Frau Dr. med. Minavere Canolli,Fachärztin für Allgemeinmedizin,0.7 km,Kaiserstraße 1,80801 München,089 / 29 16 07 00
+1297,Frau Dr. med. (univ.) Mariella Bodrogi,Fachärztin für Allgemeinmedizin,0.7 km,Münchner Freiheit 6,80802 München,089 / 34 40 60
+1298,Herr Dr. med. Kamyar Nowidi,Praktischer Arzt,0.7 km,Antonienstraße 3,80802 München,01 76 / 81 18 65 68
+1299,Frau Dr. med. Christina Rudolph,Fachärztin für Allgemeinmedizin,0.8 km,Leopoldstraße 58,80802 München,089 / 39 10 74
+1300,Frau Dr. med. Katharina Lederer,Fachärztin für Allgemeinmedizin,0.8 km,Habsburgerplatz 6,80801 München,089 / 33 22 08
+1301,Frau Dr. med. Oksana Vovk-Debryckyi,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",0.8 km,Leopoldstraße 58,80802 München-Schwabing-Freimann,089 / 33 43 61
+1302,Frau Dr. med. Joanna Eger,Fachärztin für Allgemeinmedizin,0.8 km,Ainmillerstraße 26,80801 München,089 / 33 38 63
+1303,Frau Dr. med. Julia Gmelin,Fachärztin für Innere Medizin,0.8 km,Ainmillerstraße 25,80801 München,089 / 39 93 07
+1304,Frau  Christina Karachisaridou,Praktische Ärztin,0.8 km,Ainmillerstraße 34,80801 München,089 / 20 94 31 03
+1305,Frau Dr. med. Monika Eppler-Tschiedel,Praktische Ärztin,0.9 km,Bauerstraße 5,80796 München,089 / 27 80 - 372
+1306,Frau Dr. med. Sylvia Galia-Groß,Praktische Ärztin,0.9 km,Leopoldstraße 169,80804 München,089 / 39 94 11
+1307,Frau Dr. Dimitra Avramidou-Neuböck,Fachärztin für Allgemeinmedizin,0.9 km,Eisenacher Straße 12,80804 München,089 / 36 65 80
+1308,Herr Doctora en Medicina Orlando Aguiar Perez,Facharzt für Allgemeinmedizin,0.9 km,Habsburgerplatz 1,80801 München,089 / 34 10 60
+1309,Frau Dr. med. Jutta Barucchieri,Fachärztin für Allgemeinmedizin,1 km,Bauerstraße 15,80796 München,089 / 5 46 07 09
+1310,Frau  Regine Faust-Schröter,Praktische Ärztin,1 km,Tengstraße 43,80796 München,089 / 15 93 04 46
+1311,Frau  Katharina Leube-Sonnleitner,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",1 km,Bauerstraße 19,80796 München-Schwabing-West,089 / 18 15 33
+1312,Herr Dr. med. Siegfried Gröninger,"Facharzt für Allgemeinmedizin, Facharzt für Psychotherapeutische Medizin",1 km,Bauerstraße 15,80796 München,01 75 / 9 77 83 57
+1313,Herr Dr. med. Norbert Kriegisch,Praktischer Arzt,1.1 km,Hohenstaufenstraße 1,80801 München,089 / 33 53 37
+1314,Herr Dr. med. Christian Herold,Facharzt für Allgemeinmedizin,1.1 km,Ungererstraße 90,80805 München-Schwabing-Freimann,089 / 36 99 01
+1315,Herr Dr. med. Alexander Angermann,Facharzt für Allgemeinmedizin,1.1 km,Keferstraße 20,80802 München,089 / 34 87 84
+1316,Herr dr. med. Edgar Müller,Facharzt für Allgemeinmedizin,1.1 km,Elisabethstraße 9,80796 München,089 / 2 71 55 66
+1317,Frau  Katja Gall,"Praktische Ärztin, Fachärztin für Kinder- und Jugendmedizin",0.3 km,Kölner Platz 1,80804 München,089 / 3 06 80
+1318,Stiftung Pfennigparade - Rehabilitationszentrum München,"Bereich Medizin, Therapie und Arztpraxis",0.4 km,Barlachstraße 26,80804 München-Schwabing-West,089 / 83 93 - 41 41
+1319,Herr Dr. medic. (Univ. Zagreb) Jovo Ljubicic,Praktischer Arzt,0.6 km,Kantstraße 2,80807 München,089 / 3 59 35 27
+1320,Frau Dr. Dimitra Avramidou-Neuböck,Fachärztin für Allgemeinmedizin,0.6 km,Eisenacher Straße 12,80804 München,089 / 36 65 80
+1321,Herr Dr. med. Rainer Fischer,Facharzt für Allgemeinmedizin,0.6 km,Hörwarthstraße 33,80804 München,089 / 55 05 45 50
+1322,Frau Dr. med. Sylvia Galia-Groß,Praktische Ärztin,0.7 km,Leopoldstraße 169,80804 München,089 / 39 94 11
+1323,Herr Dr. med. Mark-Steven Braun,Facharzt für Allgemeinmedizin,0.7 km,Knorrstraße 16,80807 München,089 / 35 89 34 90
+1324,Frau Dr. med. Gudrun Müller,Fachärztin für Allgemeinmedizin,0.7 km,Schopenhauerstraße 56,80807 München,089 / 95 69 96
+1325,Frau Dr. med. Stephanie Jansen,Fachärztin für Allgemeinmedizin,0.8 km,Eduard-Schenk-Straße 36,80807 München,089 / 35 66 34 97
+1326,Frau Dr. med. Angela Schindelhauer,Fachärztin für Allgemeinmedizin,0.8 km,Rheinstraße 31,80803 München,089 / 33 23 38
+1327,Frau  Gisela Kinner,Praktische Ärztin,0.8 km,Bonner Platz 1,80803 München,089 / 3 61 28 14
+1328,Herr  Thomas Michael Klemme,Facharzt für Allgemeinmedizin,0.9 km,Schleißheimer Straße 267,80809 München-Milbertshofen-Am Hart,089 / 55 26 32 80
+1329,Herr Dr. med. Josef Fischer,"Facharzt für Allgemeinmedizin, Facharzt für Orthopädie",0.9 km,Angererstraße 9,80796 München,089 / 18 99 96 91
+1330,Frau Dr. med. Mira Vidakovic,Fachärztin für Allgemeinmedizin,0.9 km,Knorrstraße 31,80807 München,089 / 35 66 36 32
+1331,Frau Dr. med. Birgit Braitacher,Fachärztin für Allgemeinmedizin,1 km,Knorrstraße 37,80807 München,089 / 3 56 93 21
+1332,Frau Dr. med. Claudia Haseke,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1 km,Schleißheimer Straße 224,80797 München-Schwabing-West,089 / 3 08 68 01
+1333,Herr Dr. med. Matthias Teutsch,Facharzt für Allgemeinmedizin,1.2 km,Potsdamer Straße 9,80802 München,089 / 34 55 11
+1334,Frau Dr. med. Dagmar Haury,Praktische Ärztin,1.3 km,Römerstraße 26,80803 München,089 / 39 97 13
+1335,Herr Dr. med. Hannes Blankenfeld,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin",1.3 km,Winzerer Straße 142,80797 München,089 / 30 44 21
+1336,Herr  Erwin Lüddecke,Praktischer Arzt,1.3 km,Herzogstraße 28,80803 München,089 / 12 25 27 07
+1337,Herr Dr. med. Alexander Stöckicht,Facharzt für Allgemeinmedizin,1.4 km,Deidesheimer Straße 14,80797 München,089 / 30 38 08
+1338,Frau Dr. medic. (Univ. Sarajevo) Vesela Janjic-Soravia,Fachärztin für Allgemeinmedizin,1.4 km,Ingolstädter Straße 1,80807 München-Milbertshofen,089 / 35 26 02
+1339,Frau  Johanna Schneider,Praktische Ärztin,1.4 km,Oberhofer Platz 4,80807 München,089 / 35 22 70
+1340,Herr  Uwe W. Petrus,Praktischer Arzt,1.4 km,Kaiserplatz 12,80803 München,089 / 25 54 22 50
+1341,Frau Dr. med. Wiebke Lohmann,Ärztin,1.4 km,Kaiserstraße 57,80801 München-Schwabing,089 / 27 27 29 48
+1342,Herr Dr. med. Christian Herold,Facharzt für Allgemeinmedizin,1.4 km,Ungererstraße 90,80805 München-Schwabing-Freimann,089 / 36 99 01
+1343,Frau  Gudrun Spiegel,Praktische Ärztin,1.4 km,Kaiserstraße 57,80801 München,089 / 7 87 97 86 07
+1344,Herr Dr. med. Kamyar Nowidi,Praktischer Arzt,1.4 km,Antonienstraße 3,80802 München,01 76 / 81 18 65 68
+1345,Frau Dr. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,1.4 km,Clemensstraße 129,80796 München,089 / 6 88 58 80
+1346,Frau Dr. med. Barbara Benzinger,"Fachärztin für Physikalische und Rehabilitative Medizin, Fachärztin für Allgemeinmedizin",1.5 km,Hohenzollernplatz 8,80796 München,089 / 30 99 57
+1347,Frau Dr. med. Astrid Schrader,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.5 km,Schleißheimer Straße 131,80797 München,089 / 3 00 87 86
+1348,Frau  Ulrike Tochtermann,Praktische Ärztin,1.5 km,Münchner Freiheit 12,80802 München,01 72 / 8 43 06 87
+1349,Herr Dr. med. Dr. med. vet. Ihor Harabacz,Praktischer Arzt,1.5 km,Luxemburger Straße 5,80805 München,089 / 3 61 54 25
+1350,Frau Dr. med. Elisabeth Reim,Praktische Ärztin,1.6 km,Mitterwieserstraße 3,80797 München,089 / 30 72 53 55
+1351,Frau Dr. med. Anita Willburger,Praktische Ärztin,1.6 km,Riesenfeldstraße 86 a,80809 München,089 / 3 54 60 46
+1352,Frau  Regine Faust-Schröter,Praktische Ärztin,1.6 km,Tengstraße 43,80796 München,089 / 15 93 04 46
+1353,Frau  Katharina Leube-Sonnleitner,"FÄ für Allgemeinmedizin, FÄ für Psychosomatische Medizin und Psychotherapie",1.6 km,Bauerstraße 19,80796 München-Schwabing-West,089 / 18 15 33
+1354,Herr Dr. med. Helmut Weiß,Praktischer Arzt,1.6 km,Kaiserstraße 13,80801 München,089 / 38 89 97 10
+1355,Frau Dr. med. (univ.) Mariella Bodrogi,Fachärztin für Allgemeinmedizin,1.6 km,Münchner Freiheit 6,80802 München,089 / 34 40 60
+1356,Herr Dr. med. Robert Lauer,"Chefarzt, Facharzt für Innere Medizin und Kardiologie",1.6 km,Frankfurter Ring 15-17,80807 München,089 / 2 32 38 10
+1357,Frau Dr. med. Stefanie Geiger-Zdora,Fachärztin für Allgemeinmedizin,0.4 km,Ungererstraße 169,80805 München,089 / 36 34 45
+1358,Herr Dr. med. Peter Powalka,Praktischer Arzt,0.5 km,Scheinerstraße 7,81679 München,089 / 36 70 88
+1359,Schwabinger Reha-Sport GmbH und Co. KG,,0.5 km,Ungererstraße 175,80805 München,089 / 95 44 49 32 - 0
+1360,Herr Dr. med. Dr. med. vet. Ihor Harabacz,Praktischer Arzt,1 km,Luxemburger Straße 5,80805 München,089 / 3 61 54 25
+1361,Herr Dr. med. Christian Herold,Facharzt für Allgemeinmedizin,1.2 km,Ungererstraße 90,80805 München-Schwabing-Freimann,089 / 36 99 01
+1362,Frau Dr. med. Stephanie Joerges,Fachärztin für Allgemeinmedizin,1.2 km,Osterwaldstraße 40,80805 München,089 / 32 20 90 90
+1363,Frau Dr. med. Katja Medved,Praktische Ärztin,1.3 km,Oberföhringer Straße 127 D,81925 München,0 15 11 / 9 75 28 11
+1364,Herr Dr. med. Bernhard Friedsam,Praktischer Arzt,1.5 km,Grüntal 18,81925 München,089 / 98 93 33
+1365,Frau Dr. med. Sylvia Galia-Groß,Praktische Ärztin,1.6 km,Leopoldstraße 169,80804 München,089 / 39 94 11
+1366,Herr Dr. med. Matthias Teutsch,Facharzt für Allgemeinmedizin,1.6 km,Potsdamer Straße 9,80802 München,089 / 34 55 11
+1367,Frau Dr. Dimitra Avramidou-Neuböck,Fachärztin für Allgemeinmedizin,1.7 km,Eisenacher Straße 12,80804 München,089 / 36 65 80
+1368,Herr Dr. med. Alexander Angermann,Facharzt für Allgemeinmedizin,1.7 km,Keferstraße 20,80802 München,089 / 34 87 84
+1369,Herr Dr. med. Kamyar Nowidi,Praktischer Arzt,1.7 km,Antonienstraße 3,80802 München,01 76 / 81 18 65 68
+1370,Herr Dr. med. Joscha Stützel,Facharzt für Allgemeinmedizin,1.7 km,Unter der Linde 18,80939 München,089 / 3 22 61 05
+1371,Frau Dr. med. Stephanie Jansen,Fachärztin für Allgemeinmedizin,1.8 km,Eduard-Schenk-Straße 36,80807 München,089 / 35 66 34 97
+1372,Frau Dr. medic. (Univ. Sarajevo) Vesela Janjic-Soravia,Fachärztin für Allgemeinmedizin,1.9 km,Ingolstädter Straße 1,80807 München-Milbertshofen,089 / 35 26 02
+1373,Frau Dr. med. Ursula Auerbach-Wieselsberger,Fachärztin für Allgemeinmedizin,2.1 km,Fritz-Meyer-Weg 45,81925 München,089 / 95 72 36 16
+1374,Frau  Susanne Wriedt,Praktische Ärztin,2.1 km,Cosimastraße 133,81925 München,089 / 9 57 26 20
+1375,Herr Dr. med. Rainer Fischer,Facharzt für Allgemeinmedizin,2.1 km,Hörwarthstraße 33,80804 München,089 / 55 05 45 50
+1376,Frau Dr. (CS) Ludmila Jonas,Praktische Ärztin,2.1 km,Cosimastraße 131,81925 München,089 / 95 15 20
+1377,Frau Dr. Monika Lieb,Ärztin,2.1 km,Effnerstraße 93,81925 München,089 / 1 30 78 70
+1378,Frau  Elena Born,Fachärztin für Allgemeinmedizin,2.1 km,Floriansmühlstraße 19,80939 München,089 / 95 42 89 96 - 0
+1379,Frau  Ulrike Tochtermann,Praktische Ärztin,2.1 km,Münchner Freiheit 12,80802 München,01 72 / 8 43 06 87
+1380,Frau  Katja Gall,"Praktische Ärztin, Fachärztin für Kinder- und Jugendmedizin",2.1 km,Kölner Platz 1,80804 München,089 / 3 06 80
+1381,Frau Dr. med. Ruth Weissberg,Praktische Ärztin,2.2 km,Taimerhofstraße 28,81927 München-Bogenhausen-Oberföhring,089 / 98 86 87
+1382,Frau Dr. med. Monika Bittner,Fachärztin für Allgemeinmedizin,2.2 km,Leopoldstraße 80,80802 München,089 / 21 02 34 66
+1383,Herr  Bernhard Schub,Praktischer Arzt,2.2 km,Münchner Straße 21 c,85774 Unterföhring,089 / 95 82 19 64
+1384,Frau Dr. med. Angela Schindelhauer,Fachärztin für Allgemeinmedizin,2.2 km,Rheinstraße 31,80803 München,089 / 33 23 38
+1385,Herr Dr. med. Johannes Guggenmos,"Facharzt für Allgemeinmedizin, Facharzt für Plastische Chirurgie",2.2 km,Cosimastraße 102,81927 München,089 / 4 13 25 59 55
+1386,Frau Dr. med. (univ.) Mariella Bodrogi,Fachärztin für Allgemeinmedizin,2.2 km,Münchner Freiheit 6,80802 München,089 / 34 40 60
+1387,Frau  Susanne Wriedt,Praktische Ärztin,2.2 km,Cosimastraße 106,81927 München,089 / 9 57 26 20
+1388,Frau Dr. Claudia Levin,Fachärztin für Allgemeinmedizin,2.2 km,Cosimastraße 102,81927 München,089 / 4 13 25 59 55
+1389,Stiftung Pfennigparade - Rehabilitationszentrum München,"Bereich Medizin, Therapie und Arztpraxis",2.3 km,Barlachstraße 26,80804 München-Schwabing-West,089 / 83 93 - 41 41
+1390,Herr  Erwin Lüddecke,Praktischer Arzt,2.3 km,Herzogstraße 28,80803 München,089 / 12 25 27 07
+1391,Frau Dr. med. Katja Barth,Praktische Ärztin,2.3 km,Leopoldstraße 76,80802 München,089 / 39 79 75
+1392,Herr Dr. med. Martin Gürtner,Praktischer Arzt,2.3 km,Leopoldstraße 76,80802 München,089 / 38 88 86 44
+1393,Frau Dr. med. Gabriele Martin,Fachärztin für Allgemeinmedizin,2.3 km,Kaiserstraße 1,80801 München,089 / 29 16 07 00
+1394,Herr  Richard Kamm,Facharzt für Allgemeinmedizin,2.3 km,Kaiserstraße 1,80801 München,089 / 33 03 53 73
+1395,Frau Dr. med. Minavere Canolli,Fachärztin für Allgemeinmedizin,2.3 km,Kaiserstraße 1,80801 München,089 / 29 16 07 00
+1396,Frau  Gisela Kinner,Praktische Ärztin,2.3 km,Bonner Platz 1,80803 München,089 / 3 61 28 14
+1397,Lehelmed MVZ,,2.3 km,Am Ausbesserungswerk 8,80939 München,089 / 2 15 56 56 96
+1398,Frau Dr. med. Christina Rudolph,Fachärztin für Allgemeinmedizin,2.4 km,Leopoldstraße 58,80802 München,089 / 39 10 74
+1399,Frau Dr. med. Grete Bauer,Praktische Ärztin,2.4 km,Spilhofstraße 58,81927 München,089 / 95 30 20
+1400,Frau Dr. med. Oksana Vovk-Debryckyi,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",2.4 km,Leopoldstraße 58,80802 München-Schwabing-Freimann,089 / 33 43 61
+1401,Frau  Tanja Hackl,Fachärztin für Allgemeinmedizin,2.4 km,Hohenzollernstraße 12,80801 München-Schwabing-Freimann,089 / 3 30 37 37 - 0
+1402,Herr Dr. med. Helmut Weiß,Praktischer Arzt,2.4 km,Kaiserstraße 13,80801 München,089 / 38 89 97 10
+1403,Herr Dr. med. Cyrus Sami,Facharzt für Allgemeinmedizin,2.4 km,Hohenzollernstraße 12,80801 München,089 / 2 71 31 77
+1404,Frau Dr. medic. (Univ. Sarajevo) Vesela Janjic-Soravia,Fachärztin für Allgemeinmedizin,0.1 km,Ingolstädter Straße 1,80807 München-Milbertshofen,089 / 35 26 02
+1405,Frau  Johanna Schneider,Praktische Ärztin,0.6 km,Oberhofer Platz 4,80807 München,089 / 35 22 70
+1406,Frau Dr. med. Mira Vidakovic,Fachärztin für Allgemeinmedizin,1 km,Knorrstraße 31,80807 München,089 / 35 66 36 32
+1407,Herr Dr. med. Mark-Steven Braun,Facharzt für Allgemeinmedizin,1.1 km,Knorrstraße 16,80807 München,089 / 35 89 34 90
+1408,Herr Dr. medic. (Univ. Zagreb) Jovo Ljubicic,Praktischer Arzt,1.1 km,Kantstraße 2,80807 München,089 / 3 59 35 27
+1409,Stiftung Pfennigparade - Rehabilitationszentrum München,"Bereich Medizin, Therapie und Arztpraxis",1.1 km,Barlachstraße 26,80804 München-Schwabing-West,089 / 83 93 - 41 41
+1410,Frau Dr. med. Gudrun Müller,Fachärztin für Allgemeinmedizin,1.1 km,Schopenhauerstraße 56,80807 München,089 / 95 69 96
+1411,Herr Dr. med. Robert Lauer,"Chefarzt, Facharzt für Innere Medizin und Kardiologie",1.1 km,Frankfurter Ring 15-17,80807 München,089 / 2 32 38 10
+1412,Frau  Ursula Kloppe,Fachärztin für Allgemeinmedizin,1.3 km,Sudetendeutschestraße 38,80937 München,089 / 3 16 46 85
+1413,Frau Dr. med. Sylvia Galia-Groß,Praktische Ärztin,1.4 km,Leopoldstraße 169,80804 München,089 / 39 94 11
+1414,Frau Dr. Dimitra Avramidou-Neuböck,Fachärztin für Allgemeinmedizin,1.4 km,Eisenacher Straße 12,80804 München,089 / 36 65 80
+1415,Herr Dr. med. Franz Schmauß,Facharzt für Allgemeinmedizin,1.5 km,Wundtstraße 15,80939 München,089 / 3 11 78 00
+1416,Herr  Thomas Michael Klemme,Facharzt für Allgemeinmedizin,1.5 km,Schleißheimer Straße 267,80809 München-Milbertshofen-Am Hart,089 / 55 26 32 80
+1417,Schwabinger Reha-Sport GmbH und Co. KG,,1.5 km,Ungererstraße 175,80805 München,089 / 95 44 49 32 - 0
+1418,Frau Dr. med. Stefanie Geiger-Zdora,Fachärztin für Allgemeinmedizin,1.5 km,Ungererstraße 169,80805 München,089 / 36 34 45
+1419,Frau  Katja Gall,"Praktische Ärztin, Fachärztin für Kinder- und Jugendmedizin",1.7 km,Kölner Platz 1,80804 München,089 / 3 06 80
+1420,Frau  Gabriela-Elena Schlemmer,Fachärztin für Allgemeinmedizin,1.7 km,Moosacher Straße 23,80809 München,089 / 3 51 22 61
+1421,Medizinisches Versorgungszentrum für Innere Medizin,,1.8 km,Ingolstädter Straße 166,80939 München-Schwabing-Freimann,089 / 3 11 30 36
+1422,Herr Dr. med. Rainer Fischer,Facharzt für Allgemeinmedizin,1.9 km,Hörwarthstraße 33,80804 München,089 / 55 05 45 50
+1423,Herr Dr. med. Dr. med. vet. Ihor Harabacz,Praktischer Arzt,1.9 km,Luxemburger Straße 5,80805 München,089 / 3 61 54 25
+1424,Herr Dr. med. Christian Herold,Facharzt für Allgemeinmedizin,2 km,Ungererstraße 90,80805 München-Schwabing-Freimann,089 / 36 99 01
+1425,Lehelmed MVZ,,2 km,Am Ausbesserungswerk 8,80939 München,089 / 2 15 56 56 96
+1426,Herr Dr. med. Peter Powalka,Praktischer Arzt,2.1 km,Scheinerstraße 7,81679 München,089 / 36 70 88
+1427,Frau Dr. med. Angela Schindelhauer,Fachärztin für Allgemeinmedizin,2.1 km,Rheinstraße 31,80803 München,089 / 33 23 38
+1428,Herr Dr. med. Matthias Teutsch,Facharzt für Allgemeinmedizin,2.1 km,Potsdamer Straße 9,80802 München,089 / 34 55 11
+1429,Frau Dr. (IMF Temeschburg) Maria Maasz,Praktische Ärztin,2.2 km,Dientzenhoferstraße 64,80937 München-Milbertshofen-Am Hart,089 / 3 11 27 47
+1430,Herr Dr. Philip Schmitt,Facharzt für Allgemeinmedizin,2.2 km,Lerchenauer Straße 18,80809 München,089 / 87 76 73 00
+1431,Frau  Gisela Kinner,Praktische Ärztin,2.2 km,Bonner Platz 1,80803 München,089 / 3 61 28 14
+1432,Frau Dr. med. Natalia Panin,Fachärztin für Allgemeinmedizin,2.3 km,Weyprechtstraße 84,80937 München,089 / 3 11 61 36
+1433,Frau Dr. med. Martina Lemke,Fachärztin für Allgemeinmedizin,2.4 km,Helene-Mayer-Ring 14,80809 München,089 / 35 74 72 00
+1434,Herr Dr. med. Josef Fischer,"Facharzt für Allgemeinmedizin, Facharzt für Orthopädie",2.4 km,Angererstraße 9,80796 München,089 / 18 99 96 91
+1435,Frau Dr. med. Claudia Haseke,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",2.4 km,Schleißheimer Straße 224,80797 München-Schwabing-West,089 / 3 08 68 01
+1436,Frau Dr. Melanie Haesner,Fachärztin für Allgemeinmedizin,2.4 km,Schleißheimer Straße 440,80935 München,089 / 3 13 10 41
+1437,Frau  Diana Hartard,Praktische Ärztin,2.4 km,Helene-Mayer-Ring 14,80809 München,089 / 35 81 99 77
+1438,Frau Dr. med. Anne-Sophie Geier,Fachärztin für Allgemeinmedizin,2.4 km,Helene-Mayer-Ring 14,80809 München,089 / 43 31 42
+1439,Frau Dr. med. Behiye Findikci,Fachärztin für Allgemeinmedizin,2.4 km,Helene-Mayer-Ring 14,80809 München,01 76 / 30 37 61 24
+1440,Herr Dr. med. Kamyar Nowidi,Praktischer Arzt,2.4 km,Antonienstraße 3,80802 München,01 76 / 81 18 65 68
+1441,Herr Dr. med. Martin Motzo,"Facharzt für Orthopädie, Facharzt für Allgemeinmedizin",2.4 km,Helene-Mayer-Ring 14,80809 München,089 / 3 51 50 50
+1442,Frau  Maria Cruzado Silva,Fachärztin für Allgemeinmedizin,2.4 km,Karl-Köglsperger-Straße 29,80939 München,089 / 3 16 10 05
+1443,Frau Dr. med. Martina Lemke,Fachärztin für Allgemeinmedizin,0.2 km,Helene-Mayer-Ring 14,80809 München,089 / 35 74 72 00
+1444,Frau  Diana Hartard,Praktische Ärztin,0.2 km,Helene-Mayer-Ring 14,80809 München,089 / 35 81 99 77
+1445,Frau Dr. med. Anne-Sophie Geier,Fachärztin für Allgemeinmedizin,0.2 km,Helene-Mayer-Ring 14,80809 München,089 / 43 31 42
+1446,Frau Dr. med. Behiye Findikci,Fachärztin für Allgemeinmedizin,0.2 km,Helene-Mayer-Ring 14,80809 München,01 76 / 30 37 61 24
+1447,Herr Dr. med. Martin Motzo,"Facharzt für Orthopädie, Facharzt für Allgemeinmedizin",0.2 km,Helene-Mayer-Ring 14,80809 München,089 / 3 51 50 50
+1448,Frau Dr. med. Anita Willburger,Praktische Ärztin,0.9 km,Riesenfeldstraße 86 a,80809 München,089 / 3 54 60 46
+1449,Frau  Gabriela-Elena Schlemmer,Fachärztin für Allgemeinmedizin,0.9 km,Moosacher Straße 23,80809 München,089 / 3 51 22 61
+1450,Herr  Thomas Michael Klemme,Facharzt für Allgemeinmedizin,1.1 km,Schleißheimer Straße 267,80809 München-Milbertshofen-Am Hart,089 / 55 26 32 80
+1451,Herr Dr. Philip Schmitt,Facharzt für Allgemeinmedizin,1.2 km,Lerchenauer Straße 18,80809 München,089 / 87 76 73 00
+1452,Frau Dr. med. Birgit Braitacher,Fachärztin für Allgemeinmedizin,1.5 km,Knorrstraße 37,80807 München,089 / 3 56 93 21
+1453,Frau Dr. med. Gudrun Müller,Fachärztin für Allgemeinmedizin,1.5 km,Schopenhauerstraße 56,80807 München,089 / 95 69 96
+1454,Frau Dr. med. Mira Vidakovic,Fachärztin für Allgemeinmedizin,1.5 km,Knorrstraße 31,80807 München,089 / 35 66 36 32
+1455,Herr Dr. med. Robert Lauer,"Chefarzt, Facharzt für Innere Medizin und Kardiologie",1.5 km,Frankfurter Ring 15-17,80807 München,089 / 2 32 38 10
+1456,Herr Dr. med. Mark-Steven Braun,Facharzt für Allgemeinmedizin,1.6 km,Knorrstraße 16,80807 München,089 / 35 89 34 90
+1457,Herr Dr. medic. (Univ. Zagreb) Jovo Ljubicic,Praktischer Arzt,1.6 km,Kantstraße 2,80807 München,089 / 3 59 35 27
+1458,Frau  Farzaneh Daneshmand,Fachärztin für Allgemeinmedizin,1.6 km,Pelkovenstraße 143 - 147,80992 München,089 / 18 74 74
+1459,Ärztezentrum am OEZ,Medizinisches Versorgungszentrum,1.6 km,Hanauer Straße 56,80992 München-Moosach,089 / 14 90 34 03
+1460,Frau Dr. med. Claudia Haseke,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",1.6 km,Schleißheimer Straße 224,80797 München-Schwabing-West,089 / 3 08 68 01
+1461,Herr Dr. med. Hannes Blankenfeld,"Facharzt für Allgemeinmedizin, Facharzt für Innere Medizin",1.7 km,Winzerer Straße 142,80797 München,089 / 30 44 21
+1462,Frau Dr. med. Sevasti Kolsouzidou,Fachärztin für Allgemeinmedizin,1.7 km,Hanauer Straße 58,80992 München,089 / 1 47 27 26 70
+1463,Herr Dr. med. Alexander Stöckicht,Facharzt für Allgemeinmedizin,1.8 km,Deidesheimer Straße 14,80797 München,089 / 30 38 08
+1464,Stiftung Pfennigparade - Rehabilitationszentrum München,"Bereich Medizin, Therapie und Arztpraxis",1.8 km,Barlachstraße 26,80804 München-Schwabing-West,089 / 83 93 - 41 41
+1465,Frau  Johanna Schneider,Praktische Ärztin,1.9 km,Oberhofer Platz 4,80807 München,089 / 35 22 70
+1466,Frau Dr. med. Claudia Wehrig,Fachärztin für Allgemeinmedizin,1.9 km,Schmaedelstraße 29,81245 München,089 / 82 94 04 40
+1467,Frau Dr. med. (univ.) Ingrid San Nicolo Overbeck,Ärztin,2 km,Lerchenauer Straße 212,80935 München,089 / 3 54 40 49
+1468,Herr Dr. med. Rudolf Hörmann,Praktischer Arzt,2.1 km,Prochintalstraße 50,80993 München,089 / 1 49 48 62
+1469,Frau Dr. med. Astrid Schrader,"Fachärztin für Allgemeinmedizin, Fachärztin für Innere Medizin",2.1 km,Schleißheimer Straße 131,80797 München,089 / 3 00 87 86
+1470,Frau  Diana Vogel,"Fachärztin für Augenheilkunde, Fachärztin für Allgemeinmedizin",2.1 km,Helene-Weber-Allee 19,80637 München,089 / 1 59 40 40
+1471,Herr Dr. med. Frank Balkow,Facharzt für Allgemeinmedizin,2.1 km,Helene-Weber-Allee 19,80637 München,089 / 29 26 08
+1472,Frau Dr. Cornelia Kerscher,Fachärztin für Allgemeinmedizin,2.1 km,Clemensstraße 129,80796 München,089 / 6 88 58 80
+1473,Herr Dr. med. Josef Fischer,"Facharzt für Allgemeinmedizin, Facharzt für Orthopädie",2.2 km,Angererstraße 9,80796 München,089 / 18 99 96 91
+1474,Frau  Katja Gall,"Praktische Ärztin, Fachärztin für Kinder- und Jugendmedizin",2.2 km,Kölner Platz 1,80804 München,089 / 3 06 80
+1475,Frau Dr. med. Barbara Blume,Fachärztin für Allgemeinmedizin,2.3 km,Naumburger Straße 31,80993 München,089 / 1 49 52 52
+1476,Frau Dr. med. Elisabeth Reim,Praktische Ärztin,2.3 km,Mitterwieserstraße 3,80797 München,089 / 30 72 53 55
+1477,Herr Dr. med. Orest Marko Mialkowskyj,Facharzt für Allgemeinmedizin,2.3 km,Lassallestraße 95,80995 München,089 / 1 50 33 96
+1478,Frau Dr. med. Stephanie Jansen,Fachärztin für Allgemeinmedizin,2.3 km,Eduard-Schenk-Straße 36,80807 München,089 / 35 66 34 97
+1479,Frau Dr. med. Tanja Gaßmann,Fachärztin für Allgemeinmedizin,2.3 km,Nürnberger Straße 53,80637 München-Gern,089 / 15 37 45
+1480,Herr Dr. med. Grigorios Gotzamanis,Facharzt für Allgemeinmedizin,2.3 km,Lassallestraße 95,80995 München,089 / 1 50 33 95
+1481,Frau Dr. med. Kristina Radman,Fachärztin für Anästhesiologie,2.3 km,Waldmeisterstraße 72,80935 München,089 / 3 14 60 50
+1482,Frau Dr. medic. (Univ. Sarajevo) Vesela Janjic-Soravia,Fachärztin für Allgemeinmedizin,2.4 km,Ingolstädter Straße 1,80807 München-Milbertshofen,089 / 35 26 02
+1483,Frau Dr. Dimitra Avramidou-Neuböck,Fachärztin für Allgemeinmedizin,2.4 km,Eisenacher Straße 12,80804 München,089 / 36 65 80
+1484,Herr Dr. med. Benjamin Cossham,Facharzt für Allgemeinmedizin,2.4 km,Dom-Pedro-Straße 1,80637 München,089 / 12 39 17 10
+1485,MVZ Regensburg,,2.4 km,Pelkovenstraße 74,80992 München,089 / 14 29 19
+1486,Herr Dr. med. Franz Bayer,Facharzt für Allgemeinmedizin,0.4 km,Frühlingsanger 7,80933 München,089 / 3 13 19 44
+1487,Frau  Gerlind Krusche,Ärztin,0.5 km,Thelottstraße 2,80933 München,089 / 3 13 16 94
+1488,Herr Dr. med. Alexander Dipping,Facharzt für Allgemeinmedizin,0.5 km,Stösserstraße 16,80933 München,089 / 3 13 60 11
+1489,Herr Dr. med. Michael Gomke,Facharzt für Allgemeinmedizin,0.6 km,Ittlingerstraße 53,80933 München,089 / 3 14 73 14
+1490,Frau Dr. med. Alexandra M. Raßl,Fachärztin für Allgemeinmedizin,0.6 km,Ittlingerstraße 55,80933 München,089 / 3 13 36 84
+1491,Frau Dr. med. Bettina Voth-Klaubert,Fachärztin für Allgemeinmedizin,1 km,Weitlstraße 66,80935 München,089 / 3 14 86 46
+1492,Herr Dr. med. Markus Kemper,Facharzt für Allgemeinmedizin,1.2 km,Caracciolastraße 33,80935 München,089 / 3 13 14 13
+1493,Frau  Kremena Hofbauer,Fachärztin für Allgemeinmedizin,1.2 km,Rainfarnstraße 25,80935 München,089 / 3 13 22 22
+1494,Herr  Daniel Pompl,Facharzt für Allgemeinmedizin,1.2 km,Neuherbergstraße 100,80937 München,089 / 3 13 76 00
+1495,Frau  Anke Kraft,Fachärztin für Allgemeinmedizin,1.2 km,Neuherbergstraße 100,80937 München,089 / 3 13 76 00
+1496,Frau  Vaia Potolidu-Moukriotis,Fachärztin für Allgemeinmedizin,1.4 km,Schleißheimer Straße 429,80935 München,089 / 3 13 30 13
+1497,Frau Dr. med. Johanna Mack,Fachärztin für Allgemeinmedizin,1.6 km,Schleißheimer Straße 415,80935 München-Milbertshofen,089 / 3 14 80 14
+1498,Frau Dr. med. Natalia Panin,Fachärztin für Allgemeinmedizin,1.8 km,Weyprechtstraße 84,80937 München,089 / 3 11 61 36
+1499,Frau Dr. Melanie Haesner,Fachärztin für Allgemeinmedizin,1.8 km,Schleißheimer Straße 440,80935 München,089 / 3 13 10 41
+1500,Frau Dr. (IMF Temeschburg) Maria Maasz,Praktische Ärztin,2 km,Dientzenhoferstraße 64,80937 München-Milbertshofen-Am Hart,089 / 3 11 27 47
+1501,Frau Dr. med. Kristina Radman,Fachärztin für Anästhesiologie,2 km,Waldmeisterstraße 72,80935 München,089 / 3 14 60 50
+1502,Frau Dr. med. Martina Kougnigan,Fachärztin für Allgemeinmedizin,2.1 km,Grashofstraße 9a,80995 München,089 / 3 13 53 00
+1503,Herr Dr. med. Daniel Heitkamp,Facharzt für Allgemeinmedizin,2.1 km,Josef-Frankl-Straße 62,80995 München,089 / 3 13 26 40
+1504,Herr Dr. med. David Hermkes,Praktischer Arzt,2.3 km,Franz-Sperr-Weg 11-13,80995 München,089 / 1 50 32 45
+1505,Frau Dr. med. (univ.) Ingrid San Nicolo Overbeck,Ärztin,2.4 km,Lerchenauer Straße 212,80935 München,089 / 3 54 40 49
+1506,Frau  Ursula Kloppe,Fachärztin für Allgemeinmedizin,2.8 km,Sudetendeutschestraße 38,80937 München,089 / 3 16 46 85
+1507,Herr Dr. med. Orest Marko Mialkowskyj,Facharzt für Allgemeinmedizin,2.8 km,Lassallestraße 95,80995 München,089 / 1 50 33 96
+1508,Medizinisches Versorgungszentrum für Innere Medizin,,2.8 km,Ingolstädter Straße 166,80939 München-Schwabing-Freimann,089 / 3 11 30 36
+1509,Herr Dr. med. Grigorios Gotzamanis,Facharzt für Allgemeinmedizin,2.8 km,Lassallestraße 95,80995 München,089 / 1 50 33 95
+1510,Herr Dr. med. Franz Schmauß,Facharzt für Allgemeinmedizin,3 km,Wundtstraße 15,80939 München,089 / 3 11 78 00
+1511,Frau Dr. med. Angela Scholtes,Ärztin,3.2 km,Am Pfaffensteig 4,80995 München,089 / 2 01 04 61
+1512,Frau Dr. med. Julia Streber,Fachärztin für Allgemeinmedizin,3.3 km,Feldmochinger Straße 230,80995 München,089 / 1 50 26 95
+1513,Herr Dr. med. Jochem Renz,Facharzt für Allgemeinmedizin,3.5 km,Kohlröschenstraße 15,80995 München,089 / 1 50 10 50
+1514,Frau  Gabriela-Elena Schlemmer,Fachärztin für Allgemeinmedizin,3.5 km,Moosacher Straße 23,80809 München,089 / 3 51 22 61
+1515,Herr Dr. med. Robert Lauer,"Chefarzt, Facharzt für Innere Medizin und Kardiologie",3.5 km,Frankfurter Ring 15-17,80807 München,089 / 2 32 38 10
+1516,Frau Dr. med. Anita Willburger,Praktische Ärztin,3.7 km,Riesenfeldstraße 86 a,80809 München,089 / 3 54 60 46
+1517,Herr Dr. med. Henning Kasper,Facharzt für Innere Medizin und Allgemeinmedizin,3.7 km,Mittenheimer Straße 2,85764 Oberschleißheim,089 / 45 21 62 70
+1518,Frau Dr. med. Nicole Börner-Souidi,Fachärztin für Allgemeinmedizin,3.7 km,Dachauer Straße 15 a,85764 Oberschleißheim,089 / 3 15 03 93
+1519,Frau  Johanna Schneider,Praktische Ärztin,3.8 km,Oberhofer Platz 4,80807 München,089 / 35 22 70
+1520,Frau Dr. med. Martina Lemke,Fachärztin für Allgemeinmedizin,4 km,Helene-Mayer-Ring 14,80809 München,089 / 35 74 72 00
+1521,Frau  Diana Hartard,Praktische Ärztin,4 km,Helene-Mayer-Ring 14,80809 München,089 / 35 81 99 77
+1522,Frau Dr. med. Anne-Sophie Geier,Fachärztin für Allgemeinmedizin,4 km,Helene-Mayer-Ring 14,80809 München,089 / 43 31 42
+1523,Frau Dr. med. Behiye Findikci,Fachärztin für Allgemeinmedizin,4 km,Helene-Mayer-Ring 14,80809 München,01 76 / 30 37 61 24
+1524,Herr Dr. med. Martin Motzo,"Facharzt für Orthopädie, Facharzt für Allgemeinmedizin",4 km,Helene-Mayer-Ring 14,80809 München,089 / 3 51 50 50
+1525,Frau  Maria Cruzado Silva,Fachärztin für Allgemeinmedizin,4 km,Karl-Köglsperger-Straße 29,80939 München,089 / 3 16 10 05
+1526,Frau Dr. med. Birgit Braitacher,Fachärztin für Allgemeinmedizin,4.1 km,Knorrstraße 37,80807 München,089 / 3 56 93 21
+1527,Frau Dr. medic. (Univ. Sarajevo) Vesela Janjic-Soravia,Fachärztin für Allgemeinmedizin,4.2 km,Ingolstädter Straße 1,80807 München-Milbertshofen,089 / 35 26 02
+1528,Frau Dr. med. Mira Vidakovic,Fachärztin für Allgemeinmedizin,4.2 km,Knorrstraße 31,80807 München,089 / 35 66 36 32
+1529,Herr  Thomas Michael Klemme,Facharzt für Allgemeinmedizin,4.3 km,Schleißheimer Straße 267,80809 München-Milbertshofen-Am Hart,089 / 55 26 32 80
+1530,Frau Dr. med. Alexandra Bajorski-Brandt,Praktische Ärztin,4.4 km,Mittenheimer Straße 52,85764 Oberschleißheim,089 / 37 55 84 60
+1531,Herr Dr. med. Mark-Steven Braun,Facharzt für Allgemeinmedizin,4.4 km,Knorrstraße 16,80807 München,089 / 35 89 34 90
+1532,Frau  Farzaneh Daneshmand,Fachärztin für Allgemeinmedizin,4.4 km,Pelkovenstraße 143 - 147,80992 München,089 / 18 74 74
+1533,Frau Dr. med. Gudrun Müller,Fachärztin für Allgemeinmedizin,4.4 km,Schopenhauerstraße 56,80807 München,089 / 95 69 96
+1534,Frau Dr. med. Corinna Groß,Fachärztin für Allgemeinmedizin,4.4 km,Feierabendstraße 53,85764 Oberschleißheim,089 / 3 15 01 80
+1535,Frau Dr. med. Kristina Radman,Fachärztin für Anästhesiologie,0.5 km,Waldmeisterstraße 72,80935 München,089 / 3 14 60 50
+1536,Frau Dr. med. (univ.) Ingrid San Nicolo Overbeck,Ärztin,0.6 km,Lerchenauer Straße 212,80935 München,089 / 3 54 40 49
+1537,Herr Dr. med. Markus Kemper,Facharzt für Allgemeinmedizin,0.8 km,Caracciolastraße 33,80935 München,089 / 3 13 14 13
+1538,Frau  Kremena Hofbauer,Fachärztin für Allgemeinmedizin,0.8 km,Rainfarnstraße 25,80935 München,089 / 3 13 22 22
+1539,Frau Dr. med. Johanna Mack,Fachärztin für Allgemeinmedizin,0.9 km,Schleißheimer Straße 415,80935 München-Milbertshofen,089 / 3 14 80 14
+1540,Frau Dr. Melanie Haesner,Fachärztin für Allgemeinmedizin,0.9 km,Schleißheimer Straße 440,80935 München,089 / 3 13 10 41
+1541,Frau  Vaia Potolidu-Moukriotis,Fachärztin für Allgemeinmedizin,1 km,Schleißheimer Straße 429,80935 München,089 / 3 13 30 13
+1542,Herr Dr. med. David Hermkes,Praktischer Arzt,1.1 km,Franz-Sperr-Weg 11-13,80995 München,089 / 1 50 32 45
+1543,Herr Dr. med. Orest Marko Mialkowskyj,Facharzt für Allgemeinmedizin,1.4 km,Lassallestraße 95,80995 München,089 / 1 50 33 96
+1544,Herr Dr. med. Michael Gomke,Facharzt für Allgemeinmedizin,1.4 km,Ittlingerstraße 53,80933 München,089 / 3 14 73 14
+1545,Frau Dr. med. Alexandra M. Raßl,Fachärztin für Allgemeinmedizin,1.4 km,Ittlingerstraße 55,80933 München,089 / 3 13 36 84
+1546,Herr Dr. med. Grigorios Gotzamanis,Facharzt für Allgemeinmedizin,1.4 km,Lassallestraße 95,80995 München,089 / 1 50 33 95
+1547,Frau Dr. med. Natalia Panin,Fachärztin für Allgemeinmedizin,1.5 km,Weyprechtstraße 84,80937 München,089 / 3 11 61 36
+1548,Herr  Daniel Pompl,Facharzt für Allgemeinmedizin,1.5 km,Neuherbergstraße 100,80937 München,089 / 3 13 76 00
+1549,Frau  Anke Kraft,Fachärztin für Allgemeinmedizin,1.5 km,Neuherbergstraße 100,80937 München,089 / 3 13 76 00
+1550,Frau  Gabriela-Elena Schlemmer,Fachärztin für Allgemeinmedizin,1.6 km,Moosacher Straße 23,80809 München,089 / 3 51 22 61
+1551,Herr Dr. med. Franz Bayer,Facharzt für Allgemeinmedizin,1.7 km,Frühlingsanger 7,80933 München,089 / 3 13 19 44
+1552,Frau  Ursula Kloppe,Fachärztin für Allgemeinmedizin,1.8 km,Sudetendeutschestraße 38,80937 München,089 / 3 16 46 85
+1553,Frau Dr. med. Anita Willburger,Praktische Ärztin,1.8 km,Riesenfeldstraße 86 a,80809 München,089 / 3 54 60 46
+1554,Frau Dr. (IMF Temeschburg) Maria Maasz,Praktische Ärztin,1.9 km,Dientzenhoferstraße 64,80937 München-Milbertshofen-Am Hart,089 / 3 11 27 47
+1555,Herr Dr. med. Robert Lauer,"Chefarzt, Facharzt für Innere Medizin und Kardiologie",1.9 km,Frankfurter Ring 15-17,80807 München,089 / 2 32 38 10
+1556,Frau Dr. med. Martina Lemke,Fachärztin für Allgemeinmedizin,2 km,Helene-Mayer-Ring 14,80809 München,089 / 35 74 72 00
+1557,Frau  Diana Hartard,Praktische Ärztin,2 km,Helene-Mayer-Ring 14,80809 München,089 / 35 81 99 77
+1558,Frau Dr. med. Anne-Sophie Geier,Fachärztin für Allgemeinmedizin,2 km,Helene-Mayer-Ring 14,80809 München,089 / 43 31 42
+1559,Frau Dr. med. Behiye Findikci,Fachärztin für Allgemeinmedizin,2 km,Helene-Mayer-Ring 14,80809 München,01 76 / 30 37 61 24
+1560,Herr Dr. med. Martin Motzo,"Facharzt für Orthopädie, Facharzt für Allgemeinmedizin",2 km,Helene-Mayer-Ring 14,80809 München,089 / 3 51 50 50
+1561,Frau Dr. med. Julia Streber,Fachärztin für Allgemeinmedizin,2.1 km,Feldmochinger Straße 230,80995 München,089 / 1 50 26 95
+1562,Herr Dr. med. Jochem Renz,Facharzt für Allgemeinmedizin,2.4 km,Kohlröschenstraße 15,80995 München,089 / 1 50 10 50
+1563,Frau  Johanna Schneider,Praktische Ärztin,2.4 km,Oberhofer Platz 4,80807 München,089 / 35 22 70
+1564,Frau  Gerlind Krusche,Ärztin,2.4 km,Thelottstraße 2,80933 München,089 / 3 13 16 94
+1565,Frau Dr. med. Birgit Braitacher,Fachärztin für Allgemeinmedizin,2.5 km,Knorrstraße 37,80807 München,089 / 3 56 93 21
+1566,Herr Dr. med. Franz Schmauß,Facharzt für Allgemeinmedizin,2.5 km,Wundtstraße 15,80939 München,089 / 3 11 78 00
+1567,Herr  Thomas Michael Klemme,Facharzt für Allgemeinmedizin,2.5 km,Schleißheimer Straße 267,80809 München-Milbertshofen-Am Hart,089 / 55 26 32 80
+1568,Medizinisches Versorgungszentrum für Innere Medizin,,2.5 km,Ingolstädter Straße 166,80939 München-Schwabing-Freimann,089 / 3 11 30 36
+1569,Herr Dr. med. Daniel Heitkamp,Facharzt für Allgemeinmedizin,2.5 km,Josef-Frankl-Straße 62,80995 München,089 / 3 13 26 40
+1570,Herr Dr. med. Alexander Dipping,Facharzt für Allgemeinmedizin,2.5 km,Stösserstraße 16,80933 München,089 / 3 13 60 11
+1571,Frau  Farzaneh Daneshmand,Fachärztin für Allgemeinmedizin,2.6 km,Pelkovenstraße 143 - 147,80992 München,089 / 18 74 74
+1572,Frau Dr. med. Martina Kougnigan,Fachärztin für Allgemeinmedizin,2.6 km,Grashofstraße 9a,80995 München,089 / 3 13 53 00
+1573,Frau Dr. med. Mira Vidakovic,Fachärztin für Allgemeinmedizin,2.6 km,Knorrstraße 31,80807 München,089 / 35 66 36 32
+1574,Herr Dr. med. Mark-Steven Braun,Facharzt für Allgemeinmedizin,2.7 km,Knorrstraße 16,80807 München,089 / 35 89 34 90
+1575,Ärztezentrum am OEZ,Medizinisches Versorgungszentrum,2.7 km,Hanauer Straße 56,80992 München-Moosach,089 / 14 90 34 03
+1576,Frau Dr. med. Gudrun Müller,Fachärztin für Allgemeinmedizin,2.7 km,Schopenhauerstraße 56,80807 München,089 / 95 69 96
+1577,Frau Dr. med. Sevasti Kolsouzidou,Fachärztin für Allgemeinmedizin,2.7 km,Hanauer Straße 58,80992 München,089 / 1 47 27 26 70
+1578,Herr  Daniel Pompl,Facharzt für Allgemeinmedizin,0.6 km,Neuherbergstraße 100,80937 München,089 / 3 13 76 00
+1579,Frau  Anke Kraft,Fachärztin für Allgemeinmedizin,0.6 km,Neuherbergstraße 100,80937 München,089 / 3 13 76 00
+1580,Frau Dr. med. Natalia Panin,Fachärztin für Allgemeinmedizin,0.7 km,Weyprechtstraße 84,80937 München,089 / 3 11 61 36
+1581,Herr Dr. (IMF Temeschburg) Norbert Maasz,Praktischer Arzt,0.7 km,Dientzenhoferstraße 64,80937 München-Milbertshofen-Am Hart,089 / 3 11 27 47
+1582,Frau Dr. med. Johanna Mack,Fachärztin für Allgemeinmedizin,1.1 km,Schleißheimer Straße 415,80935 München-Milbertshofen,089 / 3 14 80 14
+1583,Frau  Vaia Potolidu-Moukriotis,Fachärztin für Allgemeinmedizin,1.1 km,Schleißheimer Straße 429,80935 München,089 / 3 13 30 13
+1584,Herr Dr. med. Franz Bayer,Facharzt für Allgemeinmedizin,1.3 km,Frühlingsanger 7,80933 München,089 / 3 13 19 44
+1585,Medizinisches Versorgungszentrum für Innere Medizin,,1.3 km,Ingolstädter Straße 166,80939 München-Schwabing-Freimann,089 / 3 11 30 36
+1586,Frau Dr. Melanie Haesner,Fachärztin für Allgemeinmedizin,1.3 km,Schleißheimer Straße 440,80935 München,089 / 3 13 10 41
+1587,Herr Dr. med. Markus Kemper,Facharzt für Allgemeinmedizin,1.4 km,Caracciolastraße 33,80935 München,089 / 3 13 14 13
+1588,Frau  Gerlind Krusche,Ärztin,1.4 km,Thelottstraße 2,80933 München,089 / 3 13 16 94
+1589,Frau Dr. med. Bettina Voth-Klaubert,Fachärztin für Allgemeinmedizin,1.5 km,Weitlstraße 66,80935 München,089 / 3 14 86 46
+1590,Herr Dr. med. Franz Schmauß,Facharzt für Allgemeinmedizin,1.6 km,Wundtstraße 15,80939 München,089 / 3 11 78 00
+1591,Frau  Ursula Kloppe,Fachärztin für Allgemeinmedizin,1.7 km,Sudetendeutschestraße 38,80937 München,089 / 3 16 46 85
+1592,Frau  Kremena Hofbauer,Fachärztin für Allgemeinmedizin,1.8 km,Rainfarnstraße 25,80935 München,089 / 3 13 22 22
+1593,Herr Dr. med. Alexander Dipping,Facharzt für Allgemeinmedizin,1.8 km,Stösserstraße 16,80933 München,089 / 3 13 60 11
+1594,Frau Dr. med. Kristina Radman,Fachärztin für Anästhesiologie,2.4 km,Waldmeisterstraße 72,80935 München,089 / 3 14 60 50
+1595,Frau  Maria Cruzado Silva,Fachärztin für Allgemeinmedizin,2.5 km,Karl-Köglsperger-Straße 29,80939 München,089 / 3 16 10 05
+1596,Frau Dr. med. (univ.) Ingrid San Nicolo Overbeck,Ärztin,2.7 km,Lerchenauer Straße 212,80935 München,089 / 3 54 40 49
+1597,Herr Dr. med. Robert Lauer,"Chefarzt, Facharzt für Innere Medizin und Kardiologie",2.7 km,Frankfurter Ring 15-17,80807 München,089 / 2 32 38 10
+1598,Frau  Johanna Schneider,Praktische Ärztin,2.8 km,Oberhofer Platz 4,80807 München,089 / 35 22 70
+1599,Frau  Gabriela-Elena Schlemmer,Fachärztin für Allgemeinmedizin,2.9 km,Moosacher Straße 23,80809 München,089 / 3 51 22 61
+1600,Lehelmed MVZ,,2.9 km,Am Ausbesserungswerk 8,80939 München,089 / 2 15 56 56 96
+1601,Frau Dr. med. Anita Willburger,Praktische Ärztin,3 km,Riesenfeldstraße 86 a,80809 München,089 / 3 54 60 46
+1602,Frau Dr. medic. (Univ. Sarajevo) Vesela Janjic-Soravia,Fachärztin für Allgemeinmedizin,3 km,Ingolstädter Straße 1,80807 München-Milbertshofen,089 / 35 26 02
+1603,Herr Dr. med. David Hermkes,Praktischer Arzt,3 km,Franz-Sperr-Weg 11-13,80995 München,089 / 1 50 32 45
+1604,Frau Dr. med. Birgit Braitacher,Fachärztin für Allgemeinmedizin,3.2 km,Knorrstraße 37,80807 München,089 / 3 56 93 21
+1605,Frau Dr. med. Mira Vidakovic,Fachärztin für Allgemeinmedizin,3.3 km,Knorrstraße 31,80807 München,089 / 35 66 36 32
+1606,Herr Dr. med. Orest Marko Mialkowskyj,Facharzt für Allgemeinmedizin,3.4 km,Lassallestraße 95,80995 München,089 / 1 50 33 96
+1607,Herr Dr. med. Grigorios Gotzamanis,Facharzt für Allgemeinmedizin,3.4 km,Lassallestraße 95,80995 München,089 / 1 50 33 95
+1608,Herr Dr. med. Mark-Steven Braun,Facharzt für Allgemeinmedizin,3.5 km,Knorrstraße 16,80807 München,089 / 35 89 34 90
+1609,Frau Dr. med. Gudrun Müller,Fachärztin für Allgemeinmedizin,3.5 km,Schopenhauerstraße 56,80807 München,089 / 95 69 96
+1610,Frau Dr. med. Martina Kougnigan,Fachärztin für Allgemeinmedizin,3.5 km,Grashofstraße 9a,80995 München,089 / 3 13 53 00
+1611,Herr Dr. med. Daniel Heitkamp,Facharzt für Allgemeinmedizin,3.5 km,Josef-Frankl-Straße 62,80995 München,089 / 3 13 26 40
+1612,Frau Dr. med. Martina Lemke,Fachärztin für Allgemeinmedizin,3.6 km,Helene-Mayer-Ring 14,80809 München,089 / 35 74 72 00
+1613,Herr  Thomas Michael Klemme,Facharzt für Allgemeinmedizin,3.6 km,Schleißheimer Straße 267,80809 München-Milbertshofen-Am Hart,089 / 55 26 32 80
+1614,Frau Dr. med. Stephanie Jansen,Fachärztin für Allgemeinmedizin,3.6 km,Eduard-Schenk-Straße 36,80807 München,089 / 35 66 34 97
+1615,Herr Dr. medic. (Univ. Zagreb) Jovo Ljubicic,Praktischer Arzt,3.6 km,Kantstraße 2,80807 München,089 / 3 59 35 27
+1616,Frau  Diana Hartard,Praktische Ärztin,3.6 km,Helene-Mayer-Ring 14,80809 München,089 / 35 81 99 77
+1617,Frau Dr. med. Anne-Sophie Geier,Fachärztin für Allgemeinmedizin,3.6 km,Helene-Mayer-Ring 14,80809 München,089 / 43 31 42
+1618,Frau Dr. med. Behiye Findikci,Fachärztin für Allgemeinmedizin,3.6 km,Helene-Mayer-Ring 14,80809 München,01 76 / 30 37 61 24
+1619,Herr Dr. med. Martin Motzo,"Facharzt für Orthopädie, Facharzt für Allgemeinmedizin",3.6 km,Helene-Mayer-Ring 14,80809 München,089 / 3 51 50 50
