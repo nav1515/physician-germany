@@ -40,27 +40,27 @@ if st.checkbox("Show Dataframe"):
     st.dataframe(data=munich_df)
     # st.table(munich_df)
 
-munich_geojson = gpd.read_file("../data/plz-5stellig-daten.geojson")
+#munich_geojson = gpd.read_file("../data/plz-5stellig-daten.geojson")
 
 # Füge die Bevölkerungsdichte zum GeoDataFrame hinzu (ersetze 'Density' durch den richtigen Spaltennamen)
-munich_geojson['Density'] = munich_df['Density']
+#munich_geojson['Density'] = munich_df['Density']
 
 # Erstelle eine benutzerdefinierte Karte mit Folium und GeoPandas
-munich_map = folium.Map(location=[munich_geojson['Latitude'].mean(), munich_geojson['Longitude'].mean()], zoom_start=11)
+#munich_map = folium.Map(location=[munich_geojson['Latitude'].mean(), munich_geojson['Longitude'].mean()], zoom_start=11)
 
 # Hinzufügen von GeoJSON-Daten mit Bevölkerungsdichte zur Karte
-folium.Choropleth(
-    geo_data=munich_geojson,
-    name='choropleth',
-    data=munich_geojson,
-    columns=['PLZ', 'Density'],
-    key_on='feature.properties.PLZ',
-    fill_color='YlGnBu',
-    fill_opacity=0.7,
-    line_opacity=0.2,
-    legend_name='Population Density'
-).add_to(munich_map)
+# folium.Choropleth(
+#     geo_data=munich_geojson,
+#     name='choropleth',
+#     data=munich_geojson,
+#     columns=['PLZ', 'Density'],
+#     key_on='feature.properties.PLZ',
+#     fill_color='YlGnBu',
+#     fill_opacity=0.7,
+#     line_opacity=0.2,
+#     legend_name='Population Density'
+# ).add_to(munich_map)
 
-# Streamlit-Anzeige der Karte
-st.subheader("Bevölkerungsdichte in München")
-st.pydeck_chart(munich_map)
+# # Streamlit-Anzeige der Karte
+# st.subheader("Bevölkerungsdichte in München")
+# st.pydeck_chart(munich_map)
